@@ -1,0 +1,317 @@
+{
+  "ma_number": "MA000038",
+  "award_name": "Road Transport and Distribution Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000038.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 114,
+  "last_amended": null,
+  "coverage": "4.1 This industry award covers employers throughout Australia in the road transport and\ndistribution industry and their employees in the classifications listed in Schedule A\u2014\nClassification Definitions for Distribution Facility Employees and Schedule B\u2014\nClassification Structure to the exclusion of any other modern award.\n4.2 The road transport and distribution industry means:\n(a) the transport by road of goods, wares, merchandise, material or anything\nwhatsoever whether in its raw state or natur",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": 25.0,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "............................................................................................................ 25",
+    "penalty_rates_clause": "21. Overtime ..................................................................................................................... 39",
+    "overtime_clause": "21. Overtime ..................................................................................................................... 39",
+    "allowances_clause": "17. Minimum rates\n[Varied by PR720159; corrected by PR720995; varied by PR718856, PR729292, PR740718, PR762147,\nPR767887, PR773922, PR786575]\n17.1 Minimum rates\u2014employees other than oil distribution workers\nAn employer must pay adult employees the following minimum rates for ordinary\nhours worked by the employee:\n(a) Transport employees\n[17.1(a) varied by PR718856, PR729292, PR740718, PR762147, PR773922, PR786575 ppc 01Jul25]\nEmployee classification Minimum weekly Minimum hourly\nrate rate\n(full-time employee)\n$ $\nTransport Worker Grade 1 974.70 25.65\nTransport Worker Grade 2 998.10 26.27\nTransport Worker Grade 3 1009.60 26.57\nTransport Worker Grade 4 1027.40 27.04\nTransport Worker Grade 5 1040.20 27.37\nTransport Worker Grade 6 1052.00 27.68\nTransport Worker Grade 7 1067.30 28.09\nTransport Worker Grade 8 1098.30 28.90\nMA000038 25\nRoad Transport and Distribution Award 2020\nEmployee classification Minimum weekly Minimum hourly\nrate rate\n(full-time employee)\n$ $\nTransport Worker Grade 9 1116.70 29.39\nTransport Worker Grade 10 1144.40 30.12\n(b) Distribution facility employees\n[17.1(b) varied by PR718856, PR729292, PR740718, PR762147, PR773922, PR786575 ppc 01Jul25]\nEmployee classification Minimum weekly Minimum hourly\nrate rate\n(full-time employee)\n$ $\nDistribution facility employee level 1 1009.60 26.57\nDistribution facility employee level 2 1027.40 27.04\nDistribution facility employee level 3 1067.30 28.09\nDistribution facility employee level 4 1116.70 29.39\nNOTE: Minimum rates for employees engaged in vehicle relocation and/or\ndistribution as defined in clause 4.2(j) are affected by transitional provisions\ncontained in clause 17.7.\n17.2 Minimum rates\u2014oil distribution workers\n[17.2 varied by PR718856, PR729292, PR740718, PR762147, PR773922, PR786575 ppc 01Jul25]\nAn employer must pay adult employees the following minimum rates for ordinary\nhours worked by the employee:\n26 MA000038\nRoad Transport and Distribution Award 2020\nEmployee classification Minimum weekly rate Minimum hourly rate\n(full-time employee)\n$ $\nTransport Worker Grade 1 974.70 27.85\nTransport Worker Grade 2 998.10 28.52\nTransport Worker Grade 3 1009.60 28.85\nTransport Worker Grade 4 1027.40 29.35\nTransport Worker Grade 5 1040.20 29.72\nTransport Worker Grade 6 1052.00 30.06\nTransport Worker Grade 7 1067.30 30.49\nTransport Worker Grade 8 1098.30 31.38\nTransport Worker Grade 9 1116.70 31.91\nTransport Worker Grade 10 1144.40 32.70\nNOTE: See Schedule C\u2014Summary of Hourly Rates of Pay for a summary of hourly\nrates of pay including overtime and penalty rates.\n17.3 Junior employee rates\n[17.3(a) varied by PR767887 ppc 31Dec23]\n(a) Junior employees will be entitled to a percentage of the applicable adult rate\nfor their classification as follows:\nAge % of applicable adult minimum\nhourly rate\nUnder 19 years 70\nMA000038 27\nRoad Transport and Distribution Award 2020\nAge % of applicable adult minimum\nhourly rate\n19 years 80\n20 years 100\n(b) Where a junior employee aged 18 years or more is required to drive a motor\nvehicle and is in sole charge of that vehicle, the employee must be paid the\nadult rate assigned to the class of driving work that the employee is required\nto perform.\n17.4 Higher duties\nWhere an employee is required to perform 2 or more grades of work on any one\nday, the employee is to be paid the minimum rate for the highest grade for the\nwhole day.\n17.5 Supported wage system\nFor employees who because of the effects of a disability are eligible for a supported\nwage see Schedule E\u2014Supported Wage System.\n17.6 National training wage\n[17.6(a) varied by PR720159 ppc 18Jun20]\n(a) Schedule E to the Miscellaneous Award 2020 sets out minimum wage rates\nand conditions for employees undertaking traineeships.\n[17.6(b) varied by PR720159 ppc 18Jun20, PR718856, PR729292, PR740718, PR762147, PR773922, PR786575\nppc 01Jul25]\n(b) This award incorporates the terms of Schedule E to the Miscellaneous\nAward 2020 as at 1 July 2025. Provided that any reference to \u201cthis award\u201d in\nSchedule E to the Miscellaneous Award 2020 is to be read as referring to the\nRoad Transport and Distribution Award 2020 and not the Miscellaneous\nAward 2020.\n17.7 Transitional provisions\u2014vehicle distribution and/or relocation\n[17.7 corrected by PR720995 ppc 04May20]\nThe minimum wages for employees engaged in the distribution and/or relocation of\nvehicles as defined in clause 4.2(j) will be as follows:\n28 MA000038\nRoad Transport and Distribution Award 2020\n(a) From 1 July 2019 to 30 June 2020\nThe National Minimum Wage plus two-thirds of the difference between the\nNational Minimum Wage and the applicable minimum rate in clause 17.1.\n(b) From 1 July 2020 onwards\nThe applicable minimum rate in clause 17.1."
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Employee classification",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Transport Worker Grade 1",
+        "974.70",
+        "25.65"
+      ],
+      [
+        "Transport Worker Grade 2",
+        "998.10",
+        "26.27"
+      ],
+      [
+        "Transport Worker Grade 3",
+        "1009.60",
+        "26.57"
+      ],
+      [
+        "Transport Worker Grade 4",
+        "1027.40",
+        "27.04"
+      ],
+      [
+        "Transport Worker Grade 5",
+        "1040.20",
+        "27.37"
+      ],
+      [
+        "Transport Worker Grade 6",
+        "1052.00",
+        "27.68"
+      ],
+      [
+        "Transport Worker Grade 7",
+        "1067.30",
+        "28.09"
+      ],
+      [
+        "Transport Worker Grade 8",
+        "1098.30",
+        "28.90"
+      ]
+    ],
+    [
+      [
+        "Employee classification",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Transport Worker Grade 9",
+        "1116.70",
+        "29.39"
+      ],
+      [
+        "Transport Worker Grade 10",
+        "1144.40",
+        "30.12"
+      ]
+    ],
+    [
+      [
+        "Employee classification",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Distribution facility employee level 1",
+        "1009.60",
+        "26.57"
+      ],
+      [
+        "Distribution facility employee level 2",
+        "1027.40",
+        "27.04"
+      ],
+      [
+        "Distribution facility employee level 3",
+        "1067.30",
+        "28.09"
+      ],
+      [
+        "Distribution facility employee level 4",
+        "1116.70",
+        "29.39"
+      ]
+    ],
+    [
+      [
+        "Employee classification",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Transport Worker Grade 1",
+        "974.70",
+        "27.85"
+      ],
+      [
+        "Transport Worker Grade 2",
+        "998.10",
+        "28.52"
+      ],
+      [
+        "Transport Worker Grade 3",
+        "1009.60",
+        "28.85"
+      ],
+      [
+        "Transport Worker Grade 4",
+        "1027.40",
+        "29.35"
+      ],
+      [
+        "Transport Worker Grade 5",
+        "1040.20",
+        "29.72"
+      ],
+      [
+        "Transport Worker Grade 6",
+        "1052.00",
+        "30.06"
+      ],
+      [
+        "Transport Worker Grade 7",
+        "1067.30",
+        "30.49"
+      ],
+      [
+        "Transport Worker Grade 8",
+        "1098.30",
+        "31.38"
+      ],
+      [
+        "Transport Worker Grade 9",
+        "1116.70",
+        "31.91"
+      ],
+      [
+        "Transport Worker Grade 10",
+        "1144.40",
+        "32.70"
+      ]
+    ],
+    [
+      [
+        "",
+        "Ordinary hours",
+        "Saturday",
+        "Sunday",
+        "Public holiday",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Good Friday & Christmas Day",
+        "Any other public holiday"
+      ],
+      [
+        "",
+        "% of ordinary hourly rate1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "125%",
+        "175%",
+        "225%",
+        "325%",
+        "275%"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Transport Worker Grade 1",
+        "34.81",
+        "48.74",
+        "62.66",
+        "90.51",
+        "76.59"
+      ],
+      [
+        "Transport Worker Grade 2",
+        "35.65",
+        "49.91",
+        "64.17",
+        "92.69",
+        "78.43"
+      ],
+      [
+        "Transport Worker Grade 3",
+        "36.06",
+        "50.49",
+        "64.91",
+        "93.76",
+        "79.34"
+      ],
+      [
+        "Transport Worker Grade 4",
+        "36.69",
+        "51.36",
+        "66.04",
+        "95.39",
+        "80.71"
+      ],
+      [
+        "Transport Worker Grade 5",
+        "37.15",
+        "52.01",
+        "66.87",
+        "96.59",
+        "81.73"
+      ],
+      [
+        "Transport Worker Grade 6",
+        "37.58",
+        "52.61",
+        "67.64",
+        "97.70",
+        "82.67"
+      ],
+      [
+        "Transport Worker Grade 7",
+        "38.11",
+        "53.36",
+        "68.60",
+        "99.09",
+        "83.85"
+      ],
+      [
+        "Transport Worker Grade 8",
+        "39.23",
+        "54.92",
+        "70.61",
+        "101.99",
+        "86.30"
+      ],
+      [
+        "Transport Worker Grade 9",
+        "39.89",
+        "55.84",
+        "71.80",
+        "103.71",
+        "87.75"
+      ],
+      [
+        "Transport Worker Grade 10",
+        "40.88",
+        "57.23",
+        "73.58",
+        "106.28",
+        "89.93"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Road Transport and Distribution Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794735 and PR795771).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n20\u2014Superannuation\n29A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR742720, PR747353, PR750537, PR774746, PR777999]\nPart 1\u2014 Application and Operation of this Award .............................................................. 4\n1. Title and commencement ............................................................................................. 4\n2. Definitions ..................................................................................................................... 4\n3. The National Employment Standards and this award .................................................. 9\n4. Coverage ..................................................................................................................... 10\n5. Individual flexibility arrangements ............................................................................. 12\n6. Requests for flexible working arrangements .............................................................. 14\n7. Facilitative provisions .................................................................................................. 14\nPart 2\u2014 Types of Employment and Classifications ............................................................ 15\n8. Types of employment ................................................................................................. 15\n9. Full-time employees ................................................................................................... 16\n10. Part-time employees ................................................................................................... 16\n11. Casual employees ....................................................................................................... 17\nMA000038 1\nRoad Transport and Distribution Award 2020\n12. Classifications .............................................................................................................. 18\nPart 3\u2014 Hours of Work .................................................................................................... 18\n13. Ordinary hours of work and roster cycles\u2014employees other than oil distribution\nworkers 18\n14. Ordinary hours of work and roster cycles\u2014oil distribution workers.......................... 21\n14A. Employee right to disconnect ..................................................................................... 22\n15. Start times ................................................................................................................... 23\n16. Breaks .......................................................................................................................... 24\nPart 4\u2014 Wages and Allowances ....................................................................................... 25\n17. Minimum rates ............................................................................................................ 25\n18. Payment of wages ....................................................................................................... 29\n19. Allowances .................................................................................................................. 30\n20. Superannuation........................................................................................................... 37\nPart 5\u2014 Overtime and Penalty Rates ............................................................................... 39\n21. Overtime ..................................................................................................................... 39\n22. Shiftwork ..................................................................................................................... 42\n23. Penalty rates ............................................................................................................... 45\nPart 6\u2014 Leave and Public Holidays .................................................................................. 47\n24. Annual leave................................................................................................................ 47\n25. Personal/carer\u2019s leave and compassionate leave ....................................................... 53\n26. Parental leave and related entitlements..................................................................... 53\n27. Community service leave ............................................................................................ 53\n28. Family and domestic violence leave ........................................................................... 54\n2 MA000038\nExposure draft\u2014Road Transport and Distribution Award 20XX\n29. Public holidays ............................................................................................................ 54\nPart 7\u2014 Workplace Delegates, Consultation and Dispute Resolution ................................ 55\n29A. Workplace delegates\u2019 rights ........................................................................................ 55\n30. Consultation about major workplace change ............................................................. 59\n31. Consultation about changes to rosters or hours of work ........................................... 60\n32. Dispute resolution ....................................................................................................... 60\n33. Dispute resolution training leave ................................................................................ 62\nPart 8\u2014 Termination of employment and Redundancy..................................................... 64\n34. Termination of employment ....................................................................................... 64\n35. Redundancy ................................................................................................................ 65\nSchedule A \u2014Classification Definitions for Distribution Facility Employees ....................... 67\nSchedule B \u2014Classification Structure ............................................................................... 70\nSchedule C \u2014Summary of Hourly Rates of Pay ................................................................. 74\nSchedule D \u2014Summary of Monetary Allowances ........................................................... 102\nSchedule E \u2014Supported Wage System ........................................................................... 107\nSchedule F \u2014Agreement to Take Annual Leave in Advance............................................. 111\nSchedule G \u2014Agreement to Cash Out Annual Leave ....................................................... 113\nMA000038 3\nRoad Transport and Distribution Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n1.1 This award is the Road Transport and Distribution Award 2020.\n1.2 This modern award commenced operation on 1 January 2010. The terms of the award\nhave been varied since that date.\n1.3 A variation to this award does not affect any right, privilege, obligation or liability that\na person acquired, accrued or incurred under the award as it existed prior to that\nvariation.\n2. Definitions\n[Varied by PR733899, PR774746, PR777265, PR795771]\nIn this award, unless the contrary intention appears:\nAct means the Fair Work Act 2009 (Cth).\naerodrome attendant means an employee who is employed principally in driving\nand/or operating any aviation refuelling or servicing unit or equipment or hydrant\ndispensing system at an aerodrome to deliver aviation fuels, lubricants and/or other\naviation products to aircraft and in receiving, storing and distributing such fuels,\nlubricants and other products at an aerodrome depot, including the performance as\nrequired of all tasks ancillary to such receipt, storage, distribution and delivery.\nProvided that this definition does not exclude allocation by the employer of other\nduties connected with the safe and efficient operation of vehicles, plant and\nequipment, the general tidiness of facilities at an airport depot, and the safety of\npersonnel, or the bridging of stocks from terminals or depots to airports by an\naerodrome attendant. This definition does not include coxswains or motorboat\ndrivers operating refuelling units at a flying-boat base.\nall purposes means the payment will be included in the rate of pay of an employee\nwho is entitled to the allowance, when calculating any penalties or loadings or\npayment while they are on annual leave.\nancillary vehicles and/or equipment means mechanically powered vehicles and/or\nequipment (other than trucks) used by employers in the loading, unloading,\nMA000038 4\nRoad Transport and Distribution Award 2020\nstacking, moving, sorting or handling of goods and/or materials in connection with\nwork which is part of, or ancillary to, the business of the employer.\narticulated vehicle means a vehicle with 3 or more axles, comprising a power unit\n(called a prime mover, tractor truck etc.) and a semi-trailer which is superimposed\non the power unit and coupled together by means of a king-pin and revolving on a\nturn-table and is articulated whether automatically detachable or permanently\ncoupled.\n[Definition of casual employee inserted by PR733899 from 27Sep21; varied by PR777265 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\ncourier means an employee who is engaged as a courier and who uses a passenger\ncar or station wagon, light commercial van, motorcycle or bicycle or who delivers on\nfoot, in the course of such employment.\ncrane chaser/dogger means a person who holds a certificate of competency as a\ncrane chaser from an appropriate authority.\ncrane offsider means an employee who has the responsibility to supervise the\nsetting up of a mobile crane and/or carry out the work of slinging loads and to\ncontrol the movement of loads when handled by lifting appliances.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\ndirty material means bituminous products, black lead, briquettes, charcoal, coal,\ncoke, plumbago, graphite, manganese, lime, tallite, limil, plaster, plaster of paris, red\noxide, zinc oxide, Quickardo cement, superphosphate, rock phosphate, dicalcic\nphosphate, yellow ochre, red ochre, empty flour-bags, supercel in jute bags, stone\ndust, garbage, street sweepings, tar, sludge, used oil, liquid petroleum gas, shives of\nflax when carted as a full load.\ndistribution facility means a facility from which goods are distributed by road (and\nat which such goods may be stored for the purposes of subsequent distribution)\nwhich is operated by an employer as part of or in connection with a road transport\nbusiness of that employer.\nMA000038 5\nRoad Transport and Distribution Award 2020\ndistribution facility employee means an employee defined in Schedule A\u2014\nClassification Definitions for Distribution Facility Employees of this award.\ndouble-articulated vehicle means a vehicle with 4 or more axles, comprising a\npower unit (called tractor truck, prime mover, etc.) and semi-trailer (called dolly\ntrailer) which is superimposed on the power unit, which in turn has a load-carrying\nsemi-trailer superimposed upon the dolly trailer, both semi-trailers and the power\nunit being coupled together by means of king-pins and revolving on turn-tables and\nare articulated whether automatically detachable or permanently coupled.\ndriver-salesperson means an employee who is entrusted by the employer with\ngoods or articles for sale and is required to exercise sales skills in competition with\nother salespeople in respect of such goods or articles in the normal course of duty,\nand who is not in receipt of a commission upon goods or articles sold. The term\n\u2018driver-salesperson\u2019 does not include a driver who is entrusted with goods or articles\nfor delivery to customers in such quantities as such customers require.\nemployee means national system employee within the meaning of the Act.\nemployee handling money means an employee who collects or pays out money,\nexcluding non-negotiable cheques, and who is responsible for the safe custody of\nthe amounts so collected to be paid out.\n[Definition of employee organisation inserted by PR774746; substituted retrospectively by PR795771 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means national system employer within the meaning of the Act.\n[Definition of enterprise inserted by PR774746 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nfatigue management rules/regulations means Commonwealth, State or Territory\nlaws controlling driving and working hours of heavy vehicle operators or fatigue\nmanagement.\nfurniture means any article of household and/or office furniture or whitegoods\nwhich are completely manufactured and ready for use, and includes furniture being\ntransported from a manufacturer to a retail store unless such furniture is crated, in\ncartons or otherwise covered.\n6 MA000038\nRoad Transport and Distribution Award 2020\ngreaser and cleaner includes a person required to refuel motor vehicles at a depot,\nyard or garage.\ngross combination mass or GCM means the maximum permissible mass (whether\ndescribed as the gross train mass or otherwise) for the motor vehicle and the\ntrailer(s) or semi-trailer(s) attached to it, together with the load carried on each, as\nstated in any certificate of registration or other certificate that is issued in respect of\nthe motor vehicle by the relevant authority or by the corresponding authority of\nanother State or Territory or that is required by law to be painted or displayed on\nthe motor vehicle.\ngross vehicle mass or GVM means the maximum permissible mass (whether\ndescribed as the gross train vehicle mass or otherwise) for the motor vehicle and its\nload (but excluding any trailer and its load) as stated in a certificate of registration or\nother certificate that is issued in respect of the motor vehicle by the relevant\nauthority or by the corresponding authority of another State or Territory or that is\nrequired by the law to be painted or displayed on the motor vehicle.\ninterstate operation means an operation involving a vehicle moving livestock or\nmaterials whether in a raw or manufactured state from a principal point of\ncommencement in one State or Territory to a principal point of destination in\nanother State or Territory. Provided that to be an interstate operation the distance\ninvolved must exceed 200 kilometres, for any single journey. An area within a radius\nof 32 kilometres from the GPO of a capital city will be deemed to be the capital city.\nlivestock means horses, cattle, sheep, pigs, goats or poultry.\nloader means an employee engaged in loading or unloading any goods, wares,\nmerchandise or materials onto or from any vehicle and in work incidental to such\nloading or unloading; and a person engaged as a motor driver\u2019s assistant but who\nperforms work on the waterfront of the nature usually performed by a loader will be\ndeemed to be a loader whilst performing such work.\nlong distance operation means any interstate operation, or any return journey\nwhere the distance travelled exceeds 500 kilometres and the operation involves a\nvehicle moving livestock or materials whether in a raw or manufactured state from a\nprincipal point of commencement to a principal point of destination. An area within\na radius of 32 kilometres from the GPO of a capital city will be deemed to be the\ncapital city.\nlow loader means a vehicle consisting of a tandem drive prime mover and a\ngooseneck semi-trailer (not being a drop deck semi-trailer) with a loading area of\nMA000038 7\nRoad Transport and Distribution Award 2020\nthe semi-trailer a maximum of one metre off the ground. The prime mover and\ngooseneck semi-trailer being designed and manufactured and plated to operate at\nthe required mass limits.\nmotor driver\u2019s assistant means any employee who accompanies the driver to assist\nin loading or unloading or delivering.\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNES means the National Employment Standards as contained in sections 59 to 131\nof the Fair Work Act 2009 (Cth).\nNon-continuous afternoon or night means work on any afternoon or night shift\nwhich does not continue for at least 5 consecutive afternoons or nights.\noffensive material means bone-dust, bones, blood, manure, dead animals, offal, fat\nincluding that which is carted from hotels and restaurants or other places in\nkerosene tins, tallow in second-hand casks or in second-hand iron or steel drums,\ngreen skins, raw hides and sheep-skins when fly-blown or maggoty, sausage skin\ncasings (except when packed in non-leaky containers for consumption), salt-cake,\nspent oxide, hair and fleshings, soda ash, muriate of potash, sulphur ex-wharf,\nsheep\u2019s trotters (known as pie), sulphuric acid of a strength of 96% or 98% in cases\nin which the carter is required to handle individual jars, horse, cow or pig manure,\nmeat-meal, liver meal, blood meal and TNT.\non-hire means the on-hire of an employee by their employer to a client, where such\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\nordinary hourly rate means the hourly rate for the employee\u2019s classification\nspecified in clause 17\u2014Minimum rates, plus any allowances specified as being\nincluded in the employee\u2019s ordinary hourly rate or payable for all purposes.\nquarried materials means any material and/or by-product of any material, excluding\ncoal and coal-related products, which has been removed from a quarry, sand pit, or\na mine, provided that such material is for use in manufacturing or construction\npurposes. Quarried materials also means slag and slag by-products, excluding\ncoal-slag products.\nradio operator means an employee whose major duties are staffing of a mobile\ntwo-way radio system, data entry dispatch system, voice dispatch system and/or any\n8 MA000038\nRoad Transport and Distribution Award 2020\nother form of dispatch system and include all instruction relating to the movement\nof goods and/or freight.\nroad-train vehicle means a rigid vehicle to which are coupled 2 or more trailers, or\nan articulated vehicle to which is coupled one or more trailer(s).\nroad transport and distribution industry has the meaning given in clause 4.2.\n[Definition of small business employer inserted by PR774746 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nstandard rate means the minimum weekly rate for a Transport worker grade 3 in\nclause 17\u2014Minimum rates.\ntransport rigger means a person engaged in the movement of plant or equipment\nas part of the transport task who holds a certificate of competency from an\nappropriate authority.\ntruck loading crane means a crane which is mounted on a truck or trailer and which\nis used for the purpose of loading or unloading loads from the truck or trailer on\nwhich the crane is mounted.\n[Definition of workplace delegate inserted by PR774746 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\nyardperson means an employee not otherwise specified, employed in, or in\nconnection with a depot, yard or garage, but does not include any person exclusively\nemployed as a skilled tradesperson.\n3. The National Employment Standards and this award\n3.1 The National Employment Standards (NES) and"
+}

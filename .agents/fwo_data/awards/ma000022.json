@@ -1,0 +1,194 @@
+{
+  "ma_number": "MA000022",
+  "award_name": "Cleaning Services Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000022.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 63,
+  "last_amended": null,
+  "coverage": "[Varied by PR743414]\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the contract cleaning services industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nDefinitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, contract cleaning services industry means the\nbusiness of providing cleaning services under a contract and includes:\n(a) cleaning, including event cleaning;",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": null,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "........................................................................................................... 15",
+    "penalty_rates_clause": "19. Overtime ..................................................................................................................... 23",
+    "overtime_clause": "19. Overtime ..................................................................................................................... 23",
+    "allowances_clause": "15. Minimum rates\n[Varied by PR720159, PR718839, PR723827, PR729277, PR740698, PR762131, PR773907, PR786560]\n15.1 Adult rates\n[15.1 varied by PR718839, PR729277, PR740698, PR762131, PR773907, PR786560 ppc 01Jul25]\nAn employer must pay an employee the rate applicable to the employee\u2019s classification\nspecified in column 1 of Table 2\u2014Minimum rates for ordinary hours of work.\nTable 2\u2014Minimum rates\nColumn 1 Column 2 Column 3\nCleaning Services Minimum weekly rate Minimum hourly rate\nEmployee classification\n(full-time employee)\n$ $\nLevel 1 982.20 25.85\nLevel 2 1014.70 26.70\nLevel 3 1068.40 28.12\nNOTE 1: Adult employee is defined in clause 2\u2014Definitions.\nNOTE 2: Provisions for calculating rates for a junior employee of a shopping trolley\ncollection contractor are at clause 15.2\u2014Junior rates (employees of shopping trolley\ncollection contractors).\nNOTE 3: Provisions for calculating rates for part-time employees are at\nclause 10.2 (Part-time employees) and are based on the minimum hourly rate specified\nin column 3.\nNOTE 4: Provisions for calculating rates for casual employees are at\nclause 11.2 (Casual employees) and are based on the minimum hourly rate specified\nin column 3.\nNOTE 5: Schedule B\u2014Summary of Hourly Rates of Pay sets out the hourly rates of\npay including overtime rates and penalty rates.\nMA000022 15\nCleaning Services Award 2020\n15.2 Junior rates (employees of shopping trolley collection contractors)\nNOTE: Junior employee is defined in clause 2\u2014Definitions.\nAn employer who is a shopping trolley collection contractor must pay a junior\nemployee aged as specified in column 1 of Table 3\u2014Junior rates (employees of\nshopping trolley collection contractors) the minimum percentage specified in\ncolumn 2 of the minimum rate that would otherwise be applicable under Table 2\u2014\nMinimum rates:\nTable 3\u2014Junior rates (employees of shopping trolley collection contractors)\nColumn 1 Column 2\nAge Minimum % of\nminimum adult rate\nUnder 16 years of age 45\n16 years of age 50\n17 years of age 60\n18 years of age 70\n19 years of age 80\n20 years of age 90\nNOTE: Schedule B\u2014Summary of Hourly Rates of Pay sets out the hourly rates of pay\nincluding overtime rates and penalty rates.\n15.3 Higher duties\n(a) An employer must pay an employee who performs for 4 or more hours on any\nparticular day duties of a classification higher than the employee\u2019s ordinary\nclassification the minimum hourly rate specified in column 3 of Table 2\u2014\nMinimum rates for that higher classification for the whole of that day.\n(b) An employer must pay an employee who performs for less than 4 hours on any\nparticular day duties of a classification higher than the employee\u2019s ordinary\nclassification the minimum hourly rate specified in column 3 of Table 2\u2014\nMinimum rates for that higher classification for the time during which those\nduties were performed.\n15.4 Supported wage system\nFor employees who, because of the effects of a disability, are eligible for a supported\nwage, see Schedule D\u2014Supported Wage System.\n15.5 National training wage\n[15.5(a) varied by PR720159 ppc 18Jun20]\n(a) Schedule E to the Miscellaneous Award 2020 sets out minimum wage rates and\nconditions for employees undertaking traineeships.\n16 MA000022\nCleaning Services Award 2020\n[15.5(b) varied by PR720159, PR723827, PR729277, PR740698, PR762131, PR773907, PR786560 ppc 01Jul25]\n(b) This award incorporates the terms of Schedule E to the Miscellaneous\nAward 2020 as at 1 July 2025. For that purpose, any reference to \u201cthis award\u201d in\nSchedule E to the Miscellaneous Award 2020 is to be read as referring to the\nCleaning Services Award 2020 and not the Miscellaneous Award 2020.\n[15.5(c) inserted by PR718839; deleted by PR723827 ppc 01Nov20]"
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Column 1 Cleaning Services Employee classification",
+        "Column 2 Minimum weekly rate (full-time employee)",
+        "Column 3 Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Level 1",
+        "982.20",
+        "25.85"
+      ],
+      [
+        "Level 2",
+        "1014.70",
+        "26.70"
+      ],
+      [
+        "Level 3",
+        "1068.40",
+        "28.12"
+      ]
+    ],
+    [
+      [
+        "Margaret is a part-time Level 1 employee. She works a non-permanent 5 hour shift on Friday,",
+        ""
+      ],
+      [
+        "Saturday and Sunday. Each shift starts at 6.00 pm and finishes at 11.00 pm.",
+        ""
+      ],
+      [
+        "The minimum hourly rate for a Level 1 employee is $25.85. Margaret will:",
+        ""
+      ],
+      [
+        "\u2022 work a total of 5 ordinary hours on night shift (Friday)",
+        ""
+      ],
+      [
+        "\u2022 work a total of 5 ordinary hours on Saturday",
+        ""
+      ],
+      [
+        "\u2022 work a total of 5 ordinary hours on Sunday",
+        ""
+      ],
+      [
+        "Step 1: Calculating ordinary time pay on night shift (Friday)",
+        ""
+      ],
+      [
+        "(a) Multiply the minimum hourly rate by the penalty rate for part-time employees working a",
+        ""
+      ],
+      [
+        "Monday to Friday shift that finishes after 6.00 pm in column 3 of Table 7\u2014Penalty rates, to",
+        ""
+      ],
+      [
+        "establish the relevant night shift rate.",
+        ""
+      ],
+      [
+        "\u2022 Minimum hourly rate ($25.85) x % Monday to Friday shift finishing after 6.00pm\u2014part-",
+        ""
+      ],
+      [
+        "time employees (130%) = $33.61",
+        ""
+      ],
+      [
+        "(b) Multiply the relevant night shift rate by the number of ordinary hours worked to establish",
+        ""
+      ],
+      [
+        "the total amount to be paid for working on night shift.",
+        ""
+      ],
+      [
+        "\u2022 $33.61 x 5 = $168.05",
+        ""
+      ],
+      [
+        "Step 2: Calculating ordinary time pay on Saturday",
+        ""
+      ],
+      [
+        "(a) Multiply the minimum hourly rate by the penalty rate for part-time employees working on a",
+        ""
+      ],
+      [
+        "Saturday in column 3 of Table 7\u2014Penalty rates to establish the relevant Saturday rate.",
+        ""
+      ],
+      [
+        "\u2022 Minimum hourly rate ($25.85) x % Saturday part-time penalty (165%) = $42.65",
+        ""
+      ],
+      [
+        "(b) Multiply the Saturday rate by the number of ordinary hours worked on Saturday to establish",
+        ""
+      ],
+      [
+        "the total amount to be paid working on Saturday.",
+        ""
+      ],
+      [
+        "\u2022 $42.65 x 5 = $213.25",
+        ""
+      ],
+      [
+        "Step 3: Calculating ordinary time pay on Sunday",
+        ""
+      ],
+      [
+        "(a) Multiply the minimum hourly rate by the penalty rate for part-time employees working on a",
+        ""
+      ],
+      [
+        "Sunday in column 3 of Table 7\u2014Penalty rates to establish the relevant Sunday rate.",
+        ""
+      ],
+      [
+        "\u2022 Minimum hourly rate ($25.85) x % Sunday part-time penalty (215%) = $55.58",
+        ""
+      ],
+      [
+        "(b) Multiply the Sunday rate by the number of ordinary hours worked on Sunday to establish the",
+        ""
+      ],
+      [
+        "total amount to be paid for working on Sunday.",
+        ""
+      ],
+      [
+        "\u2022 $55.58 x 5 = $277.90",
+        ""
+      ]
+    ],
+    [
+      [
+        "Step 4: Calculating total pay",
+        ""
+      ],
+      [
+        "Add the total amount for night shift in Step 1(b) and the total amount for Saturday work in Step",
+        ""
+      ],
+      [
+        "2(b) and the total amount for Sunday work in Step 3(b) to establish the total pay for 3 shifts.",
+        ""
+      ],
+      [
+        "\u2022 $168.05 + $213.25 + $277.90 = $659.20",
+        ""
+      ],
+      [
+        "Margaret is paid a total of $659.20 for working 3 shifts.",
+        ""
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Cleaning Services Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794719 and PR795767).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n18\u2014Superannuation\n26A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR746868, PR747343, PR750445, PR774727, PR777984]\nPart 1\u2014 Application and Operation of this Award .............................................................. 3\n1. Title and commencement ............................................................................................. 3\n2. Definitions .................................................................................................................... 3\n3. The National Employment Standards and this award .................................................. 5\n4. Coverage ....................................................................................................................... 6\n5. Individual flexibility arrangements .............................................................................. 7\n6. Requests for flexible working arrangements ................................................................ 8\n7. Facilitative provisions .................................................................................................. 8\nPart 2\u2014 Types of Employment and Classifications .............................................................. 9\n8. Types of employment ................................................................................................... 9\n9. Full-time employees ..................................................................................................... 9\n10. Part-time employees ..................................................................................................... 9\n11. Casual employees ....................................................................................................... 10\n12. Classifications ............................................................................................................ 11\nPart 3\u2014 Hours of Work ......................................................................................................... 11\n13. Ordinary hours of work and rostering ........................................................................ 11\n13A. Employee right to disconnect ..................................................................................... 13\n14. Breaks ......................................................................................................................... 14\nPart 4\u2014 Wages and Allowances ........................................................................................... 15\n15. Minimum rates ........................................................................................................... 15\n16. Payment of wages ....................................................................................................... 17\n17. Allowances ................................................................................................................. 18\nMA000022 1\nCleaning Services Award 2020\n18. Superannuation ........................................................................................................... 21\nPart 5\u2014 Overtime and Penalty Rates ................................................................................... 23\n19. Overtime ..................................................................................................................... 23\n20. Penalty rates ................................................................................................................ 28\nPart 6\u2014 Leave and Public Holidays ..................................................................................... 30\n21. Annual leave ............................................................................................................... 30\n22. Personal/carer\u2019s leave and compassionate leave ........................................................ 35\n23. Parental leave and related entitlements ....................................................................... 35\n24. Community service leave ............................................................................................ 35\n25. Family and domestic violence leave ........................................................................... 35\n26. Public holidays ............................................................................................................ 36\nPart 7\u2014 Workplace Delegates, Consultation and Dispute Resolution .............................. 36\n26A. Workplace delegates\u2019 rights ........................................................................................ 36\n27. Consultation about major workplace change .............................................................. 39\n28. Consultation about changes to rosters or hours of work ............................................. 40\n29. Consultation about change of contract ........................................................................ 41\n30. Dispute resolution ....................................................................................................... 41\n31. Dispute resolution procedure training leave ............................................................... 42\nPart 8\u2014 Termination of Employment and Redundancy .................................................... 44\n32. Termination of employment ....................................................................................... 44\n33. Redundancy ................................................................................................................ 45\nSchedule A \u2014Classification Definitions ................................................................................ 47\nSchedule B \u2014Summary of Hourly Rates of Pay .................................................................. 50\nSchedule C \u2014Summary of Monetary Allowances ............................................................... 56\nSchedule D \u2014Supported Wage System ................................................................................ 58\nSchedule E \u2014Agreement for Time Off Instead of Payment for Overtime ........................ 61\nSchedule F \u2014Agreement to Take Annual Leave in Advance ............................................. 62\nSchedule G \u2014Agreement to Cash Out Annual Leave ......................................................... 63\n2 MA000022\nCleaning Services Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n1.1 This is the Cleaning Services Award 2020.\n1.2 This modern award commenced operation on 1 January 2010. The terms of the award\nhave been varied since that date.\n1.3 A variation to this award made by the Fair Work Commission does not affect any right,\nprivilege, obligation or liability acquired, accrued or incurred under this award as in\nforce before that variation.\n2. Definitions\n[Varied by PR733875, PR750445, PR774727, PR777249, PR794069, PR795767]\nIn this award:\nAct means the Fair Work Act 2009 (Cth).\nadult employee means an employee who is 21 years of age or over.\nbroken shift, see clause 17.2(a) (Broken shift allowance).\n[Definition of casual employee inserted by PR733875 from 27Sep21; varied by PR777249 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date is\ntaken to be a casual employee of the employer for the purposes of section 15A after\nthat date.\ncleaning area means the area that the employer is contracted to clean, including\ninternal areas, offices, toilets, kitchens and all other common or public areas but\nexcluding car parks.\ncontract cleaning services industry, see clause 4.2.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nemployee means a national system employee as defined by section 13 of the Act.\n[Definition of employee organisation inserted by PR774727; substituted retrospectively by PR795767 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means a national system employer as defined by section 14 of the Act.\nMA000022 3\nCleaning Services Award 2020\n[Definition of enterprise inserted by PR774727 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nevent cleaning, see clause 4.3.\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\njunior employee means an employee who is less than 21 years of age.\nminimum hourly rate means the minimum hourly rate specified in column 3, in\naccordance with the employee classification specified in column 1, of Table 2\u2014\nMinimum rates.\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNational Employment Standards, see Part 2-2 of the Act. Divisions 3 to 12 of Part\n2-2 of the Act constitute the National Employment Standards. An extract of section\n61 of the Act is reproduced below.\nThe National Employment Standards are minimum standards applying to employment\nof employees. The minimum standards relate to the following matters:\n(a) maximum weekly hours (Division 3);\n(b) requests for flexible working arrangements (Division 4);\n[Paragraph (ba) inserted by PR733875 ppc 27Sep21; substituted by PR777249 from 27Aug24]\n(ba) casual employment (Division 4A);\n(c) parental leave and related entitlements (Division 5);\n(d) annual leave (Division 6);\n[Paragraph (e) varied by PR750445 ppc 15Mar23]\n(e) personal/carer\u2019s leave, compassionate leave and paid family and domestic\nviolence leave (Division 7);\n(f) community service leave (Division 8);\n(g) long service leave (Division 9);\n(h) public holidays (Division 10);\n[Paragraph (ha) inserted by PR794069 ppc 10Dec25]\n(ha) superannuation contributions (Division 10A);\n(i) notice of termination and redundancy pay (Division 11);\n(j) Fair Work Information Statement (Division 12).\n4 MA000022\nCleaning Services Award 2020\non-hire means the on-hire of an employee by their employer to a client, where the\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\n[Definition of small business employer inserted by PR774727 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nstandard rate means the minimum weekly rate for a Cleaning Services Employee\nLevel 1 in Table 2\u2014Minimum rates.\nState reference public sector modern award has the meaning given by subitem 3(2)\nof Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nState reference public sector transitional award has the meaning given by subitem\n2(1) of Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nTable 1\u2014Facilitative provisions means the Table in clause 7.2.\nTable 2\u2014Minimum rates means the Table in clause 15.1.\nTable 3\u2014Junior rates (employees of shopping trolley collection contractors)\nmeans the Table in clause 15.2.\nTable 4\u2014Leading hand allowance means the Table in clause 17.7.\nTable 5\u2014Overtime rates means the Table in clause 19.3.\nTable 6\u2014Rates and hours of pay when employee called back for administrative\nduties or for a disciplinary or counselling interview means the Table in clause 19.7.\nTable 7\u2014Penalty rates means the Table in clause 20.2.\nTable 8\u2014Eligible employee representatives quota means the Table in clause 31.7.\nTable 9\u2014Period of notice means the table in clause 32.1(b).\n[Definition of workplace delegate inserted by PR774727 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3. The National Employment Standards and this award\n3.1 The National Employment Standards (NES) and this award contain the minimum\nconditions of employment for employees covered by this award.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\n3.3 The employer must ensure that copies of this award and of the NES are available to all\nemployees to whom they apply, either on a notice board conveniently located at or\nnear the workplace or through accessible electronic means.\nMA000022 5\nCleaning Services Award 2020\n4. Coverage\n[Varied by PR743414]\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the contract cleaning services industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nDefinitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, contract cleaning services industry means the\nbusiness of providing cleaning services under a contract and includes:\n(a) cleaning, including event cleaning; and\n(b) hygiene and pollution control; and\n[4.2(c) varied by PR743414 ppc 11Jul22]\n(c) trolley collection, excluding trolley collection covered by the General Retail\nIndustry Award 2020; and\n(d) minor property maintenance that is incidental to cleaning.\n4.3 For the purposes of clause 4.2(a), event cleaning means the provision of cleaning in\nconnection with the staging of sporting, cultural, scientific, technological, agricultural\nor entertainment events or exhibitions.\n4.4 This industry award also covers:\n(a) on-hire employees working in the contract cleaning services industry (with a\nclassification defined in Schedule A\u2014Classification Definitions) and the on-hire\nemployers of those employees; and\n(b) trainees employed by a group training employer and hosted by an employer\ncovered by this award to work in the contract cleaning services industry (with a\nclassification defined in Schedule A\u2014Classification Definitions) and the group\ntraining employers of those trainees.\n4.5 However, this industry award does not cover any of the following:\n(a) employees excluded from award coverage by the Act; or\nNOTE: See section 143(7) of the Act.\n(b) employees covered by a modern enterprise award or an enterprise instrument; or\n(c) employees covered by a State reference public sector modern award or a State\nreference public sector transitional award; or\n(d) employers of employees mentioned in clause 4.5(b) or 4.5(c).\n4.6 If an employer is covered by more than one award, an employee of the employer is\ncovered by the award containing the classification that is most appropriate to the work\nperformed by the employee and the industry in which they work.\n6 MA000022\nCleaning Services Award 2020\nNOTE: An employee working in the contract cleaning services industry who is not\ncovered by this industry award may be covered by an award with occupational\ncoverage.\n5. Individual flexibility arrangements\n5.1 Despite anything else in this award, an employer and an individual employee may\nagree to vary the application of the terms of this award relating to any of the following\nin order to meet the genuine needs of both the employee and the employer:\n(a) arrangements for when work is performed; or\n(b) overtime rates; or\n(c) penalty rates; or\n(d) allowances; or\n(e) annual leave loading.\n5.2 An agreement must be one that is genuinely made by the employer and the individual\nemployee without coercion or duress.\n5.3 An agreement may only be made after the individual employee has commenced\nemployment with the employer.\n5.4 An employer who wishes to initiate the making of an agreement must:\n(a) give the employee a written proposal; and\n(b) if the employer is aware that the employee has, or should reasonably be aware\nthat the employee may have, limited understanding of written English, take\nreasonable steps (including providing a translation in an appropriate language)\nto ensure that the employee understands the proposal.\n5.5 An agreement must result in the employee being better off overall at the time the\nagreement is made than if the agreement had not been made.\n5.6 An agreement must do all of the following:\n(a) state the names of the employer and the employee; and\n(b) identify the award term, or award terms, the application of which is to be varied;\nand\n(c) set out how the application of the award term, or each award term, is varied; and\n(d) set out how the agreement results in the employee being better off overall at the\ntime the agreement is made than if the agreement had not been made; and\n(e) state the date the agreement is to start.\n5.7 An agreement must be:\n(a) in writing; and\nMA000022 7\nCleaning Services Award 2020\n(b) signed by the employer and the employee and, if the employee is under 18 years\nof age, by the employee\u2019s parent or guardian.\n5.8 Except as provided in clause 5.7(b), an agreement must not require the approval or\nconsent of a person other than the employer and the employee.\n5.9 The employer must keep the agreement as a time and wages record and give a copy to\nthe employee.\n5.10 The employer and the employee must genuinely agree, without duress or coercion to\nany variation of an award provided for by an agreement.\n5.11 An agreement may be terminated:\n(a) at any time, by written agreement between the employer and the employee; or\n(b) by the employer or employee giving 13 weeks\u2019 written notice to the other party\n(reduced to 4 weeks if the agreement was entered into before the first full pay\nperiod starting on or after 4 December 2013).\nNOTE: If an employer and employee agree to an arrangement that purports to be an\nindividual flexibility arrangement under this award term and the arrangement does not\nmeet a requirement set out in section 144 then the employee or the employer may\nterminate the arrangement by giving written notice of not more than 28 days (see\nsection 145 of the Act).\n5.12 An agreement terminated as mentioned in clause 5.11(b) ceases to have effect at the\nend of the period of notice required under that clause.\n5.13 The right to make an agreement under clause 5 is additional to, and does not affect,\nany other term of this award that provides for an agreement between an employer and\nan individual employee.\n6. Requests for flexible working arrangements\n[6 substituted by PR763218 ppc 01Aug23]\nRequests for flexible working arrangements are provided for in the NES.\nNOTE: Disputes about requests for flexible working arrangements may be dealt with under\nclause 30\u2014Dispute resolution and/or under section 65B of the Act.\n7. Facilitative provisions\n7.1 This award contains facilitative provisions which allow agreement between an\nemployer and an individual employee, or the majority of employees, on how specific\naward provisions are to apply at the workplace.\n8 MA000022\nCleaning Services Award 2020\n7.2 The following clauses have facilitative provisions:\nTable 1\u2014Facilitative provisions\nClause Provision Agreement between an\nemployer and:\n16.5 Payment of wages an individual employee\n19.5 Time off instead of payment for overtime an individual employee\n21.8 Annual leave in advance an individual employee\n21.9 Cashing out of annual leave an individual employee\n26.2 Substitution of public holidays by an individual employee\nagreement\nPart 2\u2014Types of Employment and Classifications\n8. Types of employment\n8.1 An employee covered by this award must be one of the following:\n(a) a full-time employee; or\n(b) a part-time employee; or\n(c) a casual employee.\n8.2 At the time of engaging an employee, an employer must inform the employee of the\nterms on which they are engaged, including whether they are engaged as a full-time,\npart-time or casual employee, their usual work location and classification.\n8.3 Each employee\u2019s classification and whether they are engaged as a full-time, part-time\nor casual employee will be recorded in the time and wages record.\n9. Full-time employees\nA full-time employee is an ongoing employee engaged to work an average of 38 ordinary hours\nper week.\nNOTE: Those hours of work are to be arranged in accord"
+}

@@ -1,0 +1,240 @@
+{
+  "ma_number": "MA000118",
+  "award_name": "Registered and Licensed Clubs Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000118.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 78,
+  "last_amended": null,
+  "coverage": "[Varied by PR743466]\n4.1 This award covers employers throughout Australia in the veterinary surgery industry\nand the animal care industry and their employees in the classifications listed in\nSchedule A\u2014Classification Definitions to the exclusion of any other modern award.\n4.2 The veterinary surgery industry means private veterinary surgery practices.\n4.3 The animal care industry means community-based charity organisations working to\nprevent cruelty to animals by actively promoting their care and",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": null,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "............................................................................................................ 15",
+    "penalty_rates_clause": "20. Overtime ..................................................................................................................... 26",
+    "overtime_clause": "20. Overtime ..................................................................................................................... 26",
+    "allowances_clause": "15. Minimum rates\n[Varied by PR720159, PR718936, PR729380, PR740804, PR762227, PR767907, PR774009, PR786657]\n15.1 Animal care industry inspectors\n[15.1 varied by PR718936, PR729380, PR740804, PR762227, PR774009, PR786657 ppc 01Jul25]\nClassification Minimum annual Minimum hourly\nsalary rate\n$ $\nInspector Level 1 64,517 32.65\nInspector Level 2 68,067 34.45\nSenior Inspector Level 3 73,539 37.22\nNOTE: See Schedule B\u2014Summary of Hourly Rates of Pay for a summary of hourly\nrates of pay including overtime and penalty rates.\nMA000118 15\nAnimal Care and Veterinary Services Award 2020\n15.2 Practice managers, Veterinary nurses, Receptionists, Animal attendants and\nAssistants\n[15.2 varied by PR718936, PR729380, PR740804, PR762227, PR774009, PR786657 ppc 01Jul25]\nClassification Minimum weekly Minimum hourly\nrate rate\n(full-time employee)\n$ $\nIntroductory level 922.70 24.28\nLevel 1 948.00 24.95\nLevel 2 1024.40 26.96\nLevel 3 1068.40 28.12\nLevel 4 1165.70 30.68\nLevel 5\u2014Practice 1224.90 32.23\nmanager\nNOTE: See Schedule B\u2014Summary of Hourly Rates of Pay for a summary of hourly\nrates of pay including overtime and penalty rates.\n15.3 Veterinary surgeons\n[15.3 varied by PR718936, PR729380, PR740804, PR762227, PR774009, PR786657 ppc 01Jul25]\nClassification Minimum annual Minimum hourly\nsalary rate\n$ $\nLevel 1A 64,517 32.65\nLevel 1B 68,067 34.45\nLevel 2 73,539 37.22\nLevel 3 80,790 40.89\n16 MA000118\nAnimal Care and Veterinary Services Award 2020\nClassification Minimum annual Minimum hourly\nsalary rate\n$ $\nLevel 4 91,258 46.18\nNOTE: For the purposes of calculating hourly rates for veterinary surgeons, the\nannual rates are divided by 52, then rounded to the nearest $0.10 and divided\nby 38.\nNOTE: See Schedule B\u2014Summary of Hourly Rates of Pay for a summary of hourly\nrates of pay including overtime and penalty rates.\n15.4 Junior rates\n[15.4 varied by PR767907 ppc 31Dec23]\nJunior employees must be paid the following percentage of the appropriate wage\nrate in clause 15\u2014Minimum rates.\nAge %\nUnder 17 years of age 50\n17 years of age 60\n18 years of age 70\n19 years of age 80\n20 years of age 90\n15.5 Supported wage system\nFor employees who because of the effects of a disability are eligible for a supported\nwage, see Schedule D\u2014Supported Wage System.\n15.6 National training wage\n[15.6(a) varied by PR720159 ppc 18Jun20]\n(a) Schedule E to the Miscellaneous Award 2020 sets out minimum wage rates\nand conditions for employees undertaking traineeships.\nMA000118 17\nAnimal Care and Veterinary Services Award 2020\n[15.6(b) varied by PR720159 ppc 18Jun20, PR718936, PR729380, PR740804, PR762227, PR774009, PR786657\nppc 01Jul25]\n(b) This award incorporates the terms of Schedule E to the Miscellaneous\nAward 2020 as at 1 July 2025. Provided that any reference to \u201cthis award\u201d in\nSchedule E to the Miscellaneous Award 2020 is to be read as referring to the\nAnimal Care and Veterinary Services Award 2020 and not the Miscellaneous\nAward 2020.\n15.7 Higher duties\n(a) Other than veterinary surgeons\n(i) An employee engaged for a day or shift on duties for which a higher rate\nthan their ordinary classification is paid must be paid the higher rate for\nthat day or shift.\n(ii) Any employee who is required to temporarily perform work for which a\nlower rate is paid for must not suffer any reduction in wages. An\nemployee may be required to temporarily perform work at a lower\nclassification for a period of less than one week.\n(b) Veterinary surgeons\nAn associate who is required to perform duties at a higher classification level\nfor a temporary period of more than 2 weeks must be paid the higher salary\nfor the period during which those duties are performed."
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Classification",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Introductory level",
+        "922.70",
+        "24.28"
+      ],
+      [
+        "Level 1",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "Level 2",
+        "1024.40",
+        "26.96"
+      ],
+      [
+        "Level 3",
+        "1068.40",
+        "28.12"
+      ],
+      [
+        "Level 4",
+        "1165.70",
+        "30.68"
+      ],
+      [
+        "Level 5\u2014Practice manager",
+        "1224.90",
+        "32.23"
+      ]
+    ],
+    [
+      [
+        "Classification",
+        "Casual hourly rate",
+        "Saturday after 1.00 pm",
+        "",
+        "Sunday",
+        "Public holiday"
+      ],
+      [
+        "",
+        "",
+        "First 3 hours",
+        "After 3 hours",
+        "",
+        ""
+      ],
+      [
+        "",
+        "% of minimum hourly rate",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "125%",
+        "175%",
+        "225%",
+        "225%",
+        "275%"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Inspector Level 1",
+        "40.81",
+        "57.14",
+        "73.46",
+        "73.46",
+        "89.79"
+      ],
+      [
+        "Inspector Level 2",
+        "43.06",
+        "60.29",
+        "77.51",
+        "77.51",
+        "94.74"
+      ],
+      [
+        "Senior Inspector Level 3",
+        "46.53",
+        "65.14",
+        "83.75",
+        "83.75",
+        "102.36"
+      ]
+    ],
+    [
+      [
+        "Classification",
+        "Monday to Friday",
+        "",
+        "Saturday",
+        "Sunday",
+        "Public holiday"
+      ],
+      [
+        "",
+        "Morning shift1 and afternoon shift2",
+        "Night shift3",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "% of minimum hourly rate",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "140%",
+        "155%",
+        "175%",
+        "225%",
+        "275%"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Inspector Level 2",
+        "48.23",
+        "53.40",
+        "60.29",
+        "77.51",
+        "94.74"
+      ],
+      [
+        "Senior Inspector Level 3",
+        "52.11",
+        "57.69",
+        "65.14",
+        "83.75",
+        "102.36"
+      ]
+    ],
+    [
+      [
+        "Classification",
+        "Casual hourly rate",
+        "Public holiday1"
+      ],
+      [
+        "",
+        "% of minimum hourly rate",
+        ""
+      ],
+      [
+        "",
+        "125%",
+        "225%"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Level 1A",
+        "40.81",
+        "73.46"
+      ],
+      [
+        "Level 1B",
+        "43.06",
+        "77.51"
+      ],
+      [
+        "Level 2",
+        "46.53",
+        "83.75"
+      ],
+      [
+        "Level 3",
+        "51.11",
+        "92.00"
+      ],
+      [
+        "Level 4",
+        "57.73",
+        "103.91"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Animal Care and Veterinary Services Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794806 and PR795747).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n19\u2014Superannuation\n27A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR718141; PR746868, PR747478, PR750427, PR774847, PR778102]\nPart 1\u2014 Application and Operation of this Award .............................................................. 4\n1. Title and commencement ............................................................................................ 4\n2. Definitions .................................................................................................................... 4\n3. The National Employment Standards ........................................................................... 6\n4. Coverage ....................................................................................................................... 6\n5. Individual flexibility arrangements ............................................................................... 7\n6. Requests for flexible working arrangements ................................................................ 9\n7. Facilitative provisions ................................................................................................... 9\nPart 2\u2014 Types of Employment and Classifications ............................................................ 10\n8. Types of employment ................................................................................................. 10\n9. Full-time employees ................................................................................................... 10\n10. Part-time employees .................................................................................................. 10\n11. Casual employees ....................................................................................................... 11\n12. Classifications ............................................................................................................. 12\nPart 3\u2014 Hours of Work .................................................................................................... 12\n13. Ordinary hours of work and rostering ........................................................................ 12\n13A. Employee right to disconnect ..................................................................................... 13\nMA000118 1\nAnimal Care and Veterinary Services Award 2020\n14. Breaks .......................................................................................................................... 14\nPart 4\u2014 Wages and Allowances ....................................................................................... 15\n15. Minimum rates ............................................................................................................ 15\n16. Allowances .................................................................................................................. 18\n17. Payment of wages ....................................................................................................... 22\n18. Professional development and indemnity (veterinary surgeons only) ....................... 23\n19. Superannuation ........................................................................................................... 24\nPart 5\u2014 Overtime and Penalty Rates ............................................................................... 26\n20. Overtime ..................................................................................................................... 26\n21. Penalty rates\u2014employees other than veterinary surgeons ....................................... 30\nPart 6\u2014 Leave and Public Holidays .................................................................................. 32\n22. Annual leave ................................................................................................................ 32\n23. Personal/carer\u2019s leave and compassionate leave ....................................................... 37\n24. Parental leave and related entitlements ..................................................................... 38\n25. Community service leave ............................................................................................ 38\n26. Family and domestic violence leave ........................................................................... 38\n27. Public holidays ............................................................................................................ 38\nPart 7\u2014 Workplace Delegates, Consultation and Dispute Resolution ................................ 41\n27A. Workplace delegates\u2019 rights ........................................................................................ 41\n28. Consultation about major workplace change ............................................................. 44\n29. Consultation about changes to rosters or hours of work ........................................... 46\n30. Dispute resolution ....................................................................................................... 46\nPart 8\u2014 Termination of Employment and Redundancy .................................................... 47\n31. Termination of employment ....................................................................................... 47\n32. Redundancy ................................................................................................................ 48\n2 MA000118\nAnimal Care and Veterinary Services Award 2020\nSchedule A \u2014Classification Definitions ............................................................................ 50\nSchedule B \u2014Summary of Hourly Rates of Pay ................................................................. 56\nSchedule C \u2014Summary of Monetary Allowances ............................................................. 67\nSchedule D \u2014Supported Wage System ............................................................................. 70\nSchedule E \u2014Agreement for Time Off Instead of Payment for Overtime ........................... 74\nSchedule F \u2014Agreement to Take Annual Leave in Advance ............................................... 75\nSchedule G \u2014Agreement to Cash Out Annual Leave ......................................................... 77\nMA000118 3\nAnimal Care and Veterinary Services Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n1.1 This award is the Animal Care and Veterinary Services Award 2020.\n1.2 This modern award commenced operation on 1 January 2010. The terms of the award\nhave been varied since that date.\n1.3 A variation to this award does not affect any right, privilege, obligation or liability that\na person acquired, accrued or incurred under the award as it existed prior to that\nvariation.\n2. Definitions\n[Varied by PR733870, PR774847, PR777354, PR795747]\nIn this award, unless the contrary intention appears:\nAct means the Fair Work Act 2009 (Cth).\nactive on-call duty means duty where the associate, who is on-call duty, actually\nattends cases. Active on-call duty is not counted towards ordinary hours of duty or\nextra hours of duty under this award unless the associate undertakes scheduled\nwork.\nanimal care industry has the meaning given in clause 4.3.\nassociate means a veterinary surgeon who is employed on a full-time, part-time or\ncasual basis.\nassociate\u2019s ordinary rate of pay means the actual remuneration for the associate\u2019s\nnormal weekly rostered hours of work.\n[Definition of casual employee inserted by PR733870 from 27Sep21; varied by PR777354 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nMA000118 4\nAnimal Care and Veterinary Services Award 2020\nemployee means national system employee within the meaning of the Act.\n[Definition of employee organisation inserted by PR774847; substituted retrospectively by PR795747 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means national system employer within the meaning of the Act.\n[Definition of enterprise inserted by PR774847 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nintern means a veterinary surgeon who is enrolled in a structured training program\nwhere the intern is provided direct supervision and training by at least one\nregistered veterinary surgeon.\ninternship means the structured training program for an intern. An internship will\nbe accomplished in not more than 2 years.\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNES means the National Employment Standards as contained in sections 59 to 131\nof the Act.\nOn-call duty means duty where the associate is not required to remain at the\nveterinary practice but is required to be available to attend unscheduled cases and\nthat duty commences outside the associate\u2019s ordinary hours of duty and extra hours\nof duty. On-call duty is not counted towards ordinary hours of duty or extra hours of\nduty under this award.\non-hire means the on-hire of an employee by their employer to a client, where the\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\nother than veterinary surgeons refers to employees within the classification\nstructures prescribed in clauses A.1 and A.2.\nresident means a veterinary surgeon who is enrolled in a structured training\nprogram and is provided with direct supervision and training by at least one\nregistered veterinary specialist.\nresidency means the structured training program for a resident.\nMA000118 5\nAnimal Care and Veterinary Services Award 2020\n[Definition of small business employer inserted by PR774847 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nstandard rate means the minimum weekly rate for a Level 3 in clause 15.2.\nveterinary surgeon means a qualified veterinary surgeon who satisfies the statutory\nand professional requirements to practice in the State or Territory in which they\npractice (e.g. registration with the relevant State or Territory Veterinary Board).\nveterinary surgery industry has the meaning given in clause 4.2.\n[Definition of workplace delegate inserted by PR774847 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3. The National Employment Standards\n3.1 The National Employment Standards (NES) and this award contain the minimum\nconditions of employment for employees covered by this award.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\n3.3 The employer must ensure that copies of this award and the NES are available to all\nemployees to whom they apply, either on a notice board which is conveniently located\nat or near the workplace or through accessible electronic means.\n4. Coverage\n[Varied by PR743466]\n4.1 This award covers employers throughout Australia in the veterinary surgery industry\nand the animal care industry and their employees in the classifications listed in\nSchedule A\u2014Classification Definitions to the exclusion of any other modern award.\n4.2 The veterinary surgery industry means private veterinary surgery practices.\n4.3 The animal care industry means community-based charity organisations working to\nprevent cruelty to animals by actively promoting their care and protection and\neducating people in the care of animals.\n[4.4 varied by PR743466 ppc 11Jul22]\n4.4 The award does not cover employers in the following industries:\n(a) Amusement, Events and Recreation Award 2020;\n(b) Food, Beverage and Tobacco Manufacturing Award 2020;\n(c) Horse and Greyhound Training Award 2020; and\n6 MA000118\nAnimal Care and Veterinary Services Award 2020\n(d) Pastoral Award 2020.\n4.5 This award covers any employer which supplies labour on an on-hire basis in the\nveterinary surgery industry and the animal care industry in respect of on-hire\nemployees in classifications covered by this award, and those on-hire employees,\nwhile engaged in the performance of work for a business in those industries. Clause\n4.5 operates subject to the exclusions from coverage in this award.\n4.6 This award covers employers which provide group training services for trainees\nengaged in the veterinary surgery and animal care industries and/or parts of those\nindustries and those trainees engaged by a group training service hosted by a company\nto perform work at a location where the activities described are being performed.\nClause 4.6 operates subject to the exclusions from coverage in this award.\n4.7 This award does not cover\n(a) employees excluded from award coverage by the Act;\n(b) employees who are covered by a modern enterprise award, or an enterprise\ninstrument (within the meaning of the Fair Work (Transitional Provisions and\nConsequential Amendments) Act 2009 (Cth)), or employers in relation to those\nemployees; or\n(c) employees who are covered by a State reference public sector modern award,\nor a State reference public sector transitional award (within the meaning of\nthe Fair Work (Transitional Provisions and Consequential Amendments) Act\n2009)), or employers in relation to those employees.\n4.8 Where an employer is covered by more than one award, an employee of that employer\nis covered by the award classification which is most appropriate to the work performed\nby the employee and to the environment in which the employee normally performs the\nwork.\nNOTE: Where there is no classification for a particular employee in this award it is\npossible that the employer and that employee are covered by an award with\noccupational coverage.\n5. Individual flexibility arrangements\n5.1 Despite anything else in this award, an employer and an individual employee may\nagree to vary the application of the terms of this award relating to any of the following\nin order to meet the genuine needs of both the employee and the employer:\n(a) arrangements for when work is performed; or\n(b) overtime rates; or\n(c) penalty rates; or\nMA000118 7\nAnimal Care and Veterinary Services Award 2020\n(d) allowances; or\n(e) annual leave loading.\n5.2 An agreement must be one that is genuinely made by the employer and the individual\nemployee without coercion or duress.\n5.3 An agreement may only be made after the individual employee has commenced\nemployment with the employer.\n5.4 An employer who wishes to initiate the making of an agreement must:\n(a) give the employee a written proposal; and\n(b) if the employer is aware that the employee has, or reasonably should be\naware that the employee may have, limited understanding of written English,\ntake reasonable steps (including providing a translation in an appropriate\nlanguage) to ensure that the employee understands the proposal.\n5.5 An agreement must result in the employee being better off overall at the time the\nagreement is made than if the agreement had not been made.\n5.6 An agreement must do all of the following:\n(a) state the names of the employer and the employee; and\n(b) identify the award term, or award terms, the application of which is to be\nvaried; and\n(c) set out how the application of the award term, or each award term, is varied;\nand\n(d) set out how the agreement results in the employee being better off overall at\nthe time the agreement is made than if the agreement had not been made;\nand\n(e) state the date the agreement is to start.\n5.7 An agreement must be:\n(a) in writing; and\n(b) signed by the employer and the employee and, if the employee is under 18\nyears of age, by the employee\u2019s parent or guardian.\n5.8 Except as provided in clause 5.7(b), an agreement must not require the approval or\nconsent of a person other than the employer and the employee.\n5.9 The employer must keep the agreement as a time and wages record and give a copy to\nthe employee.\n8 MA000118\nAnimal Care and Veterinary Services Award 2020\n5.10 The employer and the employee must genuinely agree, without duress or coercion to\nany variation of an award provided for by an agreement.\n5.11 An agreement may be terminated:\n(a) at any time, by written agreement between the employer and the employee;\nor\n(b) by the employer or employee giving 13 weeks\u2019 written notice to the other\nparty (reduced to 4 weeks if the agreement was entered into before the first\nfull pay period starting on or after 4 December 2013).\nNOTE: If an employer and employee agree to an arrangement that purports to be an\nindividual flexibility arrangement under this award term and the arrangement does\nnot meet a requirement set out in section 144 then the employee or the employer\nmay terminate the arrangement by giving written notice of not more than 28 days\n(see section 145 of the Act).\n5.12 An agreement terminated as mentioned in clause 5.11(b) ceases to have effect at the\nend of the period of notice required under that clause.\n5.13 The right to make an agreement under clause 5 is additional to, and does not affect,\nany other term of this award that provides for an agreement between an employer and\nan individual employee.\n6. Requests for flexible working arrangements\n[6 substituted by PR763325 ppc 01Aug23]\nRequests for flexible working arrangements are provided for in the NES.\nNOTE: Disputes about requests for flexible working arrangements may be dealt with under\nclause 30\u2014Dispute resolution and/or under section 65B of the Act.\n7. Facilitative provisions\n7.1 A facilitative provision provides that the standard approach in an award provision may\nbe departed from by agreement between an employer and an individual employee, or\nan employer and the majority of employees in the enterprise or part of the enterprise\nconcerned.\n7.2 Facilitative provisions in this award are contained in the following clauses:\nClause Provision Agreement between\nan employer and:\n13.2(c) Span of hours\u2014day work An individual\nMA000118 9\nAnimal Care and Veterinary Services Award 2020\nClause Provision Agreement between\nan employer and:\n14.1 Unpaid meal break An individual\n14.2(d) Paid rest break\n17.1(c) Frequency of payment An individual\n20.2(b) Veterinary surgeons An individual\n20.3 Time off instead of payment for overtime An individual\n22.4 Annual leave in advance An individual\n22.6 Cashing out of annual leave An individual\nPart 2\u2014Types of Employment and Classifications\n8. Types of employment\n8.1 Employees under this award will be employed in one of the following categories:\n(a) full-time;\n(b) part-time; or\n(c) casual.\n8.2 At the time of engagement the employer will inform the employee of the terms of their\nengagement and, in particular, whether they are to be full-time, part-time or casual.\n9. Full-time employees\nA full-time employee is engaged for an average of 38 ordinary hours per week.\n10. Part-time employees\n10.1 A part-time employee is an employee who is engaged to perform less than 38 ordinary\nhours on a regular basis.\n10 MA000118\nAnimal Care and Veterinary Services Award 2020\n10.2 Part-time employees receive equivalent pay and conditions to those of full-time\nemployees on a pro rata basis.\n11. Casual employees\n[Varied by PR723851, PR733870, PR777354]\n[11.1 deleted by PR733870 from 27Sep21]\n[11.2 substituted by PR723851 ppc 20Nov20; 11.2 renumbered as 11.1 by PR733870 from 27Sep21]\n11.1 For each ordinary hour worked, a casual employee must be paid:\n(a) the minimum hourly rate for the classification in which they are employed;"
+}

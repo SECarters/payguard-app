@@ -1,0 +1,868 @@
+{
+  "ma_number": "MA000010",
+  "award_name": "Manufacturing and Associated Industries and Occupations Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000010.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 238,
+  "last_amended": null,
+  "coverage": "[Varied by PR744246]\n4.1 This award covers employers throughout Australia of employees in the Manufacturing\nand Associated Industries and Occupations who are covered by the classifications in\nthis award and those employees.\n4.2 The award does not cover:\n(a) an employer who is outside the scope of clause 4.8(a) or (b) unless such an\nemployer employs an employee covered by clause 4.8(c) and the employer is\n12 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nnot covered b",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": 17.5,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "penalty_rates_clause": "32. Overtime ...................................................................................................................100",
+    "overtime_clause": "32. Overtime ...................................................................................................................100",
+    "allowances_clause": "32.8 Time off instead of payment for overtime\n32.11(e) Rest break\n32.12(e) Rest period after overtime\nElectronic funds transfer (EFT) payment of annual leave\n34.6\n34.12 Annual leave in advance\n34.13 Cashing out of annual leave\n40.4 Substitution of public holidays by agreement\n48 Casual loading for vehicle manufacturing employees in the\ntechnical field\n57.1 Time off in lieu of overtime\u2014Vehicle manufacturing\nemployees\n57.2 Overtime crib breaks\u2014Vehicle manufacturing employees\n(b) The agreement reached must be kept by the employer as a time and wages\nrecord.\n7.3 Facilitation by majority or individual agreement\n[7.3(a) varied by PR733979 from 27Sep21]\n(a) The following facilitative provisions can be utilised by agreement between the\nemployer and the majority of employees in the workplace or a section or\nsections of it, or the employer and an individual employee:\n22 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nClause number Provision\n17.2(c) Ordinary hours of work for day workers on weekends\n17.2(d) Variation to the spread of hours for day workers\n17.5 Methods of arranging ordinary working hours\n18.1(b) Working in excess of 5 hours without a meal break\n27.1(b) Payment of wages\n33.2(c) Variation to the spread of hours for shiftworkers\n(b) Where agreement is reached between the employer and the majority of\nemployees in the workplace or a section or sections of it to implement a\nfacilitative provision in clause 7.3(a), the employer must not implement that\nagreement unless:\n(i) agreement is also reached between the employer and each individual\nemployee to be covered by the facilitative provision; and\n(ii) the agreement reached is kept by the employer as a time and wages\nrecord.\n(c) Where no agreement has been sought by the employer with the majority of\nemployees in accordance with clause 7.3(b), the employer may reach\nagreement with individual employees in the workplace or a section or sections\nof it and the agreement binds the individual employee provided the\nagreement reached is kept by the employer as a time and wages record and\nprovided the agreement is only with an individual employee or a number of\nindividual employees less than the majority in the workplace or a section or\nsections of it.\n7.4 Facilitation by majority agreement\n[7.4(a) varied by PR751036; corrected by PR761389 ppc 01May23]\n(a) The following facilitative provisions may only be utilised by agreement\nbetween the employer and the majority of employees in the workplace or a\nsection or sections of it:\nMA000010 23\nManufacturing and Associated Industries and Occupations Award 2020\nClause number Provision\n17.3(e) Ordinary hours of work, continuous shiftworkers\n17.4(d) Ordinary hours of work, non-continuous shiftworkers\n17.5(c) 12 hour shifts\n33.2(j)(v) Public holiday shifts\n34.5 Conversion of annual leave to hourly entitlement\n50.1 Ordinary hours of work\u2014continuous shiftwork \u2013 vehicle\nmanufacturing employees\n50.2 Ordinary hours of work\u2014other than continuous shiftwork\u2014\nvehicle manufacturing employees\n51 Meal break\u2014vehicle manufacturing employees in the\ntechnical field\n(b) Where agreement is reached with the majority of employees in the workplace\nor a section or sections of it to implement a facilitative provision in\nclause 7.4(a), that agreement binds all such employees provided the\nagreement reached is kept by the employer as a time and wages record.\n(c) Additional safeguard\n(i) An additional safeguard applies to:\nClause number Provision\n17.3(e) Ordinary hours of work, continuous shiftworkers\n17.4(d) Ordinary hours of work, non-continuous shiftworkers\n27.1(b) Payment of wages\n(ii) The additional safeguard requires that the unions which have members\nemployed at an enterprise covered by this award must be informed by\nthe employer of the intention to use the facilitative provision and be\ngiven a reasonable opportunity to participate in the negotiations\nregarding its use. Union involvement in this process does not mean that\n24 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nthe consent of the union is required prior to the introduction of agreed\nfacilitative arrangements at the enterprise.\n7.5 Majority vote at the initiation of the employer\nA vote of employees in the workplace or a section or sections of it which is taken in\naccordance with clauses 7.3(a) and 7.4 to determine if there is majority employee\nsupport for the implementation of a facilitative provision, is of no effect unless taken\nwith the agreement of the employer.\nPart 2\u2014Types of Employment"
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Classification level",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "C14 / V1",
+        "922.70",
+        "24.28"
+      ],
+      [
+        "C13 / V2",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "C12 / V3",
+        "982.40",
+        "25.85"
+      ],
+      [
+        "C11 / V4",
+        "1014.70",
+        "26.70"
+      ]
+    ],
+    [
+      [
+        "Classification level",
+        "Minimum weekly rate (full-time employee)",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "C10 / V5",
+        "1068.40",
+        "28.12"
+      ],
+      [
+        "C9 / V6",
+        "1102.00",
+        "29.00"
+      ],
+      [
+        "C8 / V7",
+        "1135.50",
+        "29.88"
+      ],
+      [
+        "C7",
+        "1165.70",
+        "30.68"
+      ],
+      [
+        "V8",
+        "1168.90",
+        "30.76"
+      ],
+      [
+        "C6 / V9",
+        "1224.90",
+        "32.23"
+      ],
+      [
+        "C5 / V10",
+        "1250.10",
+        "32.90"
+      ],
+      [
+        "C4 / V11",
+        "1283.50",
+        "33.78"
+      ],
+      [
+        "C3 / V12",
+        "1350.80",
+        "35.55"
+      ],
+      [
+        "C2(a) / V13",
+        "1384.40",
+        "36.43"
+      ],
+      [
+        "C2(b) / V14",
+        "1445.10",
+        "38.03"
+      ],
+      [
+        "Driver classifications",
+        "",
+        ""
+      ],
+      [
+        "D1",
+        "1027.80",
+        "27.05"
+      ],
+      [
+        "D2",
+        "1040.20",
+        "27.37"
+      ],
+      [
+        "D3",
+        "1052.60",
+        "27.70"
+      ],
+      [
+        "D4",
+        "1067.30",
+        "28.09"
+      ]
+    ],
+    [
+      [
+        "Relevant attribute of the person at the time of entering into a training agreement as an apprentice",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stage of apprenticeship",
+        "Column 1",
+        "",
+        "Column 2",
+        "",
+        "Column 3",
+        "",
+        "Column 4",
+        ""
+      ],
+      [
+        "",
+        "Completed Year 10 or less",
+        "",
+        "Completed Year 11",
+        "",
+        "Completed Year 12",
+        "",
+        "Adult (i.e. 21 years of age or over)",
+        ""
+      ],
+      [
+        "",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Stage 1",
+        "448.73",
+        "11.81",
+        "517.99",
+        "13.63",
+        "540.50",
+        "14.22",
+        "810.40",
+        "21.33"
+      ],
+      [
+        "Stage 2",
+        "587.62",
+        "15.46",
+        "587.62",
+        "15.46",
+        "629.00",
+        "16.55",
+        "922.70",
+        "24.28"
+      ]
+    ],
+    [
+      [
+        "Relevant attribute of the person at the time of entering into a training agreement as an apprentice",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stage of apprenticeship",
+        "Column 1",
+        "",
+        "Column 2",
+        "",
+        "Column 3",
+        "",
+        "Column 4",
+        ""
+      ],
+      [
+        "",
+        "Completed Year 10 or less",
+        "",
+        "Completed Year 11",
+        "",
+        "Completed Year 12",
+        "",
+        "Adult (i.e. 21 years of age or over)",
+        ""
+      ],
+      [
+        "",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate",
+        "Minimum weekly rate",
+        "Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Stage 3",
+        "801.30",
+        "21.09",
+        "801.30",
+        "21.09",
+        "801.30",
+        "21.09",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "Stage 4",
+        "940.19",
+        "24.74",
+        "940.19",
+        "24.74",
+        "982.40",
+        "25.85",
+        "982.40",
+        "25.85"
+      ]
+    ],
+    [
+      [
+        "",
+        "Column 1",
+        "",
+        "",
+        "Column 2",
+        "",
+        "",
+        "Column 3",
+        "",
+        ""
+      ],
+      [
+        "Stage of appren- ticeship",
+        "Has not completed Year 12",
+        "",
+        "",
+        "Has completed Year 12",
+        "",
+        "",
+        "Adult apprentice",
+        "",
+        ""
+      ],
+      [
+        "",
+        "% of C10/ V5",
+        "Min weekly rate",
+        "Hourly rate",
+        "% of C10/V5 or classific ation",
+        "Min weekly rate",
+        "Hourly rate",
+        "% of C10/ V5 or classific ation",
+        "Min weekly rate",
+        "Hourly rate"
+      ],
+      [
+        "1",
+        "50",
+        "534.20",
+        "14.06",
+        "55%",
+        "587.62",
+        "15.46",
+        "80%",
+        "854.72",
+        "22.49"
+      ],
+      [
+        "2",
+        "60",
+        "641.04",
+        "16.87",
+        "65%",
+        "694.46",
+        "18.28",
+        "C14/V1",
+        "922.70",
+        "24.28"
+      ],
+      [
+        "3",
+        "75",
+        "801.30",
+        "21.09",
+        "75%",
+        "801.30",
+        "21.09",
+        "C13/V2",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "4",
+        "88",
+        "940.19",
+        "24.74",
+        "C12/V3",
+        "982.40",
+        "25.85",
+        "C12/V3",
+        "982.40",
+        "25.85"
+      ]
+    ],
+    [
+      [
+        "School leaver",
+        "% of C10/V5 level",
+        "Completed Year 10 or less",
+        "% of C10/V5 level",
+        "Completed Year 11",
+        "% of C10/V5 level",
+        "Completed Year 12"
+      ],
+      [
+        "",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "",
+        "$",
+        "",
+        "$"
+      ],
+      [
+        "Plus 1 year",
+        "54.5",
+        "582.28",
+        "63.1",
+        "674.16",
+        "73.5",
+        "785.27"
+      ],
+      [
+        "Plus 2 years",
+        "63.1",
+        "674.16",
+        "73.5",
+        "785.27",
+        "85.3",
+        "911.35"
+      ],
+      [
+        "Plus 3 years",
+        "73.5",
+        "785.27",
+        "85.3",
+        "911.35",
+        "100",
+        "1068.40"
+      ],
+      [
+        "Plus 4 years",
+        "85.3",
+        "911.35",
+        "100",
+        "1068.40",
+        "",
+        ""
+      ],
+      [
+        "Plus 5 years",
+        "100",
+        "1068.40",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "School leaver",
+        "% of C11/V4 level",
+        "Completed Year 10 or less",
+        "% of C11/V4 level",
+        "Completed Year 11",
+        "% of C11/V4 level",
+        "Completed Year 12"
+      ],
+      [
+        "",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "",
+        "$",
+        "",
+        "$"
+      ],
+      [
+        "Plus 1 year",
+        "57.9",
+        "587.51",
+        "64.8",
+        "657.53",
+        "74.5",
+        "755.95"
+      ]
+    ],
+    [
+      [
+        "School leaver",
+        "% of C11/V4 level",
+        "Completed Year 10 or less",
+        "% of C11/V4 level",
+        "Completed Year 11",
+        "% of C11/V4 level",
+        "Completed Year 12"
+      ],
+      [
+        "",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "",
+        "$",
+        "",
+        "$"
+      ],
+      [
+        "Plus 2 years",
+        "64.8",
+        "657.53",
+        "74.5",
+        "755.95",
+        "87.2",
+        "884.82"
+      ],
+      [
+        "Plus 3 years",
+        "74.5",
+        "755.95",
+        "87.2",
+        "884.82",
+        "100",
+        "1014.70"
+      ],
+      [
+        "Plus 4 years",
+        "87.2",
+        "884.82",
+        "100",
+        "1014.70",
+        "",
+        ""
+      ],
+      [
+        "Plus 5 years",
+        "100",
+        "1014.70",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "School leaver",
+        "% of C12/V3 level",
+        "Completed Year 10 or less",
+        "% of C12/V3 level",
+        "Completed Year 11",
+        "% of C12/V 3 level",
+        "Completed Year 12"
+      ],
+      [
+        "",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate",
+        "",
+        "Minimum weekly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "",
+        "$",
+        "",
+        "$"
+      ],
+      [
+        "Plus 1 year",
+        "60.3",
+        "592.39",
+        "63.5",
+        "623.82",
+        "71.7",
+        "704.38"
+      ],
+      [
+        "Plus 2 years",
+        "63.5",
+        "623.82",
+        "71.7",
+        "704.38",
+        "80.2",
+        "787.88"
+      ],
+      [
+        "Plus 3 years",
+        "71.7",
+        "704.38",
+        "80.2",
+        "787.88",
+        "100",
+        "982.40"
+      ],
+      [
+        "Plus 4 years",
+        "80.2",
+        "787.88",
+        "100",
+        "982.40",
+        "",
+        ""
+      ],
+      [
+        "Plus 5 years",
+        "100",
+        "982.40",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Allowance",
+        "Clause",
+        "% of standard rate",
+        "$",
+        "Payable"
+      ],
+      [
+        "Engine driver and fireperson\u2014Attending to refrigeration compressors",
+        "30.3(g)(i)",
+        "159.7",
+        "44.91",
+        "per week"
+      ],
+      [
+        "Engine driver and fireperson\u2014Attending to an electric generator or dynamo exceeding 10kW capacity",
+        "30.3(g)(i)",
+        "159.7",
+        "44.91",
+        "per week"
+      ],
+      [
+        "Engine driver and fireperson\u2014Being in charge of plant",
+        "30.3(g)(i)",
+        "159.7",
+        "44.91",
+        "per week"
+      ],
+      [
+        "Engine driver and fireperson\u2014Attending to a switchboard where the generating capacity is 350kW or over",
+        "30.3(g)(i)",
+        "49.8",
+        "14.00",
+        "per week"
+      ],
+      [
+        "Cleaner, greaser or oiler allowance",
+        "30.3(h)",
+        "148.0",
+        "41.62",
+        "per week"
+      ],
+      [
+        "Manganese dioxide and other pigments allowance\u2014First 2 hours",
+        "30.3(i)(i)",
+        "8.5",
+        "2.39",
+        "per hour"
+      ],
+      [
+        "Manganese dioxide and other pigments allowance\u2014More than 2 hours",
+        "30.3(i)(ii)",
+        "60.3",
+        "16.96",
+        "per day"
+      ],
+      [
+        "Inspector's allowance (paid in excess of rate payable to employee whose work is inspected)2",
+        "54.2",
+        "155.04",
+        "43.60",
+        "per week"
+      ],
+      [
+        "Carpenter's allowance2",
+        "54.3",
+        "1.25",
+        "0.35",
+        "per hour"
+      ]
+    ],
+    [
+      [
+        "Column 1 Experience level of trainee",
+        "Column 2 Highest year of schooling completed",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Year 10",
+        "Year 11",
+        "Year 12"
+      ],
+      [
+        "",
+        "per week",
+        "per week",
+        "per week"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "School leaver",
+        "412.70",
+        "454.40",
+        "540.50"
+      ],
+      [
+        "Plus 1 year out of school",
+        "454.40",
+        "540.50",
+        "629.00"
+      ],
+      [
+        "Plus 2 years out of school",
+        "540.50",
+        "629.00",
+        "732.00"
+      ],
+      [
+        "Plus 3 years out of school",
+        "629.00",
+        "732.00",
+        "838.00"
+      ],
+      [
+        "Plus 4 years out of school",
+        "732.00",
+        "838.00",
+        ""
+      ],
+      [
+        "Plus 5 or more years out of school",
+        "838.00",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Column 1 Experience level of trainee",
+        "Column 2 Highest year of schooling completed",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Year 10",
+        "Year 11",
+        "Year 12"
+      ],
+      [
+        "",
+        "per week",
+        "per week",
+        "per week"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "School leaver",
+        "412.70",
+        "454.40",
+        "526.70"
+      ],
+      [
+        "Plus 1 year out of school",
+        "454.40",
+        "526.70",
+        "605.90"
+      ],
+      [
+        "Plus 2 years out of school",
+        "526.70",
+        "605.90",
+        "710.60"
+      ],
+      [
+        "Plus 3 years out of school",
+        "605.90",
+        "710.60",
+        "810.40"
+      ],
+      [
+        "Plus 4 years out of school",
+        "710.60",
+        "810.40",
+        ""
+      ],
+      [
+        "Plus 5 or more years out of school",
+        "810.40",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Column 1 Wage level",
+        "Column 2 First year of traineeship",
+        "Column 3 Second and subsequent years of traineeship"
+      ],
+      [
+        "",
+        "per week",
+        "per week"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "A",
+        "869.80",
+        "902.80"
+      ],
+      [
+        "B",
+        "841.20",
+        "873.20"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Manufacturing and Associated Industries and Occupations Award\n2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794709 and PR795818).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n31\u2014Superannuation\nPart 7\u2014Workplace Delegates, Consultation and Dispute Resolution\n40A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR740144, PR746868, PR747335, PR750499, PR774715, PR777968, PR795818]\nPart 1\u2014 Application and Operation of this Award .............................................................. 5\n1. Title and commencement ............................................................................................ 5\n2. Definitions .................................................................................................................... 5\n3. The National Employment Standards and this award ................................................ 12\n4. Coverage ..................................................................................................................... 12\n5. Individual flexibility arrangements ............................................................................. 19\n6. Requests for flexible working arrangements .............................................................. 21\n7. Facilitative provisions ................................................................................................. 21\nPart 2\u2014 Types of Employment ......................................................................................... 25\n8. Types of employment ................................................................................................. 25\n9. Full-time employees ................................................................................................... 25\n10. Part-time employees .................................................................................................. 25\n11. Casual employees ....................................................................................................... 26\n12. Apprentices ................................................................................................................. 27\n13. School-based apprentices .......................................................................................... 33\nMA000010 1\nManufacturing and Associated Industries and Occupations Award 2020\n14. Cadets ......................................................................................................................... 33\n15. Trainees ....................................................................................................................... 39\n16. Unapprenticed juniors ................................................................................................ 40\nPart 3\u2014 Hours of Work .................................................................................................... 40\n17. Ordinary hours of work and rostering ........................................................................ 40\n17A. Employee right to disconnect ..................................................................................... 45\n18. Breaks .......................................................................................................................... 46\n19. Ship trials..................................................................................................................... 47\nPart 4\u2014 Wages, Allowances and Classifications ............................................................... 48\n20. Minimum rates ............................................................................................................ 48\n21. Apprentice minimum rates ......................................................................................... 55\n22. Adult apprentice minimum rates ................................................................................ 65\n23. Cadet minimum rates.................................................................................................. 65\n24. Trainee minimum rates ............................................................................................... 68\n25. Unapprenticed junior minimum rates ........................................................................ 72\n26. Extra rates not cumulative .......................................................................................... 74\n27. Payment of wages ....................................................................................................... 74\n28. Annualised wage arrangements ................................................................................. 76\n29. Employer and employee duties .................................................................................. 79\n30. Allowances and special rates ...................................................................................... 79\n31. Superannuation ........................................................................................................... 98\nPart 5\u2014 Overtime and Penalty Rates ............................................................................. 100\n32. Overtime ...................................................................................................................100\n33. Penalty Rates .............................................................................................................108\nPart 6\u2014 Leave and Public Holidays ................................................................................ 112\n34. Annual leave ..............................................................................................................112\n35. Personal/carer\u2019s leave and compassionate leave .....................................................118\n2 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\n36. Parental leave and related entitlements .................................................................. 119\n37. Community service leave ......................................................................................... 119\n38. Family and domestic violence leave ......................................................................... 119\n39. Absence from duty ................................................................................................... 120\n40. Public holidays .......................................................................................................... 120\nPart 7\u2014 Workplace Delegates, Consultation and Dispute Resolution .............................. 121\n40A. Workplace delegates\u2019 rights ..................................................................................... 121\n41. Consultation about major workplace change .......................................................... 125\n42. Consultation about changes to rosters or hours of work ......................................... 126\n43. Dispute resolution .................................................................................................... 126\n44. Dispute resolution procedure training leave ............................................................ 127\nPart 8\u2014 Termination of Employment and Redundancy ................................................... 129\n45. Termination of employment ..................................................................................... 129\n46. Redundancy .............................................................................................................. 130\nPart 9\u2014 Vehicle manufacturing employees .................................................................... 134\n47. Coverage of Part 9 of this award .............................................................................. 134\n48. Casual loading for vehicle manufacturing employees in the technical field ............ 134\n49. Payment of fees for vehicle manufacturing trainees ............................................... 134\n50. Ordinary hours of work\u2014shiftworkers\u2014vehicle manufacturing employees........... 135\n51. Meal break\u2014vehicle manufacturing employees in the technical field .................... 136\n52. Tea breaks\u2014Vehicle manufacturing employees ...................................................... 136\n53. Junior tracers in the technical field\u2014vehicle manufacturing employees ................ 137\n54. Allowances and related matters\u2014vehicle manufacturing employees ..................... 137\n55. Accident pay\u2014Vehicle manufacturing employees ................................................... 139\n56. Shiftwork and rates\u2014vehicle manufacturing employees ........................................ 142\n57. Overtime\u2014vehicle manufacturing employees......................................................... 145\nMA000010 3\nManufacturing and Associated Industries and Occupations Award 2020\nSchedule A \u2014Classification Structure and Definitions .................................................... 149\nSchedule B \u2014Vehicle Manufacturing Employees\u2014Skill Level Definitions\u2014Trades, Non-\ntrades, Post-trades, Drivers, Technicians/ Technical Officers and\nSupervisors/Trainers/Coordinators ................................................................................ 173\nSchedule C \u2014Summary of Hourly Rates ......................................................................... 197\nSchedule D \u2014Summary of Monetary Allowances ........................................................... 207\nSchedule E \u2014Supported Wage System ........................................................................... 216\nSchedule F \u2014School-based Apprenticeships .................................................................. 220\nSchedule G \u2014National Training Wage ............................................................................ 222\nSchedule H \u2014Agreement for time off instead of payment for overtime .......................... 235\nSchedule I \u2014Agreement to Take Annual Leave in Advance ............................................. 236\nSchedule J \u2014Agreement to Cash Out Annual Leave ........................................................ 237\n4 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n1.1 This award is the Manufacturing and Associated Industries and Occupations Award\n2020.\n1.2 This modern award, as varied, commenced operation on 1 January 2010.\n1.3 A variation to this award does not affect any right, privilege, obligation or liability that\na person acquired, accrued or incurred under the award as it existed prior to that\nvariation.\n2. Definitions\n[Varied by PR733979, PR744246, PR774715, PR777237. PR795818]\nIn this award, unless the contrary intention appears:\nAct means the Fair Work Act 2009 (Cth).\nadult apprentice means a person of 21 years of age or over at the time of entering\ninto a training contract as provided for in clause 12\u2014Apprentices.\nafternoon shift, for employees other than Vehicle Manufacturing employees\ncovered by clause 4.8(a)(xi), has the meaning given in clause 33.2(b)(i).\nafternoon shift, for Vehicle Manufacturing employees covered by clause 4.8(a)(xi),\nhas the meaning given in clause 56.1(a)(i).\nagricultural implements, machinery and appliances means farming or pastoral\nequipment such as harvesters, headers, windmills for the purpose of pumping river\nor subterranean water, ploughs, harrows, discs, seeders, top-dressers, mowing\nequipment, mobile irrigation equipment, fruit and vegetable harvesting and sorting\nequipment and such other equipment as is used mainly or solely in the agricultural\nand/or pastoral industry.\nall purposes means the payment will be included in the rate of pay of an employee\nwho is entitled to the allowance, when calculating any penalties or loadings or\npayment while they are on annual leave.\napprentice includes an adult apprentice.\nboiler attendant or fireperson\u2014first class means a boiler attendant or fireperson\nwho attends to 2 or more boilers or 2 or more suction gas generators, or one boiler\nthe evaporation capacity of which attributed thereto by the maker exceeds 5000 kg\n5 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nbut less than 45000 kg of steam per hour, or one gas generator supplying a total\nengine load capacity attributed thereto by the maker of not less than 740 kW.\nbottle merchants means businesses operating bottle yards/collection depots\nprincipally collecting bottles, cans, plastic and other packaging materials for drinks.\n[Definition of casual employee inserted by PR733979 from 27Sep21; varied by PR777237 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\ncasual ordinary hourly rate means the hourly rate for a casual employee for the\nemployee\u2019s classification specified in clause 20\u2014Minimum rates, inclusive of the\ncasual loading. Where an employee is entitled to an all-purpose allowance, this\nallowance forms part of that employee\u2019s ordinary hourly rate.\nconfined space means a compartment, space or place the dimensions of which\nnecessitate an employee working in a stooped or otherwise cramped position or\nwithout proper ventilation and subject thereto includes the following spaces:\n(a) in the case of a ship, inside complete tanks, chain lockers and peaks, under\nengine beds, under engine room and stockhold floors, or under or inside\nboilers;\n(b) in other cases, inside boilers, steam drums, mud drums, fire boxes of vertical\nor road vehicle boilers, furnaces, flues, combustion chambers, receivers,\nbuoys, tanks, superheaters or economisers; and\n(c) work on the inside of tanker type vehicles such as those used in carrying\npetrol, milk, flour, cement and the like, but not other work on vehicles.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nelectric motor attendant means a person who attends to an electric motor or\nmotors of 22 kW or more in the aggregate, and performs any duties of oiling or\ncleaning or attending to commutators, brushes, fuses or switches.\nemployee means national system employee within the meaning of the Act.\n6 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\n[Definition of employee organisation inserted by PR774715 (quashed by [2025] FCAFC 187); inserted by\nPR795818 from 01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means national system employer within the meaning of the Act.\nengine driver means any person who operates or drives any engine or engines, the\nmotive power of which is either steam, gas, oil, water, compressed air or electricity,\nand includes any person who is called on in the ordinary course of their duty to do\nengine driver\u2019s work other than simply stopping or starting an engine under the\nsupervision of an engine driver.\nengine driver in charge of plant means:\n(a) when 2 or more drivers are employed at the plant at one time, the engine\ndriver who is invested with the superintendence and responsibility or who has\nto accept the superintendence and responsibility; or\n(b) an engine driver who is invested with the superintendence and responsibility\nor who has to accept the superintendence and responsibility over one or more\nnon-certified firepersons; or\n(c) a person who is the only engine driver employed on the plant and who does\nthe general repair work of the plant in addition to the work of engine driving,\nother than merely assisting a fitter or engineer to do such work; or\n(d) where shifts are worked, the engine driver who in addition to the work of\nengine driving is directed to carry out the general repair work of the plant,\nother than merely assisting a fitter or engineer to do such work.\nengineering streams are the 3 broad engineering streams recognised within the\nclassification definitions set out in Schedule A\u2014Classification Structure and\nDefinitions namely, electrical/electronic, mechanical and fabrication. The streams\nare defined as the:\n(a) electrical/electronic stream which includes the design, assembly,\nmanufacture, installation, modification, testing, fault finding, commissioning,\nmaintenance and service of all electrical and electronic devices, systems,\nequipment and controls, such as electrical wiring, motors, generators, PLCs\nand other electronic controls, instruments, refrigeration, telecommunications,\nradio and television, and communication and information processing.\n(b) mechanical stream which includes the design, assembly, manufacture,\ninstallation, modification, testing, fault finding, commissioning, maintenance\nand service of all mechanical equipment, machinery, fluid power systems,\nMA000010 7\nManufacturing and Associated Industries and Occupations Award 2020\nautomotive mechanics, instruments and refrigeration, and the use of related\ncomputer controlled equipment, such as Computer Numeric Controlled\nmachine tools.\n(c) fabrication stream which includes fabrication in all materials, forging,\ncarpentry, plumbing, founding, structural steel erection, electroplating, metal\nspinning, metal polishing and sheet metal work and the use of related\ncomputer controlled equipment.\n[Definition of enterprise inserted by PR774715 (quashed by [2025] FCAFC 187); inserted by PR795818 from\n01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nfireperson or greaser in charge of plant means a fireperson or greaser who is the\nonly fireperson or greaser employed on the plant and who does the general repair\nwork of the plant in addition to the work of firing or greasing, other than merely\nassisting a fitter, engine driver or engineer to do such work or a greaser assisting a\nfireperson to do such work.\ngreaser or oiler means any person substantially engaged in greasing or oiling any\nengine, machinery or shafting.\ngreaser or oiler\u2014first class means a greaser or oiler who under the supervision of\nan engine driver stops or starts an engine or engines, but does not include any\ngreaser or oiler who does so only in cases of necessity or emergency.\nleading boiler attendant or fireperson\u2014first class means:\n(a) the boiler attendant or fireperson employed at a plant where 3 or more\nfirepersons are employed at the same time who is invested with the\nsuperintendence and responsibility or who has to accept the superintendence\nand responsibility, but does not include any boiler attendant or fireperson\nwhere an engine driver is charged with being in charge of plant; or\n(b) the boiler attendant or fireperson employed at a plant where 3 or more\nattendants or firepersons are employed at the same time whose duty is to\nattend to the water of the boilers that are fitted by 2 or more of the other\nboiler attendants or firepersons.\n8 MA000010\nManufacturing and Associated Industries and Occupations Award 2020\nleading boiler attendant or fireperson\u2014second class means:\n(a) the boiler attendant or fireperson employed at a plant where 2 boiler\nattendants or firepersons are employed at the same time who is invested with\nthe superintendence or has to accept the superintendence or responsibility,\nbut does not include any boiler attendant or fireperson where an engine\ndriver is charged with being in charge of the plant; or\n(b) the boiler attendant or fireperson employed at a plant where 2 boiler\nattendants or firepersons are employed at the same time and whose duty it is\nto attend to the water of the boilers that are fired by the other fireperson.\nmanufacturing and associated industries and occupations has the meaning given in\nclause 4.8.\nmetal and engineering competency standards means the standar"
+}

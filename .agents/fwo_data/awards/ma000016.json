@@ -1,0 +1,480 @@
+{
+  "ma_number": "MA000016",
+  "award_name": "Security Services Industry Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000016.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 72,
+  "last_amended": null,
+  "coverage": "4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the security services industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nDefinitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, security services industry includes:\n(a) patrolling, protecting, screening, watching or guarding any people or property\n(including cash or other valuables):\n(i) by physical means (which ",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": 25.0,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "............................................................................................................ 23",
+    "penalty_rates_clause": "19. Overtime ..................................................................................................................... 31",
+    "overtime_clause": "19. Overtime ..................................................................................................................... 31",
+    "allowances_clause": "15. Minimum rates\n[Varied by PR718833, PR729270, PR740691, PR762124, PR773900, PR786554]\n[15.1 varied by PR718833, PR729270, PR740691, PR762124, PR773900, PR786554 ppc 01Jul25]\n15.1 An employer must pay an employee the rate applicable to the employee\u2019s\nclassification specified in column 1 of Table 4\u2014Minimum rates for ordinary hours\nof work.\nTable 4\u2014Minimum rates\nColumn 1 Column 2 Column 3\nEmployee Classification Minimum weekly rate Minimum hourly rate\n(full-time employee)\n$ $\nSecurity Officer Level 1 1031.10 27.13\nSecurity Officer Level 2 1060.60 27.91\nSecurity Officer Level 3 1078.60 28.38\nSecurity Officer Level 4 1096.60 28.86\nSecurity Officer Level 5 1131.90 29.79\nNOTE 1: Overtime rates are specified in clause 19\u2014Overtime. Penalty rates are\nspecified in clause 20\u2014Penalty rates.\nNOTE 2: Provisions for calculating rates for casual employees are at clause 11\u2014\nCasual employee.\nNOTE 3: Schedule B\u2014Summary of Hourly Rates of Pay contains a summary of hourly\nrates of pay including casual, overtime and penalty rates.\n15.2 Higher duties\n(a) An employer must pay an employee who performs for more than 4 hours on\nany particular day or shift duties of a classification higher than the employee\u2019s\nordinary classification, the minimum hourly rate specified in column 3 of Table\nMA000016 23\nSecurity Services Industry Award 2020\n4\u2014Minimum rates for that higher classification for the whole of that day or\nshift.\n(b) An employer must pay an employee who performs for 4 hours or less on any\nparticular day or shift duties of a classification higher than the employee\u2019s\nordinary classification, the minimum hourly rate specified in column 3 of Table\n4\u2014Minimum rates for that higher classification for the time during which\nthose duties were performed.\n15.3 National training wage\n(a) Schedule E to the Miscellaneous Award 2020 sets out minimum wage rates\nand conditions for employees undertaking traineeships.\n[15.3(b) varied by PR718833, PR729270, PR740691, PR762124, PR773900, PR786554 ppc 01Jul25]\n(b) This award incorporates the terms of Schedule E to the Miscellaneous Award\n2020 as at 1 July 2025. Provided that any reference to \u201cthis award\u201d in\nSchedule E to the Miscellaneous Award 2020 is to be read as referring to the\nSecurity Services Industry Award 2020 and not the Miscellaneous Award 2020."
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "work. If he works 7.6 hours on Wednesday, he will be paid as follows:"
+      ],
+      [
+        "Multiply the minimum hourly rate by the overtime rate and then that rate by the number of"
+      ],
+      [
+        "overtime hours worked: $27.13 x 200% = $54.26. $54.26 x 7.6 = $412.38"
+      ],
+      [
+        "George would be paid a total of $412.38 for Wednesday in this case."
+      ],
+      [
+        "Calculating pay for a break of 8 or more hours"
+      ],
+      [
+        "Alternatively, George may be directed by his employer to start work at 8.00 am on"
+      ],
+      [
+        "Wednesday (one hour later than his usual 7.00 am start) so he can receive an 8 hour break."
+      ],
+      [
+        "In this case even though George only works 6.6 hours on Wednesday, he must still be paid his"
+      ],
+      [
+        "minimum hourly rate for 7.6 hours: $27.13 x 7.6 = $206.19"
+      ],
+      [
+        "George would be paid a total of $206.19 for Wednesday in this case."
+      ]
+    ],
+    [
+      [
+        "Column 1 Employee Classification",
+        "Column 2 Minimum weekly rate (full-time employee)",
+        "Column 3 Minimum hourly rate"
+      ],
+      [
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Security Officer Level 1",
+        "1031.10",
+        "27.13"
+      ],
+      [
+        "Security Officer Level 2",
+        "1060.60",
+        "27.91"
+      ],
+      [
+        "Security Officer Level 3",
+        "1078.60",
+        "28.38"
+      ],
+      [
+        "Security Officer Level 4",
+        "1096.60",
+        "28.86"
+      ],
+      [
+        "Security Officer Level 5",
+        "1131.90",
+        "29.79"
+      ]
+    ],
+    [
+      [
+        "Jimmy is a full-time Level 3 employee. His minimum hourly rate is",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$28.38",
+        ""
+      ],
+      [
+        "Jimmy starts work at noon and finishes work at 4.00 pm on Thursday. He is rostered to return",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "to work at 8.00 pm that same day for a period of 3.6 hours. Jimmy will:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "work a total of 4 hours of ordinary time",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "work a total of 3.6 hours of ordinary time on night shift",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "work a broken shift",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Step 1: calculating ordinary time pay",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Multiply the minimum hourly rate by the number of ordinary hours worked:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "$28.38",
+        "x 4 =",
+        "$113.52",
+        "",
+        ".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Step 2: calculating ordinary time pay on night shift",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Multiply the minimum hourly rate by the night shift penalty rate and then that rate by the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "number of night shift hours worked =",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$28.38",
+        "x 121.7% =",
+        "$34.54",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "$34.54",
+        "x 3.6 = $",
+        "",
+        "124.34",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Step 3: calculating total pay",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Add the total hourly rate in Step 1, the total night shift rate in Step 2, and the broken shift",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "allowance =",
+        "$113.52 + $124.34 + $17.47 = $255.33",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Jimmy would be paid a total of",
+        "",
+        "$255.33",
+        "for Thursday in this case.",
+        ""
+      ],
+      [
+        "NOTE: Calculations in this example are based on the rounded hourly rates in Schedule B\u2014",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Summary of Hourly Rates of Pay.",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Jimmy is a full-time Level 3 employee. His hourly rate of pay is $28.38"
+      ],
+      [
+        "Jimmy finishes work at 5.00 pm but is requested to return to work at 9.00 pm for a security"
+      ],
+      [
+        "check. It takes him one hour to secure the premises; however, Jimmy is entitled to 3 hours\u2019"
+      ],
+      [
+        "pay at overtime rates (as 9.00 pm is outside ordinary hours)."
+      ],
+      [
+        "Calculating overtime pay"
+      ],
+      [
+        "Multiply the minimum hourly rate by the overtime rate (% of minimum hourly rate):"
+      ],
+      [
+        "The first 2 hours of overtime = $28.38 x 150% = $42.57 per hour. $42.57 x 2 = $85.14."
+      ],
+      [
+        "Each hour thereafter of overtime = $28.38 x 200% = $56.76 per hour."
+      ],
+      [
+        "Add the total for the first 2 hours of overtime and the total amount for each extra hour:"
+      ],
+      [
+        "$85.14 + $56.76 = $141.90"
+      ],
+      [
+        "Jimmy would be paid $141.90 for the 1 hour call back."
+      ],
+      [
+        "NOTE: Calculations in this example are based on the rounded hourly rates in Schedule B\u2014"
+      ],
+      [
+        "Summary of Hourly Rates of Pay."
+      ]
+    ],
+    [
+      [
+        "rate."
+      ],
+      [
+        "Frank works a 5 hour shift on Friday, Saturday and Sunday, with each shift starting at"
+      ],
+      [
+        "6.00 pm. Frank will:"
+      ],
+      [
+        "work a total of 5 hours of ordinary time on night shift"
+      ],
+      [
+        "work a total of 5 hours of ordinary time on a Saturday"
+      ],
+      [
+        "work a total of 5 hours of ordinary time on a Sunday."
+      ],
+      [
+        "Calculating ordinary time pay on night shift"
+      ],
+      [
+        "Step 1: Multiply the minimum hourly rate by the casual night shift penalty rate:"
+      ],
+      [
+        "$27.13 x 146.7% = $39.80"
+      ],
+      [
+        "Step 2: Multiply the night shift hourly rate by the number of ordinary hours worked on night"
+      ],
+      [
+        "shift: $39.80 x 5 = $199.00"
+      ],
+      [
+        "Frank would be paid $199.00 for his Friday night shift."
+      ],
+      [
+        "Calculating ordinary time pay on Saturday"
+      ],
+      [
+        "Step 3: Multiply the minimum hourly rate of pay by the casual Saturday penalty rate: $27.13"
+      ],
+      [
+        "x 175% = $47.48"
+      ],
+      [
+        "Step 4: Multiply the Saturday hourly rate by the number of ordinary hours worked on"
+      ],
+      [
+        "Saturday: $47.48 x 5 = $237.40"
+      ],
+      [
+        "Frank would be paid $237.40 for his Saturday shift."
+      ],
+      [
+        "Calculating ordinary time pay on Sunday"
+      ],
+      [
+        "Step 5: Multiply the minimum hourly rate by the casual Sunday penalty rate: $27.13 x 225%"
+      ],
+      [
+        "= $61.04"
+      ],
+      [
+        "Step 6: Multiply the Sunday hourly rate by the number of ordinary hours worked on Sunday:"
+      ],
+      [
+        "$61.04 x 5 = $305.20."
+      ],
+      [
+        "Frank would be paid $305.20 for his Sunday shift."
+      ]
+    ],
+    [
+      [
+        "Calculating total pay"
+      ],
+      [
+        "Step 7: Add the total night shift amount in Step 2, the total Saturday amount rate in Step 4,"
+      ],
+      [
+        "and the total Sunday work amount in Step 6: $199.00 + $237.40 + $305.20 = $741.60."
+      ],
+      [
+        "Frank would be paid a total of $741.60 for the 3 shifts."
+      ],
+      [
+        "NOTE: Calculations in this example are based on the rounded hourly rates in Schedule B\u2014"
+      ],
+      [
+        "Summary of Hourly Rates of Pay."
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Security Services Industry Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794713 and PR795653).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n18\u2014Superannuation\n26A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR746868, PR747558, PR750541, PR774721, PR777973]\nPart 1\u2014 Application and Operation of this Award .............................................................. 4\n1. Title and commencement ............................................................................................ 4\n2. Definitions .................................................................................................................... 4\n3. The National Employment Standards and this award .................................................. 7\n4. Coverage ....................................................................................................................... 8\n5. Individual flexibility arrangements ............................................................................... 9\n6. Requests for flexible working arrangements .............................................................. 11\n7. Facilitative provisions ................................................................................................. 11\nPart 2\u2014 Types of Employment and Classifications ............................................................ 12\n8. Types of employment ................................................................................................. 12\n9. Full-time employees ................................................................................................... 13\n10. Part-time employees .................................................................................................. 13\n11. Casual employees ....................................................................................................... 14\n12. Classifications ............................................................................................................. 14\nPart 3\u2014 Hours of Work .................................................................................................... 15\n13. Ordinary hours of work and rostering arrangements ................................................ 15\n13A. Employee right to disconnect ..................................................................................... 19\n14. Breaks ......................................................................................................................... 20\nMA000016 1\nSecurity Services Industry Award 2020\nPart 4\u2014 Wages and Allowances ....................................................................................... 23\n15. Minimum rates ............................................................................................................ 23\n16. Payment of wages ....................................................................................................... 24\n17. Allowances .................................................................................................................. 25\n18. Superannuation ........................................................................................................... 28\nPart 5\u2014 Overtime and Penalty Rates ............................................................................... 31\n19. Overtime ..................................................................................................................... 31\n20. Penalty rates ............................................................................................................... 35\nPart 6\u2014 Leave and Public Holidays .................................................................................. 38\n21. Annual leave ................................................................................................................ 38\n22. Personal/carer\u2019s leave and compassionate leave ....................................................... 44\n23. Parental leave and related entitlements ..................................................................... 44\n24. Community service leave ............................................................................................ 45\n25. Family and domestic violence leave ........................................................................... 45\n26. Public holidays ............................................................................................................ 45\nPart 7\u2014 Workplace Delegates, Consultation and Dispute Resolution ................................ 46\n26A. Workplace delegates\u2019 rights ........................................................................................ 46\n27. Consultation about major workplace change ............................................................. 49\n28. Consultation about changes to rosters or hours of work ........................................... 51\n29. Consultation about change of contract ...................................................................... 51\n30. Dispute resolution ....................................................................................................... 52\nPart 8\u2014 Termination of Employment and Redundancy .................................................... 53\n31. Termination of employment ....................................................................................... 53\n32. Redundancy ................................................................................................................ 54\n2 MA000016\nPlain language exposure draft\u2014Security Services Industry Award 20XX\nSchedule A \u2014Classification Definitions ............................................................................ 57\nSchedule B \u2014Summary of Hourly Rates of Pay ................................................................. 62\nSchedule C \u2014Summary of Monetary Allowances ............................................................. 65\nSchedule D \u2014Agreement for Time Off Instead of Payment for Overtime .......................... 68\nSchedule E \u2014Agreement to Take Annual Leave in Advance .............................................. 69\nSchedule F \u2014Agreement to Cash Out Annual Leave ......................................................... 71\nMA000016 3\nSecurity Services Industry Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n1.1 This is the Security Services Industry Award 2020.\n1.2 This modern award commenced operation on 1 January 2010. The terms of the\naward have been varied since that date.\n1.3 A variation to this award made by the Fair Work Commission does not affect any\nright, privilege, obligation or liability acquired, accrued or incurred under this award\nas in force before that variation.\n2. Definitions\n[Varied by PR733902, PR750541, PR774721, PR777243, PR794068, PR795653]\nIn this award:\nAct means the Fair Work Act 2009 (Cth).\nbasic crowd controller means an employee who has less than 12 months\u2019\nexperience as a Security Officer at any level.\nbroken shift, see clause 13.3(h).\ncash-in-transit is the transport, delivery and receipt of valuables (including cash,\nbullion, jewels, securities and other financial instruments) and includes:\n(a) the movement of valuables in a vehicle (usually an armoured vehicle) on\nbehalf of other persons for reward; and\n(b) the replenishing of automatic teller machines (ATMs).\n[Definition of casual employee inserted by PR733902 from 27Sep21; varied by PR777243 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\nMA000016 4\nSecurity Services Industry Award 2020\nchange of contract, in relation to an employee, means the ending of a contract with\nan employer to perform security services work and the starting of a new contract\nwith a different employer to perform similar work at the same location.\ncrowd controller means a person employed mainly to maintain order at any public\nplace, including licensed venues and events, by doing one or more of the following:\n(a) screening entry into the place (other than by merely securing or checking that\npersons have paid for admission or have invitations or passes allowing for\nadmission); or\n(b) monitoring or controlling behaviour in the place; or\n(c) removing any person from the place; or\n(d) otherwise maintaining order in the place.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nemployee means a national system employee as defined by section 13 of the Act.\n[Definition of employee organisation inserted by PR774721; substituted retrospectively by PR795653 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means a national system employer as defined by section 14 of the Act.\n[Definition of enterprise inserted by PR774721 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nenterprise instrument has the meaning given by subitem 2(1) of Schedule 6 to the\nFair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth).\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nFair Work Regulations means the Fair Work Regulations 2009 (Cth).\nfirst response means a Security Officer who, on arriving early to a significant\nincident or matter, assumes immediate responsibility for managing the incident or\nmatter until appropriate specialised personnel arrive.\nmonitoring centre means a facility that remotely monitors intruder alarm systems\n(in compliance with AS 2201.2, Intruder alarm systems, Part 2: Monitoring centres)\nfrom sites that are not co-located with the facility and provides specific responses\nMA000016 5\nSecurity Services Industry Award 2020\nthat do not require any employee working at the centre to physically attend the\nlocation of any alarm.\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNational Employment Standards, see Part 2-2 of the Act. Divisions 3 to 12 of Part 2-\n2 of the Act constitute the National Employment Standards. An extract of section\n61 of the Act is reproduced below.\nThe National Employment Standards are minimum standards applying to\nemployment of employees. The minimum standards relate to the following matters:\n(a) maximum weekly hours (Division 3);\n(b) requests for flexible working arrangements (Division 4);\n[Paragraph (ba) inserted by PR733902 ppc 27Sep21; substituted by PR777243 from 27Aug24]\n(ba) casual employment (Division 4A);\n(c) parental leave and related entitlements (Division 5);\n(d) annual leave (Division 6);\n[Paragraph (e) varied by PR750541 ppc 15Mar23]\n(e) personal/carer\u2019s leave, compassionate leave and paid family and domestic\nviolence leave (Division 7);\n(f) community service leave (Division 8);\n(g) long service leave (Division 9);\n(h) public holidays (Division 10);\n[Paragraph (ha) inserted by PR794068 ppc 10Dec25]\n(ha) superannuation contributions (Division 10A);\n(i) notice of termination and redundancy pay (Division 11);\n(j) Fair Work Information Statement (Division 12).\non-hire means the on-hire of an employee by their employer to a client, where the\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\novertime rate, see clause 19.3.\n6 MA000016\nSecurity Services Industry Award 2020\nrelieving officer means an employee who, by agreement between the employer and\nemployee, is appointed by the employer for the purpose of relieving another\nsecurity officer at short notice.\nsecurity services industry, see clause 4.2.\n[Definition of small business employer inserted by PR774721 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nstandard rate means the minimum weekly rate for a Security Officer Level 3 in Table\n4\u2014Minimum rates.\nState reference public sector modern award has the meaning given by subitem 3(2)\nof Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nState reference public sector transitional award has the meaning given by subitem\n2(1) of Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nTable 1\u2014Facilitative provisions means the Table in clause 7.2.\nTable 2\u2014Entitlements to rest break(s) means the Table in clause 14.2.\nTable 3\u2014Long breaks means the Table in clause 14.5(a).\nTable 4\u2014Minimum rates means the Table in clause 15.\nTable 5\u2014Overtime rates means the Table in clause 19.3(a).\nTable 6\u2014Call back means the Table in clause 19.5.\nTable 7\u2014Penalty rates means the Table in clause 20.2.\nTable 8\u2014Period of notice means the Table in clause 31.1(b).\n[Definition of workplace delegate inserted by PR774721 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3. The National Employment Standards and this award\n3.1 The National Employment Standards (NES) and this award contain the minimum\nconditions of employment for employees covered by this award.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\nMA000016 7\nSecurity Services Industry Award 2020\n3.3 The employer must ensure that copies of this award and of the NES are available to\nall employees to whom they apply, either on a notice board conveniently located at\nor near the workplace or through accessible electronic means.\n4. Coverage\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the security services industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nDefinitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, security services industry includes:\n(a) patrolling, protecting, screening, watching or guarding any people or property\n(including cash or other valuables):\n(i) by physical means (which may involve the use of patrol dogs or the\npossession or use of a firearm); or\n(ii) by electronic means; and\n(b) crowd control, event control or venue control, whether by physical or\nelectronic means; and\n(c) the provision of bodyguard or close personal protection services; and\n(d) the operation of a security control room or monitoring centre; and\n(e) loss prevention; and\n(f) traffic control that is incidental to, or associated with, the activities referred to\nin clauses 4.2(a), 4.2(b) or 4.2(c).\n4.3 An employer is not covered by this award merely because, as an incidental part of a\nbusiness covered by another modern award, the employer has employees who\nperform functions mentioned in clause 4.2.\n4.4 This industry award also covers:\n(a) on-hire employees working in the security services industry (with a\nclassification defined in Schedule A\u2014Classification Definitions) and the on-hire\nemployers of those employees; and\n(b) trainees employed by a group training employer and hosted by an employer\ncovered by this award to work in the security services industry (with a\nclassification defined in Schedule A\u2014Classification Definitions) and the group\ntraining employers of those trainees.\n8 MA000016\nSecurity Services Industry Award 2020\n4.5 However, this industry award does not cover any of the following:\n(a) employees excluded from award coverage by the Act; or\nNOTE: See section 143(7) of the Act.\n(b) employees covered by a modern enterprise award or an enterprise\ninstrument; or\n(c) employees covered by a State reference public sector modern award or a\nState reference public sector transitional award; or\n(d) employers of employees mentioned in clause 4.5(b) or 4.5(c).\n4.6 This industry award also does not cover an employer in respect of:\n(a) any cash-in-transit part of the employer\u2019s business; or\nNOTE: See clause 4.7 for a limitation on the exclusion from coverage by clause\n4.6(a).\n(b) the operation of prisons or correctional or other detention facilities; or\n(c) the installation, maintenance or repair of electronic alarm or monitoring\nsystems; or\n(d) the installation, maintenance, repair or replenishing of ATMs.\n4.7 An employer is not excluded from coverage by this award in respect of an employee\nmerely because the employee performs cash-in-transit duties as a minor or incidental\npart of their duties.\n4.8 If an employer is covered by more than one award, an employee of the employer is\ncovered by the award containing the classification that is most appropriate to the\nwork performed by the employee and the industry in which they work.\nNOTE: An employee working in the security services industry who is not covered by this\nindustry award may be covered by an award with occupational coverage. For example, the\nClerks\u2014Private Sector Award 2020 may cover clerical employees of employers covered by\nthis award.\n5. Individual flexibility arrangements\n5.1 Despite anything else in this award, an employer and an individual employee may\nagree to vary the application of the terms of this award relating to any of the\nfollowing in order to meet the genuine needs of both the employee and the employer:\n(a) arrangements for when work is performed; or\n(b) overtime rates; or\nMA000016 9\nSecurity Services Industry Award 2020\n(c) penalty rates; or\n(d) allowances; or\n(e) annual leave loading.\n5.2 An agreement must be one that is genuinely made by the employer and the individual\nemployee without coercion or duress.\n5.3 An agreement may only be made after the individual employee has commenced\nemployment with the employer.\n5.4 An employer who wishes to initiate the making of an agreement must:\n(a) give the employee a written proposal; and\n(b) if the employer is aware that the employee has, or should reasonably be\naware that the employee may have, limited understanding of written English,\ntake reasonable steps (including providing a translation in an appropriate\nlanguage) to ensure that the employee understands the proposal.\n5.5 An agreement must result in the employee being better off overall at the time the\nagreement is made than if the agreement had not been made.\n5.6 An agreement must do all of the following:\n(a) state the names of the employer and the employee; and\n(b) identify the award term, or award terms, the application of which is to be\nvaried; and\n(c) set out how the application of the award term, or each award term, is varied;\nand\n(d) set out how the agreement results in the employee being better off overall at\nthe time the agreement is made than if the agreement had not been made;\nand\n(e) state the date the agreement is to start.\n5.7 An agreement must be:\n(a) in writing; and\n(b) signed by the employer and the employee and, if the employee is under 18\nyears of age, by the employee\u2019s parent or guardian.\n5.8 Except as provided in clause 5.7(b), an agreement must not require the approval or\nconsent of a person other than the employer and the employee.\n10 MA000016\nSecurity Services Industry Award 2020\n5.9 The employer must keep the agreement as a time and wages record and give a copy\nto the employee.\n5.10 The employer and the employee must genuinely agree, without duress or coercion to\nany variation of an award provided for by an agreement.\n5.11 An agreement may be terminated:\n(a) at any time, by written agreement between the employer and the employee;\nor\n(b) by the employer or employee giving 13 weeks\u2019 written notice to the other\nparty (reduced to 4 weeks if the agreement was entered into before the first\nfull pay period starting on or after 4 December 2013).\nNOTE: If an employer and employee agree to an arrangement that purports to be an\nindividual flexibility arrangement under this award term and the arrangement does\nnot meet a requirem"
+}

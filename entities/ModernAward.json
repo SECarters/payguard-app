@@ -1,0 +1,244 @@
+{
+  "type": "object",
+  "properties": {
+    "ma_number": {
+      "type": "string",
+      "description": "The unique MA number identifier for this award (e.g. MA000002)"
+    },
+    "award_name": {
+      "type": "string",
+      "description": "Full official name of the Modern Award (e.g. Clerks\u2014Private Sector Award 2020)"
+    },
+    "award_code": {
+      "type": "string",
+      "description": "Short code for the award (e.g. clerks, hospitality, retail)"
+    },
+    "industry": {
+      "type": "string",
+      "description": "Industry sector this award covers"
+    },
+    "last_amended": {
+      "type": "string",
+      "description": "Date of most recent FWC amendment (e.g. 23 January 2026)"
+    },
+    "last_amended_pr": {
+      "type": "string",
+      "description": "FWC PR number(s) for most recent variation (e.g. PR794703)"
+    },
+    "source_url": {
+      "type": "string",
+      "description": "URL of the source FWC consolidated award PDF"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "FWC_consolidated_award_PDF",
+        "FWO_pay_guide",
+        "FWO_website",
+        "manual_entry"
+      ],
+      "description": "Type of source document this data was extracted from"
+    },
+    "extracted_at": {
+      "type": "string",
+      "description": "ISO date this record was extracted/built"
+    },
+    "part_number": {
+      "type": "string",
+      "description": "Part number within the award (e.g. 1, 2, 4, or 'Schedule')"
+    },
+    "part_title": {
+      "type": "string",
+      "description": "Title of the Part (e.g. Wages and Allowances)"
+    },
+    "clause_number": {
+      "type": "string",
+      "description": "Clause number within the award (e.g. 16, 16.1, 19.2, 37A)"
+    },
+    "clause_title": {
+      "type": "string",
+      "description": "Title of the clause (e.g. Minimum rates, Penalty rates, Overtime)"
+    },
+    "clause_type": {
+      "type": "string",
+      "enum": [
+        "coverage",
+        "definitions",
+        "nes_reference",
+        "individual_flexibility",
+        "employment_type",
+        "classification",
+        "hours_of_work",
+        "breaks",
+        "rostering",
+        "minimum_rates",
+        "junior_rates",
+        "casual_loading",
+        "payment_of_wages",
+        "annualised_wage",
+        "allowances",
+        "superannuation",
+        "overtime",
+        "penalty_rates",
+        "shiftwork",
+        "annual_leave",
+        "sick_leave",
+        "parental_leave",
+        "public_holidays",
+        "consultation",
+        "dispute_resolution",
+        "termination",
+        "redundancy",
+        "workplace_delegates",
+        "right_to_disconnect",
+        "schedule_classification",
+        "schedule_rates_summary",
+        "schedule_allowances_summary",
+        "schedule_supported_wage",
+        "schedule_toil_agreement",
+        "schedule_leave_agreement",
+        "schedule_other",
+        "other"
+      ],
+      "description": "Standardised type category for this clause \u2014 enables cross-award filtering"
+    },
+    "is_schedule": {
+      "type": "boolean",
+      "description": "True if this record is from a Schedule (A, B, C...) rather than a numbered clause"
+    },
+    "schedule_identifier": {
+      "type": "string",
+      "description": "Schedule letter if applicable (e.g. A, B, C)"
+    },
+    "full_text": {
+      "type": "string",
+      "description": "Complete verbatim text of this clause/section as extracted from the award"
+    },
+    "key_rates": {
+      "type": "array",
+      "description": "Structured rate entries extracted from this clause (if it contains pay rates)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "classification": {
+            "type": "string"
+          },
+          "level": {
+            "type": "string"
+          },
+          "weekly_rate": {
+            "type": "number"
+          },
+          "hourly_rate": {
+            "type": "number"
+          },
+          "casual_hourly_rate": {
+            "type": "number"
+          },
+          "rate_type": {
+            "type": "string"
+          },
+          "percentage_of_adult": {
+            "type": "number"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "key_penalties": {
+      "type": "array",
+      "description": "Structured penalty/loading entries (if clause contains penalty rates)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "day_or_period": {
+            "type": "string"
+          },
+          "employment_type": {
+            "type": "string"
+          },
+          "rate_multiplier": {
+            "type": "number"
+          },
+          "percentage": {
+            "type": "number"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "key_allowances": {
+      "type": "array",
+      "description": "Structured allowance entries (if clause contains allowances)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "allowance_name": {
+            "type": "string"
+          },
+          "amount": {
+            "type": "number"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "condition": {
+            "type": "string"
+          },
+          "is_wage_related": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "casual_loading_percent": {
+      "type": "number",
+      "description": "Casual loading percentage if stated in this clause (typically 25)"
+    },
+    "effective_date": {
+      "type": "string",
+      "description": "Date from which rates/conditions in this clause are effective"
+    },
+    "variation_history": {
+      "type": "string",
+      "description": "PR variation references shown in the award for this clause (e.g. [Varied by PR786540 ppc 01Jul25])"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Any notes, NOTEs from the clause, or important caveats"
+    },
+    "cross_references": {
+      "type": "array",
+      "description": "Other clauses or schedules referenced by this clause",
+      "items": {
+        "type": "string"
+      }
+    },
+    "applies_to_employment_types": {
+      "type": "array",
+      "description": "Employment types this clause applies to",
+      "items": {
+        "type": "string",
+        "enum": [
+          "full_time",
+          "part_time",
+          "casual",
+          "shiftworker",
+          "junior",
+          "apprentice",
+          "all"
+        ]
+      }
+    },
+    "searchable_keywords": {
+      "type": "string",
+      "description": "Comma-separated keywords for full-text search (award name, clause type, industry, key terms)"
+    }
+  },
+  "required": [],
+  "name": "ModernAward"
+}

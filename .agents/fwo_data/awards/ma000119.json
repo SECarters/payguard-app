@@ -1,0 +1,197 @@
+{
+  "ma_number": "MA000119",
+  "award_name": "Restaurant Industry Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000119.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 88,
+  "last_amended": null,
+  "coverage": "[Varied by PR743467]\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the restaurant industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nStructure and Definitions) of employers mentioned in clause 4.1(a).\n4.2 In this award restaurant industry means restaurants, reception centres, night clubs,\ncaf\u00e9s or roadhouses and includes catering by a restaurant business and a tea room\noperated in, or in conn",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": null,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "........................................................................................................... 23",
+    "penalty_rates_clause": "23. Overtime ..................................................................................................................... 36",
+    "overtime_clause": "23. Overtime ..................................................................................................................... 36",
+    "allowances_clause": "17. Work organisation\nAn employer may require an employee to perform duties across the different classification\nstreams set out in Schedule A\u2014Classification Structure and Definitions that they are competent\nto perform."
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Introductory Level",
+        "",
+        "922.70",
+        "24.28"
+      ],
+      [
+        "Level 1",
+        "Food and beverage attendant grade 1 Kitchen attendant grade 1",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "Level 2",
+        "Food and beverage attendant grade 2 Cook grade 1 Kitchen attendant grade 2 Clerical grade 1 Storeperson grade 1 Door person/security officer grade 1",
+        "982.40",
+        "25.85"
+      ]
+    ],
+    [
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Level 3",
+        "Food and beverage attendant grade 3 Cook grade 2 Kitchen attendant grade 3 Clerical grade 2 Storeperson grade 2 Timekeeper/security officer grade 2 Handyperson",
+        "1014.70",
+        "26.70"
+      ],
+      [
+        "Level 4",
+        "Food and beverage attendant grade 4 (tradesperson) Cook grade 3 (tradesperson) Clerical grade 3 Storeperson grade 3",
+        "1068.40",
+        "28.12"
+      ],
+      [
+        "Level 5",
+        "Food and beverage supervisor Cook grade 4 (tradesperson) Clerical supervisor",
+        "1135.50",
+        "29.88"
+      ],
+      [
+        "Level 6",
+        "Cook grade 5 (tradesperson)",
+        "1165.70",
+        "30.68"
+      ]
+    ],
+    [
+      [
+        "Column 1 Year of apprenticeship",
+        "Column 2 % of the standard rate",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "1st year",
+        "55",
+        "587.62",
+        "15.46"
+      ],
+      [
+        "2nd year",
+        "65",
+        "694.46",
+        "18.28"
+      ],
+      [
+        "3rd year",
+        "80",
+        "854.72",
+        "22.49"
+      ],
+      [
+        "4th year",
+        "95",
+        "1014.98",
+        "26.71"
+      ]
+    ],
+    [
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Restaurant/Caf\u00e9 Stream",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Level 2",
+        "Grade 1 - Restaurant/Caf\u00e9 Worker",
+        "825.20",
+        "21.72"
+      ],
+      [
+        "Level 3",
+        "Grade 2 - Restaurant/Caf\u00e9 Worker",
+        "853.60",
+        "22.46"
+      ],
+      [
+        "Level 5",
+        "Grade 3 - Restaurant/Caf\u00e9 Worker",
+        "955.90",
+        "25.16"
+      ],
+      [
+        "Chef stream",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Level 4",
+        "Grade 1 - Chef",
+        "899.50",
+        "23.67"
+      ],
+      [
+        "Level 5",
+        "Grade 2 - Chef",
+        "955.90",
+        "25.16"
+      ],
+      [
+        "Level 6",
+        "Grade 3 - Chef",
+        "981.50",
+        "25.83"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Restaurant Industry Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794807 and PR795748).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n22\u2014Superannuation\n31A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR720589, PR732377, PR742725, PR740708, PR746868, PR747479, PR750535, PR774848,\nPR778103]\nPart 1\u2014 Application and Operation of this Award .............................................................. 4\n1. Title and commencement ............................................................................................. 4\n2. Definitions .................................................................................................................... 4\n3. The National Employment Standards and this award .................................................. 7\n4. Coverage ...................................................................................................................... 8\n5. Individual flexibility arrangements .............................................................................. 9\n6. Requests for flexible working arrangements ............................................................. 11\n7. Facilitative provisions ................................................................................................ 11\nPart 2\u2014 Types of Employment and Classifications ............................................................ 12\n8. Types of employment ................................................................................................. 12\n9. Full-time employees ................................................................................................... 12\n10. Part-time employees ................................................................................................... 12\n11. Casual employees ....................................................................................................... 14\n12. Apprentices ................................................................................................................ 15\n13. Junior employees ........................................................................................................ 18\n14. Classifications ............................................................................................................ 18\nPart 3\u2014 Hours of Work ........................................................................................................ 18\n15. Ordinary hours of work and rostering arrangements ................................................. 18\n15A. Employee right to disconnect ..................................................................................... 20\n16. Breaks ......................................................................................................................... 21\nMA000119 1\nRestaurant Industry Award 2020\nPart 4\u2014 Wages and Allowances ........................................................................................... 23\n17. Work organisation ...................................................................................................... 23\n18. Minimum rates ........................................................................................................... 23\n19. Payment of wages ...................................................................................................... 29\n20. Annualised wage arrangements ................................................................................. 30\n21. Allowances ................................................................................................................. 32\n22. Superannuation ........................................................................................................... 34\nPart 5\u2014 Overtime and Penalty Rates .................................................................................. 36\n23. Overtime ..................................................................................................................... 36\n24. Penalty rates ............................................................................................................... 38\nPart 6\u2014 Leave and Public Holidays ..................................................................................... 40\n25. Annual leave .............................................................................................................. 40\n26. Personal/carer\u2019s leave and compassionate leave ........................................................ 45\n27. Parental leave and related entitlements ...................................................................... 45\n28. Community service leave ........................................................................................... 45\n29. Family and domestic violence leave .......................................................................... 45\n30. Public holidays ........................................................................................................... 46\nPart 7\u2014 Industry Specific Provisions .................................................................................. 47\n31. Deductions for breakages or cashiering underings .................................................... 47\nPart 8\u2014 Workplace Delegates, Consultation and Dispute Resolution ............................. 47\n31A. Workplace delegates\u2019 rights ....................................................................................... 47\n32. Consultation about major workplace change ............................................................. 50\n33. Consultation about changes to rosters or hours of work ............................................ 51\n34. Dispute resolution ...................................................................................................... 52\nPart 9\u2014 Termination of Employment and Redundancy ................................................... 53\n35. Termination of employment ....................................................................................... 53\n36. Redundancy ................................................................................................................ 54\n2 MA000119\nRestaurant Industry Award 2020\nSchedule A \u2014Classification Structure and Definitions ...................................................... 56\nSchedule AA \u2014Classification Structure and Definitions ................................................... 61\nSchedule B \u2014Summary of Hourly Rates of Pay ................................................................. 64\nSchedule C \u2014Summary of Monetary Allowances .............................................................. 75\nSchedule D \u2014School-based Apprentices.............................................................................. 77\nSchedule E \u2014Supported Wage System ................................................................................ 78\nSchedule F \u2014Agreement to Take Annual Leave in Advance ............................................ 81\nSchedule G \u2014Agreement to Cash Out Annual Leave ........................................................ 82\nSchedule R \u2014Award flexibility for COVID-19 Pandemic Recovery ................................ 84\nMA000119 3\nRestaurant Industry Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n[Varied by PR743467]\n1.1 This is the Restaurant Industry Award 2020.\n[1.2 varied by PR743467 ppc 11Jul22]\n1.2 This modern award commenced operation on 1 January 2010. The terms of the award\nhave been varied since that date.\n1.3 A variation to this award does not affect any right, privilege, obligation or liability that\na person acquired, accrued or incurred under the award as it existed prior to that\nvariation.\n2. Definitions\n[Varied by PR733861, PR750535, PR774848, PR777355, PR794079, PR795748]\nIn this award:\nAct means the Fair Work Act 2009 (Cth).\nadult apprentice means an apprentice who is 21 years of age or over at the start of\ntheir apprenticeship.\nadult employee means an employee who is 21 years of age or over.\nappropriate level of training, in relation to an employee, means that the employee:\n(a) has completed an appropriate training program that meets the training and\nassessment requirements of a qualification or one or more appropriate units of\ncompetency forming part of a training package; or\n(b) has been assessed by a qualified skills assessor as having skills at least equivalent\nto those attained in an appropriate training program; or\n(c) other than a Food and beverage attendant grade 2 as defined in Schedule A\u2014\nClassification Structure and Definitions, as at 31 December 2009, had been\ndoing the work of a particular classification for a period of at least 3 months.\nNOTE 1: The minimum classification level for an employee who has completed AQF\nCertificate III or higher qualifications relevant to the classification in which they are\nemployed and who makes use of skills and knowledge derived from Certificate III\ncompetencies relevant to the work undertaken is Level 4 specified in clause 18.1\u2014\nAdult rates. Any dispute about an employee\u2019s entitlement to be paid at Level 4 must\nbe dealt with in accordance with clause 34\u2014Dispute resolution.\nMA000119 4\nRestaurant Industry Award 2020\nNOTE 2: In order for a Food and beverage attendant grade 2 to be classified at grade 3,\nthe employee must have completed AQF Certificate II qualifications relevant to the\ngrade 3 classification.\n[Definition of casual employee inserted by PR733861 from 27Sep21; varied by PR777355 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date is\ntaken to be a casual employee of the employer for the purposes of section 15A after\nthat date.\ncatering by a restaurant business means the provision by a restaurant of catering\nservices for any social or business function where those services are incidental to the\nmajor business of the restaurant.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nemployee means a national system employee as defined by section 13 of the Act.\n[Definition of employee organisation inserted by PR774848; substituted retrospectively by PR795748 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means a national system employer as defined by section 14 of the Act.\n[Definition of enterprise inserted by PR774848 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nenterprise instrument has the meaning given by subitem 2(1) of Schedule 6 to the\nFair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth).\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nFair Work Regulations means the Fair Work Regulations 2009 (Cth).\njunior employee means an employee who is less than 21 years of age.\nliquor service employee means a person employed to sell or dispense liquor in bars,\nbottle departments or shops and includes a cellar employee.\n[Definition of long term casual employee deleted by PR733861 from 27Sep21]\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNational Employment Standards, see Part 2-2 of the Act. Divisions 3 to 12 of Part\n2-2 of the Act constitute the National Employment Standards. An extract of section\n61 of the Act is reproduced below.\nMA000119 5\nRestaurant Industry Award 2020\nThe National Employment Standards are minimum standards applying to employment\nof employees. The minimum standards relate to the following matters:\n(a) maximum weekly hours (Division 3);\n(b) requests for flexible working arrangements (Division 4);\n[Paragraph (ba) inserted by PR733861 ppc 27Sep21; substituted by PR777355 from 27Aug24]\n(ba) casual employment (Division 4A);\n(c) parental leave and related entitlements (Division 5);\n(d) annual leave (Division 6);\n[Paragraph (e) varied by PR750535 ppc 15Mar23]\n(e) personal/carer's leave, compassionate leave and paid family and domestic\nviolence leave (Division 7);\n(f) community service leave (Division 8);\n(g) long service leave (Division 9);\n(h) public holidays (Division 10);\n[Paragraph (ha) inserted by PR794079 ppc 10Dec25]\n(ha) superannuation contributions (Division 10A);\n(i) notice of termination and redundancy pay (Division 11);\n(j) Fair Work Information Statement (Division 12).\non-hire means the on-hire of an employee by their employer to a client, where the\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\n[Definition of regular casual employee inserted by PR733861 from 27Sep21]\nregular casual employee has the meaning given by section 12 of the Act.\nrestaurant industry is defined in clause 4.2.\nrostered day off means a continuous 24 hour period between the end of the last\nordinary shift, and the start of the next ordinary shift, on which an employee is rostered\nfor duty.\nshiftworker, see clause 25.2 (Annual leave).\n[Definition of small business employer inserted by PR774848 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nspread of hours means the period between when an employee starts and finishes work\nwithin any period of 24 hours.\n6 MA000119\nRestaurant Industry Award 2020\nstandard hourly rate means the minimum hourly rate for a Level 4 classification\n(Cook grade 3 (tradesperson)) in Table 3\u2014Minimum rates.\nstandard rate means the minimum rate for a Level 4 classification (Cook grade 3\n(tradesperson)) in Table 3\u2014Minimum rates.\nstandard weekly rate means the minimum weekly rate for a Level 4 classification\n(Cook grade 3 (tradesperson)) in Table 3\u2014Minimum rates.\nState reference public sector modern award has the meaning given by subitem 3(2)\nof Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nState reference public sector transitional award has the meaning given by subitem\n2(1) of Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nTable 1\u2014Facilitative provisions means the Table in clause 7.2.\nTable 2\u2014Entitlements to meal and rest break(s) means the Table in clause 16.2.\nTable 3\u2014Minimum rates means the Table in clause 18.1.\nTable 4\u2014Junior rates means the Table in clause 18.2(a).\nTable 5\u2014Junior apprentice\u2014cooking trade minimum rates means the Table in\nclause 18.3(a).\nTable 6\u2014Four year apprenticeship (nominal term) means the Table in clause\n18.3(b).\nTable 7\u2014Overtime rates means the Table in clause 23.4.\nTable 8\u2014Penalty rates means the Table in clause 24.2(c).\nTable 9\u2014Period of notice means the Table in clause 35.1(b).\ntraining agreement means the apprenticeship training arrangement, however termed,\nrelevant to the State and Territory apprenticeship legislation entered into by an\napprentice and an employer.\n[Definition of workplace delegate inserted by PR774848 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3. The National Employment Standards and this award\n3.1 The National Employment Standards (NES) and this award contain the minimum\nconditions of employment for employees covered by this award.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\nMA000119 7\nRestaurant Industry Award 2020\n3.3 The employer must ensure that copies of this award and of the NES are available to all\nemployees to whom they apply, either on a notice board conveniently located at or\nnear the workplace or through accessible electronic means.\n4. Coverage\n[Varied by PR743467]\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the restaurant industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nStructure and Definitions) of employers mentioned in clause 4.1(a).\n4.2 In this award restaurant industry means restaurants, reception centres, night clubs,\ncaf\u00e9s or roadhouses and includes catering by a restaurant business and a tea room\noperated in, or in connection with, a restaurant business but does not include a\nrestaurant operated in, or in connection with, premises owned or operated by an\nemployer covered by any of the following awards:\n(a) Hospitality Industry (General) Award 2020; or\n[4.2(b) varied by PR743467 ppc 11Jul22]\n(b) Registered and Licensed Clubs Award 2020; or\n(c) Fast Food Industry Award 2010.\n4.3 This industry award also covers:\n(a) on-hire employees working in the restaurant industry (with a classification\ndefined in Schedule A\u2014Classification Structure and Definitions) and the on-\nhire employers of those employees; and\n(b) apprentices or trainees employed by a group training employer and hosted by an\nemployer covered by this award to work in the restaurant industry (with a\nclassification defined in Schedule A\u2014Classification Structure and Definitions)\nand the group training employers of those apprentices or trainees.\n4.4 However, this industry award does not cover any of the following:\n(a) employees excluded from award coverage by the Act; or\nNOTE: See section 143(7) of the Act.\n(b) employees covered by a modern enterprise award or an enterprise instrument or\ntheir employers; or\n(c) employees covered by a State reference public sector modern award or a State\nreference public sector transitional award or their employers; or\n(d) employers in the following industries or activities or their employees:\n8 MA000119\nRestaurant Industry Award 2020\n(i) contract caterers whose principal business activity is providing catering\nservices or accommodation services on a contract or fee-for-service basis;\nand\n(ii) retail industry; and\n(iii) fast food industry; and\n(iv) in-flight catering for airlines; and\n(v) catering services provided by employers in the aged care industry; and\n(vi) boarding schools and residential colleges; and\n(vii) hospitals; and\n(viii) orphanages; and\n(ix) hotels, motels, hostels and boarding establishments; and\n(x) clubs registered or recognised under State or Territory legislation; and\n(xi) restaurants operated in or in connection with hotels, motels, hostels and\nboarding establishments, or clubs registered or recognised under State or\nTerritory legislation.\n4.5 If an employer is covered by more than one award, an employee of that employer is\ncovered by the award containing the classification that is most appropriate to the work\nperformed by the employee and the industry in which they work.\nNOTE: An employee working in the restaurant industry who is not covered by this\nindustry award may be covered by an award with occupational coverage.\n5. Individual flexibility arrangements\n5.1 Despite anything else in this award, an employer and an individual employee may\nagree to vary the application of the terms of this award relating to any of the following\nin order to meet the genuine needs of both the employee and the employer:\n(a) arrangements for when work is performed, excluding clause 16\u2014Breaks; or\n(b) overtime rates; or\n(c) penalty rates; or\n(d) allowances; or\n(e) annual leave loading.\n5.2 An agreement must be one that is genuinely made by the employer and the individual\nemployee without coercion or duress.\n5.3 An agreement may only be made after the individual employee has commenced\nemployment with the employer.\n5.4 An employer who wishes to initiate the making of an agreement must:\nMA000119 9\nRestaurant Industry Award 2020\n(a) give the employee a written proposal; and\n(b) if the employer is aware that the employee has, or should reasonably be aware\nthat the employee may have, limited understanding of written English, take\nreasonable steps (including providing a translation in an appropriate language)\nto ensur"
+}

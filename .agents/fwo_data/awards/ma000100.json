@@ -1,0 +1,500 @@
+{
+  "ma_number": "MA000100",
+  "award_name": "Social, Community, Home Care and Disability Services Industry Award 2010",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000100.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 140,
+  "last_amended": null,
+  "coverage": "[Varied by PR995399, PR544809, PR779153]\n[4.1 varied by PR995399, PR779153 ppc 01Jan25]\n4.1 This industry award covers employers throughout Australia in the:\n(a) crisis assistance and supported housing sector;\n(b) social and community services sector;\n(c) home care sector;\n(d) family day care scheme sector;\n[4.1(e) deleted by PR995399 ppc 26Mar10]\nand their employees in the classifications listed in Schedule B to Schedule F to the\nexclusion of any other modern award.\n4.2 The award does not cover",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": null,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "penalty_rates_clause": "29. Shiftwork ..................................................................................................................... 62",
+    "overtime_clause": "29. Shiftwork ..................................................................................................................... 62",
+    "allowances_clause": "To view the current monetary amounts of work-related allowances refer to the Allowances\nSheet.\n[20 renumbered as 19 by PR995399; varied by PR998179, PR500495; PR500495 set aside by [2010]\nFWAFB 9880; varied by PR505347; 19 renumbered as 20 by PR508061 from 01Jan10; varied by PR509252,\nPR523082, PR531544, PR536885, PR551808, PR566909, PR579607, PR592355, PR606578, PR704211,\nPR707745, PR719070, PR729543, PR737905, PR740786, PR740949; corrected by PR743157; varied by\nPR743155, PR762209, PR762377, PR773989, PR774158, PR786639, PR786807]\n20.1 Adjustment of expense related allowances\nMA000100 37\nSocial, Community, Home Care and Disability Services Industry Award 2010\n(a) At the time of any adjustment to the standard rate, each expense related\nallowance will be increased by the relevant adjustment factor. The relevant\nadjustment factor for this purpose is the percentage movement in the\napplicable index figure most recently published by the Australian Bureau of\nStatistics since the allowance was last adjusted.\n(b) The applicable index figure is the index figure published by the Australian\nBureau of Statistics for the Eight Capitals Consumer Price Index (Cat No.\n6401.0), as follows:\nAllowance Applicable Consumer Price Index figure\nBoard and lodging Weighted average eight capital cities\u2014CPI\nClothing, equipment and tools Clothing and footwear group\nallowance\nMeal allowances Take away and fast foods sub-group\nVehicle/travel allowance Private motoring sub-group\n20.2 Clothing and equipment\n(a) Employees required by the employer to wear uniforms will be supplied with\nan adequate number of uniforms appropriate to the occupation free of cost to\nemployees. Such items are to remain the property of the employer and be\nlaundered and maintained by the employer free of cost to the employee.\n(b) Instead of the provision of such uniforms, the employer may, by agreement\nwith the employee, pay such employee a uniform allowance at the rate of\n$1.23 per shift or part thereof on duty or $6.24 per week, whichever is the\nlesser amount. Where such employee\u2019s uniforms are not laundered by or at\nthe expense of the employer, the employee will be paid a laundry allowance\nof $0.32 per shift or part thereof on duty or $1.49 per week, whichever is the\nlesser amount.\n[20.2(c) substituted by PR531544 ppc 21Nov12]\n(c) The uniform allowance, but not the laundry allowance, will be paid during all\nabsences on paid leave, except absences on long service leave and absence on\npersonal/carer's leave beyond 21 days. Where, prior to the taking of leave, an\nemployee was paid a uniform allowance other than at the weekly rate, the\nrate to be paid during absence on leave will be the average of the allowance\npaid during the four weeks immediately preceding the taking of leave.\n38 MA000100\nSocial, Community, Home Care and Disability Services Industry Award 2010\n(d) Where an employer requires an employee to wear rubber gloves, special\nclothing or where safety equipment is required for the work performed by an\nemployee, the employer must reimburse the employee for the cost of\npurchasing such special clothing or safety equipment, except where such\nclothing or equipment is provided by the employer.\n20.3 Laundering of clothing other than uniforms\n[New 20.3 inserted by PR737905 ppc 01Jul22]\nIf during any day or shift, the clothing of an employee (other than a uniform) is\nsoiled in the course of the performance of their duties, the employee will be paid a\nlaundry allowance of $0.32 cents per shift provided that:\n(a) As soon as reasonably practicable the employee provides notice of the soiling\nand, if requested, evidence that would satisfy a reasonable person of the\nsoiling and/or how it occurred; and\n(b) At the time the clothing was soiled the employee had complied with any\nreasonable requirement of the employer in relation to the wearing of personal\nprotective equipment either provided or paid for by the employer in\naccordance with clause 20.2(d).\n20.4 Repair and replacement of clothing other than uniforms\n[New 20.4 inserted by PR737905 ppc 01Jul22]\n(a) If the clothing of an employee is soiled or damaged (excluding normal wear\nand tear) in the course of the performance of their duties, to the extent that\nits repair or replacement is necessary, the employer must reimburse the\nemployee for the reasonable cost incurred in repairing or replacing the\nclothing with a substitute item, provided that:\n(i) As soon as reasonably practicable the employee provides notice of the\nsoiling or damage and, if requested, evidence that would satisfy a\nreasonable person of the soiling or damage, how it occurred, and the\nreasonable repair or replacement costs;\n(ii) At the time the clothing was soiled or damaged the employee had\ncomplied with any reasonable requirement of the employer in relation\nto the wearing of personal protective equipment either provided or paid\nfor by the employer in accordance with clause 20.2(d); and\n(iii) The damage or soiling of an employee\u2019s clothes is not caused by"
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "",
+        "Clause",
+        "Minimum weekly wage",
+        "Final Rate ERO Percentage",
+        "Current weekly wage",
+        "Current hourly wage"
+      ],
+      [
+        "Classification",
+        "",
+        "$",
+        "%",
+        "$",
+        "$"
+      ],
+      [
+        "Social and community services employee level 2",
+        "15.2",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1068.40",
+        "123",
+        "1314.13",
+        "34.58"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1102.00",
+        "123",
+        "1355.46",
+        "35.67"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1135.50",
+        "123",
+        "1396.67",
+        "36.75"
+      ],
+      [
+        "Pay point 4",
+        "",
+        "1165.70",
+        "123",
+        "1433.81",
+        "37.73"
+      ],
+      [
+        "Social and community services employee level 3",
+        "15.3",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1 (associate diploma/advanced certificate)",
+        "",
+        "1165.70",
+        "126",
+        "1468.78",
+        "38.65"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1199.30",
+        "126",
+        "1511.12",
+        "39.77"
+      ],
+      [
+        "Pay point 3 (3 year degree)",
+        "",
+        "1224.90",
+        "126",
+        "1543.37",
+        "40.62"
+      ],
+      [
+        "Pay point 4 (4 year degree)",
+        "",
+        "1250.10",
+        "126",
+        "1575.13",
+        "41.45"
+      ],
+      [
+        "Social and community services employee level 4",
+        "15.4",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1283.50",
+        "132",
+        "1694.22",
+        "44.58"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1317.00",
+        "132",
+        "1738.44",
+        "45.75"
+      ]
+    ],
+    [
+      [
+        "",
+        "Clause",
+        "Minimum weekly wage",
+        "Final Rate ERO Percentage",
+        "Current weekly wage",
+        "Current hourly wage"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1350.90",
+        "132",
+        "1783.19",
+        "46.93"
+      ],
+      [
+        "Pay point 4",
+        "",
+        "1381.00",
+        "132",
+        "1822.92",
+        "47.97"
+      ],
+      [
+        "Social and community services employee level 5",
+        "15.5",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1414.70",
+        "137",
+        "1938.14",
+        "51.00"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1445.20",
+        "137",
+        "1979.92",
+        "52.10"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1478.80",
+        "137",
+        "2025.96",
+        "53.31"
+      ],
+      [
+        "Social and community services employee level 6",
+        "15.6",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1512.50",
+        "140",
+        "2117.50",
+        "55.72"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1545.90",
+        "140",
+        "2164.26",
+        "56.95"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1579.40",
+        "140",
+        "2211.16",
+        "58.19"
+      ],
+      [
+        "Social and community services employee level 7",
+        "15.7",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1612.80",
+        "142",
+        "2290.18",
+        "60.27"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1646.70",
+        "142",
+        "2338.31",
+        "61.53"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1680.20",
+        "142",
+        "2385.88",
+        "62.79"
+      ],
+      [
+        "Social and community services employee level 8",
+        "15.8",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1713.60",
+        "145",
+        "2484.72",
+        "65.39"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1747.30",
+        "145",
+        "2533.59",
+        "66.67"
+      ]
+    ],
+    [
+      [
+        "",
+        "Clause",
+        "Minimum weekly wage",
+        "Final Rate ERO Percentage",
+        "Current weekly wage",
+        "Current hourly wage"
+      ],
+      [
+        "Classification",
+        "",
+        "$",
+        "%",
+        "$",
+        "$"
+      ],
+      [
+        "Crisis accommodation employee Level 1",
+        "15.3",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1 (associate diploma/advanced certificate)",
+        "",
+        "1165.70",
+        "126",
+        "1468.78",
+        "38.65"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1199.30",
+        "126",
+        "1511.12",
+        "39.77"
+      ],
+      [
+        "Pay point 3 (3 year degree)",
+        "",
+        "1224.90",
+        "126",
+        "1543.37",
+        "40.62"
+      ],
+      [
+        "Pay point 4 (4 year degree)",
+        "",
+        "1250.10",
+        "126",
+        "1575.13",
+        "41.45"
+      ],
+      [
+        "Crisis accommodation employee level 2",
+        "15.4",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1283.50",
+        "132",
+        "1694.22",
+        "44.58"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1317.00",
+        "132",
+        "1738.44",
+        "45.75"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1350.90",
+        "132",
+        "1783.19",
+        "46.93"
+      ],
+      [
+        "Pay point 4",
+        "",
+        "1381.00",
+        "132",
+        "1822.92",
+        "47.97"
+      ],
+      [
+        "Crisis accommodation employee level 3",
+        "15.5",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "",
+        "Clause",
+        "Minimum weekly wage",
+        "Final Rate ERO Percentage",
+        "Current weekly wage",
+        "Current hourly wage"
+      ],
+      [
+        "Classification",
+        "",
+        "$",
+        "%",
+        "$",
+        "$"
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1414.70",
+        "137",
+        "1938.14",
+        "51.00"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1445.20",
+        "137",
+        "1979.92",
+        "52.10"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1478.80",
+        "137",
+        "2025.96",
+        "53.31"
+      ],
+      [
+        "Crisis accommodation employee level 4",
+        "15.6",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pay point 1",
+        "",
+        "1512.50",
+        "140",
+        "2117.50",
+        "55.72"
+      ],
+      [
+        "Pay point 2",
+        "",
+        "1545.90",
+        "140",
+        "2164.26",
+        "56.95"
+      ],
+      [
+        "Pay point 3",
+        "",
+        "1579.40",
+        "140",
+        "2211.16",
+        "58.19"
+      ]
+    ],
+    [
+      [
+        "Previous classification",
+        "Per week"
+      ],
+      [
+        "",
+        "$"
+      ],
+      [
+        "Home care employee level 4\u2014aged care",
+        ""
+      ],
+      [
+        "Pay point 2",
+        "1321.00"
+      ],
+      [
+        "Home care employee level 5\u2014aged care",
+        ""
+      ],
+      [
+        "Pay point 2",
+        "1443.40"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Social, Community, Home Care and Disability Services\nIndustry Award 2010\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794791 and PR795724).\nClause(s) affected by the most recent variation(s):\n3\u2014Definitions and interpretation\n23\u2014Superannuation\n7A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR995399, PR508061, PR532630, PR544519, PR546288, PR557581, PR573679, PR609429, PR610266,\nPR701503, PR718141, PR713525, PR740268, PR737905, PR747423, PR748510, PR750543, PR763307,\nPR774828, PR778073, PR779153]\nPart 1\u2014 Application and Operation.................................................................................... 4\n1. Title ............................................................................................................................... 4\n2. Commencement and transitional ................................................................................. 4\n3. Definitions and interpretation ...................................................................................... 5\n4. Coverage ....................................................................................................................... 8\n5. Access to the award and the National Employment Standards ................................... 9\n6. The National Employment Standards and this award .................................................. 9\n7. Individual flexibility arrangements ............................................................................... 9\nPart 2\u2014 Workplace Delegates, Consultation and Dispute Resolution ................................ 11\n7A. Workplace delegates\u2019 rights ....................................................................................... 11\n8. Consultation about major workplace change ............................................................ 15\n8A. Consultation about changes to rosters or hours of work ........................................... 16\n9. Dispute resolution ...................................................................................................... 16\nPart 3\u2014 Types of Employment and Termination of Employment ...................................... 17\n10. Types of employment ................................................................................................. 17\nMA000100 1\nSocial, Community, Home Care and Disability Services Industry Award 2010\n11. Termination of employment ....................................................................................... 22\n12. Redundancy ................................................................................................................ 23\nPart 4\u2014 Minimum Wages and Related Matters ................................................................ 24\n13. Classifications .............................................................................................................. 24\n14. Salary Packaging .......................................................................................................... 25\n15. Minimum weekly wages for social and community services employees and crisis\naccommodation employees ...................................................................................................... 25\n16. Minimum weekly wages for family day care employees ............................................ 32\n17. Minimum weekly wages for home care employees ................................................... 34\n18. Supported wage system .............................................................................................. 37\n19. National Training Wage ............................................................................................... 37\n20. Allowances .................................................................................................................. 37\n21. District allowances ...................................................................................................... 43\n22. Accident pay ................................................................................................................ 43\n23. Superannuation ........................................................................................................... 43\n24. Payment of wages ....................................................................................................... 46\nPart 5\u2014 Hours of Work and Related Matters .................................................................... 47\n25. Ordinary hours of work and rostering ........................................................................ 47\n25A. Employee right to disconnect ..................................................................................... 56\n26. Saturday and Sunday work ......................................................................................... 57\n27. Breaks .......................................................................................................................... 58\n28. Overtime and penalty rates ........................................................................................ 58\n29. Shiftwork ..................................................................................................................... 62\n30. Higher duties ............................................................................................................... 63\n30A. Requests for flexible working arrangements .............................................................. 63\nPart 6\u2014 Leave and Public Holidays .................................................................................. 63\n31. Annual leave ................................................................................................................ 63\n2 MA000100\nSocial, Community, Home Care and Disability Services Industry Award 2010\n32. Personal/carer\u2019s leave and compassionate leave ....................................................... 68\n32A. Parental leave and related entitlements .................................................................... 69\n33. Community service leave ........................................................................................... 69\n34. Public holidays ............................................................................................................ 69\n35. Ceremonial leave ........................................................................................................ 70\n36. Family and domestic violence leave ........................................................................... 70\nSchedule A \u2014Transitional provisions................................................................................ 71\nSchedule B \u2014Classification Definitions\u2014Social and Community Services Employees ........ 81\nSchedule C \u2014Classification Definitions\u2014Crisis Accommodation Employees .................... 105\nSchedule D \u2014Classification Definitions\u2014Family Day Care Employees ............................. 118\nSchedule E \u2014Classification Definitions\u2014Home Care Employees\u2014Disability Care ............ 121\nSchedule F \u2014Classification Definitions\u2014Home Care Employees\u2014Aged Care .................. 127\nSchedule G \u2014Classification Translation Arrangements ................................................... 128\nSchedule H \u2014Supported Wage System ........................................................................... 132\nSchedule I \u2014National Training Wage .............................................................................. 136\nSchedule J \u2014Agreement to Take Annual Leave in Advance ............................................. 137\nSchedule K \u2014Agreement to Cash Out Annual Leave ....................................................... 139\nMA000100 3\nSocial, Community, Home Care and Disability Services Industry Award 2010\nPart 1\u2014Application and Operation\n1. Title\nThis award is the Social, Community, Home Care and Disability Services Industry Award 2010.\n2. Commencement and transitional\n[Varied by PR542220]\n2.1 This award commences on 1 January 2010.\n2.2 The monetary obligations imposed on employers by this award may be absorbed into\noveraward payments. Nothing in this award requires an employer to maintain or\nincrease any overaward payment.\n2.3 This award contains transitional arrangements which specify when particular parts of\nthe award come into effect. Some of the transitional arrangements are in clauses in the\nmain part of the award. There are also transitional arrangements in Schedule A. The\narrangements in Schedule A deal with:\n\u2022 minimum wages and piecework rates\n\u2022 casual or part-time loadings\n\u2022 Saturday, Sunday, public holiday, evening or other penalties\n\u2022 shift allowances/penalties.\n[2.4 varied by PR542220 ppc 04Dec13]\n2.4 Neither the making of this award nor the operation of any transitional arrangements is\nintended to result in a reduction in the take-home pay of employees covered by the\naward. On application by or on behalf of an employee who suffers a reduction in take-\nhome pay as a result of the making of this award or the operation of any transitional\narrangements, the Fair Work Commission may make any order it considers appropriate\nto remedy the situation.\n[2.5 varied by PR542220 ppc 04Dec13]\n2.5 The Fair Work Commission may review the transitional arrangements in this award\nand make a determination varying the award.\n[2.6 varied by PR542220 ppc 04Dec13]\n2.6 The Fair Work Commission may review the transitional arrangements:\n(a) on its own initiative; or\n(b) on application by an employer, employee, organisation or outworker entity\ncovered by the modern award; or\n4 MA000100\nSocial, Community, Home Care and Disability Services Industry Award 2010\n(c) on application by an organisation that is entitled to represent the industrial\ninterests of one or more employers or employees that are covered by the\nmodern award; or\n(d) in relation to outworker arrangements, on application by an organisation that\nis entitled to represent the industrial interests of one or more outworkers to\nwhom the arrangements relate.\n3. Definitions and interpretation\n[Varied by PR995399, PR997772, PR503704, PR531544, PR546089, PR733862, PR774828, PR777334; PR779588,\nPR779153, PR795724]\n3.1 In this award, unless the contrary intention appears:\nAct means the Fair Work Act 2009 (Cth)\n[Definition of aged carer experience inserted by PR779153 ppc 01Jan25]\naged carer experience means previous employment experience as a home care\nemployee\u2014aged care under this award or as a direct care employee in residential\naged care.\nagreement-based transitional instrument has the meaning in the Fair Work\n(Transitional Provisions and Consequential Amendments) Act 2009 (Cth)\naward-based transitional instrument has the meaning in the Fair Work (Transitional\nProvisions and Consequential Amendments) Act 2009 (Cth)\n[Definition of casual employee inserted by PR733862 from 27Sep21; varied by PR777334 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\ncrisis assistance and supported housing sector means the provision of crisis\nassistance and supported housing services\n[Definition of default fund employee inserted by PR546089 ppc 01Jan14]\ndefault fund employee means an employee who has no chosen fund within the\nmeaning of the Superannuation Guarantee (Administration) Act 1992 (Cth)\nMA000100 5\nSocial, Community, Home Care and Disability Services Industry Award 2010\n[Definition of defined benefit member inserted by PR546089 ppc 01Jan14]\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth)\n[Definition of disability services sector deleted by PR995399 ppc 26Mar10]\n[Definition of Division 2B State award inserted by PR503704 ppc 01Jan11]\nDivision 2B State award has the meaning in Schedule 3A of the Fair Work\n(Transitional Provisions and Consequential Amendments) Act 2009 (Cth)\n[Definition of Division 2B State employment agreement inserted by PR503704 ppc 01Jan11]\nDivision 2B State employment agreement has the meaning in Schedule 3A of the\nFair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth)\n[Definition of employee substituted by PR997772 from 01Jan10]\nemployee means national system employee within the meaning of the Act\n[Definition of employee organisation inserted by PR774828; substituted retrospectively by PR795724 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\n[Definition of employer substituted by PR997772 from 01Jan10]\nemployer means national system employer within the meaning of the Act\n[Definition of enterprise inserted by PR774828 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nenterprise award-based instrument has the meaning in the Fair Work (Transitional\nProvisions and Consequential Amendments) Act 2009 (Cth)\n[Definition of exempt public sector superannuation scheme inserted by PR546089 ppc 01Jan14]\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth)\nfamily day care scheme sector means the operation of a family day care scheme for\nthe provision of family day care services\nhome care sector means the provision of personal care, domestic assistance or\nhome maintenance to an aged person or a person with a disability in a private\nresidence\n6 MA000100\nSocial, Community, Home Care and Disability Services Industry Award 2010\n[Definition of MySuper product inserted by PR546089 ppc 01Jan14]\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth)\nNES means the National Employment Standards as contained in sections 59 to 131\nof the Fair Work Act 2009 (Cth)\non-hire means the on-hire of an employee by their employer to a client, where such\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client\n[Definition of small business employer inserted by PR774828 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\n[Definition of social and community services sector varied by PR995399; PR779588 from 25Sep24]\nsocial and community services sector means the provision of social and community\nservices including social work, recreation work, welfare work, youth work or\ncommunity development work, including organisations which primarily engage in\npolicy, advocacy or representation on behalf of organisations carrying out such work\nand the provision of disability services including the provision of social, community\nor disability services including the provision of personal care including therapeutic\ncare and domestic and lifestyle support to a person with a disability in a community\nand/or residential setting including respite centre and day services\n[Note inserted by PR531544 ppc 21Nov12]\nTo avoid doubt, an employee will not be precluded from being engaged under\nSchedule B, instead of another schedule, merely because they provide services in a\nprivate residence or in outreach.\nstandard rate means the minimum wage for a Social and community services\nemployee level 3 at pay point 3 in clause 15.3\ntransitional minimum wage instrument has the meaning in the Fair Work\n(Transitional Provisions and Consequential Amendments) Act 2009 (Cth)\n[Definition of workplace delegate inserted by PR774828 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\nMA000100 7\nSocial, Community, Home Care and Disability Services Industry Award 2010\n4. Coverage\n[Varied by PR995399, PR544809, PR779153]\n[4.1 varied by PR995399, PR779153 ppc 01Jan25]\n4.1 This industry award covers employers throughout Australia in the:\n(a) crisis assistance and supported housing sector;\n(b) social and community services sector;\n(c) home care sector;\n(d) family day care scheme sector;\n[4.1(e) deleted by PR995399 ppc 26Mar10]\nand their employees in the classifications listed in Schedule B to Schedule F to the\nexclusion of any other modern award.\n4.2 The award does not cover employers and employees covered by any of the following\nawards:\n(a) Aged Care Award 2010;\n(b) Amusement, Events and Recreation Award 2010;\n(c) Fitness Industry Award 2010;\n(d) Health Professionals and Support Services Award 2010; or\n(e) Nurses Award 2010.\n4.3 The award does not cover an employee excluded from award coverage by the Act.\n4.4 The award does not cover employees who are covered by a modern enterprise award,\nor an enterprise instrument (within the meaning of the Fair Work (Transitional\nProvisions and Consequential Amendments) Act 2009 (Cth)), or employers in relation\nto those employees.\n4.5 The award does not cover employees who are covered by a State reference public\nsector modern award, or a State reference public sector transitional award (within the\nmeaning of the Fair Work (Transitional Provisions and Consequential Amendments)\nAct 2009 (Cth)), or employers in relation to those employees.\n4.6 This award covers any employer which supplies labour on an on-hire basis in the\nindustry set out in clause 4.1 in respect of on-hire employees in classifications covered\nby this award, and those on-hire employees, while engaged in the performance of work\nfor a business in that industry. This subclause operates subject to the exclusions from\ncoverage in this award.\n8 MA000100\nSocial, Community, Home Care and Disability Services Industry Award 2010\n[4.7 substituted by PR544809 ppc 01Jan14]\n4.7 This award covers employers which provide group training services for trainees\nengaged in the industry and/or parts of industry set out at clause 4.1 and those trainees\nengaged by a group training service hosted by a company to perform work at a location\nwhere the activities described herein are being performed. This clause operates subject\nto the exclusions from coverage in this award.\n[4.8 inserted by PR544809 ppc 01Jan14]\n4.8 Where an employer is covered by more than one award, an employee of that employer\nis covered by the award classification which is most appropriate to the work performed\nby the employee and to the environment in which the employee normally performs the\nwork.\n5. Access to the award and the National Employment Standards\nThe employer must ensure that copies of this award and the NES are available to all\nemployees to whom they apply either on a noticeboard which is conveniently located at or\nnear the workplace or through electronic means, whichever makes them more accessible.\n6. The National Employment Standards and this award\nThe NES and this award contain the minimum conditions of employment for employees\ncovered by this award.\n7. Individual flexibility arrangements\n[Varied by PR542220; 7\u2014Award flexibility renamed and substituted by PR610266 ppc 01Nov18]\n7.1 Despite anything else in this award, an employer and an individual employee may\nagree to vary the application of the terms of this award relating to any of the following\nin order to meet the genuine needs of both the employee and the employer:\n(a) arrangements for when work is performed; or\n(b) overtime rates; or\n(c) penalty rates; or\n(d) allowances; or\n(e) annual leave loading.\n7.2 An agreement must be one that is genuinely made by the employer and the individual\nemployee without coercion or duress.\n7.3 An agreement may only be made after the individual employee has commenced\nemployment with the employer.\n7.4 An employer who wishes to initiate the making of an agreement must:\nMA000100 9\nSocial, Community, Home Care and Disability Services Industry Award 2010\n(a) give the employee a written proposal; and\n(b) if the employer is aware that the employee has, or reaso"
+}

@@ -1,0 +1,831 @@
+{
+  "ma_number": "MA000009",
+  "award_name": "Hospitality Industry (General) Award 2020",
+  "source_url": "https://www.fwc.gov.au/documents/awards/pdf/ma000009.pdf",
+  "source_type": "FWC_consolidated_award_PDF",
+  "extracted_at": "2026-05-08",
+  "pages": 182,
+  "last_amended": null,
+  "coverage": "4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the hospitality industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nStructure and Definitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, hospitality industry includes:\n(a) hotels; and\n(b) motor inns and motels; and\n(c) boarding establishments; and\n(d) condominiums or similar establishments; and\n(e) health or recre",
+  "minimum_rates": [],
+  "junior_rates": [],
+  "casual_loading_percent": null,
+  "penalty_rates": [],
+  "overtime_rates": [],
+  "allowances": [],
+  "classifications": [],
+  "ordinary_hours": {},
+  "full_text_by_clause": {
+    "minimum_rates_clause": "........................................................................................................... 30",
+    "penalty_rates_clause": "28. Overtime .................................................................................................................... 57",
+    "overtime_clause": "28. Overtime .................................................................................................................... 57",
+    "allowances_clause": "17. Work organisation\nAn employer may require an employee to perform duties across the different classification\nstreams set out in Schedule A\u2014Classification Structure and Definitions that they are\ncompetent to perform."
+  },
+  "_rate_tables_raw": [
+    [
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Introductory level",
+        "",
+        "922.70",
+        "24.28"
+      ],
+      [
+        "Level 1",
+        "Food and beverage attendant grade 1; Guest service grade 1; Kitchen attendant grade 1",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "Level 2",
+        "Clerical grade 1; Cook grade 1; Door person/security officer grade 1; Food and beverage attendant grade 2; Front office grade 1; Gardener grade 1; Guest service grade 2; Kitchen attendant grade 2; Leisure attendant grade 1; Storeperson grade 1",
+        "982.40",
+        "25.85"
+      ],
+      [
+        "Level 3",
+        "Clerical grade 2; Cook grade 2; Food and beverage attendant grade 3; Fork-lift driver; Front office grade 2; Gardener grade 2; Guest service grade 3; Handyperson;",
+        "1014.70",
+        "26.70"
+      ]
+    ],
+    [
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "",
+        "Kitchen attendant grade 3; Leisure attendant grade 2; Storeperson grade 2; Timekeeper/security officer grade 2",
+        "",
+        ""
+      ],
+      [
+        "Level 4",
+        "Clerical grade 3; Cook (tradesperson) grade 3; Food and beverage attendant (tradesperson) grade 4; Front office grade 3; Gardener grade 3 (tradesperson); Guest service grade 4; Leisure attendant grade 3; Storeperson grade 3",
+        "1068.40",
+        "28.12"
+      ],
+      [
+        "Level 5",
+        "Clerical supervisor; Cook (tradesperson) grade 4; Food and beverage supervisor; Front office supervisor; Gardener grade 4 (tradesperson); Guest service supervisor",
+        "1135.50",
+        "29.88"
+      ],
+      [
+        "Level 6",
+        "Cook (tradesperson) grade 5",
+        "1165.70",
+        "30.68"
+      ]
+    ],
+    [
+      [
+        "Table 4\u2014Casino gaming minimum rates",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Column 1 Employee classification",
+        "Column 2 Employee stream and grade",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "Introductory level",
+        "",
+        "948.00",
+        "24.95"
+      ],
+      [
+        "Level 1",
+        "Casino electronic gaming employee grade 1",
+        "1002.60",
+        "26.38"
+      ],
+      [
+        "Level 2",
+        "Casino electronic gaming employee grade 2; Casino equipment technician grade 1; Casino table gaming employee grade 1; Customer liaison officer; Gaming finance employee grade 1",
+        "1034.90",
+        "27.23"
+      ],
+      [
+        "Level 3",
+        "Casino equipment technician grade 2; Gaming finance employee grade 2; Security officer grade 1",
+        "1068.40",
+        "28.12"
+      ],
+      [
+        "Level 3A",
+        "Casino table gaming employee grade 2",
+        "1118.60",
+        "29.44"
+      ],
+      [
+        "Level 4",
+        "Casino equipment technician grade 3; Gaming finance employee grade 3; Security officer grade 2",
+        "1135.50",
+        "29.88"
+      ],
+      [
+        "Level 5",
+        "Casino table gaming employee grade 3; Gaming finance employee grade 4",
+        "1169.20",
+        "30.77"
+      ],
+      [
+        "Level 6",
+        "Casino table gaming employee grade 4; Gaming finance employee grade 5; Surveillance operator",
+        "1202.90",
+        "31.66"
+      ]
+    ],
+    [
+      [
+        "Column 1 Year of apprenticeship",
+        "Column 2 % of standard weekly rate",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "1st year",
+        "55%",
+        "587.62",
+        "15.46"
+      ],
+      [
+        "2nd year",
+        "65%",
+        "694.46",
+        "18.28"
+      ],
+      [
+        "3rd year",
+        "80%",
+        "854.72",
+        "22.49"
+      ],
+      [
+        "4th year",
+        "95%",
+        "1014.98",
+        "26.71"
+      ]
+    ],
+    [
+      [
+        "Column 1 Stage of apprenticeship",
+        "Column 2 How minimum weekly rate is calculated",
+        "Column 3 Minimum weekly rate (full-time employee)",
+        "Column 4 Minimum hourly rate"
+      ],
+      [
+        "",
+        "",
+        "$",
+        "$"
+      ],
+      [
+        "1st 6 months",
+        "70% of the standard weekly rate",
+        "747.88",
+        "19.68"
+      ],
+      [
+        "2nd 6 months",
+        "85% of the standard weekly rate",
+        "908.14",
+        "23.90"
+      ],
+      [
+        "3rd 6 months",
+        "Midway between the minimum rate prescribed for Food and beverage attendant grade 2 in Table 3\u2014 Minimum rates and the standard weekly rate",
+        "1025.40",
+        "26.98"
+      ],
+      [
+        "4th 6 months",
+        "Midway between the rate specified for the 3rd 6 months and the standard weekly rate",
+        "1046.90",
+        "27.55"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 Deduction",
+        "Column 3 Payable"
+      ],
+      [
+        "",
+        "$",
+        ""
+      ],
+      [
+        "Single room and 3 meals a day",
+        "267.10",
+        "per week"
+      ],
+      [
+        "Shared room and 3 meals a day",
+        "260.42",
+        "per week"
+      ],
+      [
+        "Single room only, no meals",
+        "253.75",
+        "per week"
+      ],
+      [
+        "Shared room only, no meals",
+        "247.07",
+        "per week"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 Age",
+        "Column 3 Deduction",
+        "Payable"
+      ],
+      [
+        "",
+        "",
+        "$",
+        ""
+      ],
+      [
+        "Single room and 3 meals a day",
+        "15 years of age and under",
+        "120.20",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "146.91",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "186.97",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "213.68",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "240.39",
+        "per week"
+      ],
+      [
+        "Shared room and 3 meals a day",
+        "15 years of age and under",
+        "117.19",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "143.23",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "182.29",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "208.34",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "234.38",
+        "per week"
+      ],
+      [
+        "Single room only; no meals",
+        "15 years of age and under",
+        "114.19",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "139.56",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "177.63",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "203.00",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "228.38",
+        "per week"
+      ],
+      [
+        "Shared room only; no meals",
+        "15 years of age and under",
+        "111.18",
+        "per week"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 Age",
+        "Column 3 Deduction",
+        "Payable"
+      ],
+      [
+        "",
+        "",
+        "$",
+        ""
+      ],
+      [
+        "",
+        "16 years of age",
+        "135.89",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "172.95",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "197.66",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "222.36",
+        "per week"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 % of standard weekly rate",
+        "Column 3 Deduction",
+        "Column 4 Payable"
+      ],
+      [
+        "",
+        "",
+        "$",
+        ""
+      ],
+      [
+        "Single room and 3 meals a day",
+        "25% of standard weekly rate",
+        "267.10",
+        "per week"
+      ],
+      [
+        "Shared room and 3 meals a day",
+        "97.5% of 25% of standard weekly rate",
+        "260.42",
+        "per week"
+      ],
+      [
+        "Single room only, no meals",
+        "95% of 25% of standard weekly rate",
+        "253.75",
+        "per week"
+      ],
+      [
+        "Shared room only, no meals",
+        "92.5% of 25% of standard weekly rate",
+        "247.07",
+        "per week"
+      ],
+      [
+        "A meal",
+        "\u2013",
+        "10.13",
+        "per meal"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 Age",
+        "Column 3 % of deduction of adult rate",
+        "Column 4 Deduction",
+        "Column 5 Payable"
+      ],
+      [
+        "",
+        "",
+        "",
+        "$",
+        ""
+      ],
+      [
+        "Single room and 3 meals a day",
+        "15 years of age and under",
+        "45%",
+        "120.20",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "55%",
+        "146.91",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "70%",
+        "186.97",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "80%",
+        "213.68",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "90%",
+        "240.39",
+        "per week"
+      ],
+      [
+        "Shared room and 3 meals a day",
+        "15 years of age and under",
+        "45%",
+        "117.19",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "55%",
+        "143.23",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "70%",
+        "182.29",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "80%",
+        "208.34",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "90%",
+        "234.38",
+        "per week"
+      ],
+      [
+        "Single room only; no meals",
+        "15 years of age and under",
+        "45%",
+        "114.19",
+        "per week"
+      ]
+    ],
+    [
+      [
+        "Column 1 Service provided by employer",
+        "Column 2 Age",
+        "Column 3 % of deduction of adult rate",
+        "Column 4 Deduction",
+        "Column 5 Payable"
+      ],
+      [
+        "",
+        "16 years of age",
+        "55%",
+        "139.56",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "70%",
+        "177.63",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "80%",
+        "203.00",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "90%",
+        "228.38",
+        "per week"
+      ],
+      [
+        "Shared room only; no meals",
+        "15 years of age and under",
+        "45%",
+        "111.18",
+        "per week"
+      ],
+      [
+        "",
+        "16 years of age",
+        "55%",
+        "135.89",
+        "per week"
+      ],
+      [
+        "",
+        "17 years of age",
+        "70%",
+        "172.95",
+        "per week"
+      ],
+      [
+        "",
+        "18 years of age",
+        "80%",
+        "197.66",
+        "per week"
+      ],
+      [
+        "",
+        "19 years of age",
+        "90%",
+        "222.36",
+        "per week"
+      ],
+      [
+        "A meal",
+        "Same rate all ages",
+        "\u2013",
+        "10.13",
+        "per meal"
+      ]
+    ],
+    [
+      [
+        "Loaded Rate Percentage (% of ordinary hourly rate)",
+        "Loaded Rate Range of Days",
+        "Loaded Rate Maximum Weekly Hours"
+      ],
+      [
+        "110.20 (Levels 4-6)",
+        "Monday to Friday",
+        "40"
+      ],
+      [
+        "110.30 (Level 3 only under J.5.2)",
+        "Monday to Friday",
+        "40"
+      ],
+      [
+        "120.00",
+        "Monday to Friday",
+        "45"
+      ],
+      [
+        "116.95",
+        "Monday to Saturday",
+        "40"
+      ],
+      [
+        "123.40",
+        "Monday to Saturday",
+        "45"
+      ],
+      [
+        "126.85",
+        "Monday to Sunday",
+        "40"
+      ],
+      [
+        "131.05",
+        "Monday to Sunday",
+        "45"
+      ]
+    ],
+    [
+      [
+        "",
+        "Loaded Rate Percentages",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "110.20%",
+        "110.30%",
+        "120.00%",
+        "116.95%",
+        "123.40%",
+        "126.85%",
+        "131.05%"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Level 3",
+        "\u2013",
+        "29.45",
+        "32.04",
+        "31.23",
+        "32.95",
+        "33.87",
+        "34.99"
+      ],
+      [
+        "Level 4",
+        "30.99",
+        "\u2013",
+        "33.74",
+        "32.89",
+        "34.70",
+        "35.67",
+        "36.85"
+      ],
+      [
+        "Level 5",
+        "32.93",
+        "\u2013",
+        "35.86",
+        "34.94",
+        "36.87",
+        "37.90",
+        "39.16"
+      ],
+      [
+        "Level 6",
+        "33.81",
+        "\u2013",
+        "36.82",
+        "35.88",
+        "37.86",
+        "38.92",
+        "40.21"
+      ]
+    ],
+    [
+      [
+        "",
+        "Loaded Rate Percentages",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "110.20%",
+        "120.00%",
+        "116.95%",
+        "123.40%",
+        "126.85%",
+        "131.05%"
+      ],
+      [
+        "",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$",
+        "$"
+      ],
+      [
+        "Level 3",
+        "30.99",
+        "33.74",
+        "32.89",
+        "34.70",
+        "35.67",
+        "36.85"
+      ],
+      [
+        "Level 3A",
+        "32.44",
+        "35.33",
+        "34.43",
+        "36.33",
+        "37.34",
+        "38.58"
+      ],
+      [
+        "Level 4",
+        "32.93",
+        "35.86",
+        "34.94",
+        "36.87",
+        "37.90",
+        "39.16"
+      ],
+      [
+        "Level 5",
+        "33.91",
+        "36.92",
+        "35.99",
+        "37.97",
+        "39.03",
+        "40.32"
+      ],
+      [
+        "Level 6",
+        "34.89",
+        "37.99",
+        "37.03",
+        "39.07",
+        "40.16",
+        "41.49"
+      ]
+    ]
+  ],
+  "full_text_excerpt": "Hospitality Industry (General) Award 2020\nThis Fair Work Commission consolidated modern award incorporates all amendments up to\nand including 23 January 2026 (PR794708 and PR795648).\nClause(s) affected by the most recent variation(s):\n2\u2014Definitions\n27\u2014Superannuation\n37A\u2014Workplace delegates\u2019 rights\nTable of Contents\n[Varied by PR720585, PR733533, PR742723, PR740701, PR746868, PR747333, PR750483,\nPR774714, PR777967]\nPart 1\u2014 Application and Operation of this Award...............................................................4\n1. Title and commencement ............................................................................................ 4\n2. Definitions .................................................................................................................... 4\n3. The National Employment Standards and this award.................................................. 9\n4. Coverage ....................................................................................................................... 9\n5. Individual flexibility arrangements ............................................................................. 11\n6. Requests for flexible working arrangements ............................................................. 13\n7. Facilitative provisions ................................................................................................. 13\nPart 2\u2014 Types of Employment and Classifications ............................................................ 14\n8. Types of employment ................................................................................................. 14\n9. Full-time employees ................................................................................................... 15\n10. Part-time employees .................................................................................................. 15\n11. Casual employees ....................................................................................................... 17\n12. Apprentices ................................................................................................................ 18\n13. Junior employees ....................................................................................................... 21\n14. Classifications ............................................................................................................. 22\nMA000009 1\nHospitality Industry (General) Award 2020\nPart 3\u2014 Hours of Work .................................................................................................... 22\n15. Ordinary hours of work and rostering arrangements ................................................ 22\n15A. Employee right to disconnect .................................................................................... 26\n16. Breaks ......................................................................................................................... 27\nPart 4\u2014 Wages and Allowances ....................................................................................... 30\n17. Work organisation ...................................................................................................... 30\n18. Minimum rates ........................................................................................................... 30\n19. Apprentice rates ......................................................................................................... 36\n20. Supported wage system ............................................................................................. 43\n21. National training wage ............................................................................................... 43\n22. Higher duties .............................................................................................................. 44\n23. Payment of wages ...................................................................................................... 44\n24. Annualised wage arrangements ................................................................................. 46\n25. Salaries absorption (Managerial Staff (Hotels)) ......................................................... 48\n26. Allowances ................................................................................................................. 49\n27. Superannuation .......................................................................................................... 55\nPart 5\u2014 Overtime and Penalty Rates ................................................................................ 57\n28. Overtime .................................................................................................................... 57\n29. Penalty rates ............................................................................................................... 61\nPart 6\u2014 Leave and Public Holidays ................................................................................... 64\n30. Annual leave ............................................................................................................... 64\n31. Personal/carer\u2019s leave and compassionate leave ...................................................... 70\n32. Parental leave and related entitlements .................................................................... 70\n33. Community service leave ........................................................................................... 70\n34. Family and domestic violence leave ........................................................................... 70\n35. Public holidays ............................................................................................................ 71\n2 MA000009\nHospitality Industry (General) Award 2020\nPart 7\u2014 Industry Specific Provisions ................................................................................. 72\n36. Deductions for breakages or cashiering underings .................................................... 72\n37. Deductions for provision of employee accommodation and meals .......................... 72\nPart 8\u2014 Workplace Delegates, Consultation and Dispute Resolution ................................ 77\n37A. Workplace delegates\u2019 rights ....................................................................................... 77\n38. Consultation about major workplace change ............................................................ 81\n39. Consultation about changes to rosters or hours of work .......................................... 82\n40. Dispute resolution ...................................................................................................... 83\nPart 9\u2014 Termination of Employment and Redundancy ..................................................... 84\n41. Termination of employment ...................................................................................... 84\n42. Redundancy ................................................................................................................ 85\nSchedule A \u2014Classification Structure and Definitions ....................................................... 87\nSchedule B \u2014Summary of Hourly Rates of Pay ............................................................... 103\nSchedule C \u2014Summary of Monetary Allowances ............................................................ 154\nSchedule D \u2014School-based Apprentices ......................................................................... 163\nSchedule E \u2014Supported Wage System ........................................................................... 165\nSchedule F \u2014Agreement for Time Off Instead of Payment for Overtime.......................... 169\nSchedule G \u2014Agreement to Take Annual Leave in Advance ............................................ 171\nSchedule H \u2014Agreement to Cash Out Annual Leave ....................................................... 173\nSchedule I \u2014Loaded Rate Arrangements ........................................................................ 175\nSchedule J \u2014Loaded Rate Arrangement Form ................................................................ 181\nMA000009 3\nHospitality Industry (General) Award 2020\nPart 1\u2014Application and Operation of this Award\n1. Title and commencement\n[Varied by PR743406]\n1.1 This is the Hospitality Industry (General) Award 2020.\n[1.2 varied by PR743406 ppc 11Jul22]\n1.2 This modern award commenced operation on 1 January 2010. The terms of the award\nhave been varied since that date.\n1.3 A variation to this award does not affect any right, privilege, obligation or liability that\na person acquired, accrued or incurred under the award as it existed prior to that\nvariation.\n2. Definitions\n[Varied by PR733978, PR750483, PR774714, PR777236, PR794063, PR795648]\nIn this award:\naccrued day off means a paid day off accrued in accordance with clause 15.1(b) and\n15.1(d) that is not a rostered day off.\nAct means the Fair Work Act 2009 (Cth).\nadult apprentice means an apprentice who is 21 years of age or over at the start of\ntheir apprenticeship.\nadult employee means an employee who is 21 years of age or over.\nall-purpose allowance means an allowance that is payable for all purposes in\naccordance with clause 26.2(a).\nNOTE: Where an allowance is payable for all purposes in accordance with clause\n26.2(a), the allowance forms part of the employee\u2019s ordinary hourly rate and must\nbe added to the minimum hourly rate when calculating penalties or overtime.\nappropriate level of training, in relation to an employee other than a casino gaming\nemployee, means that the employee:\n(a) has completed an appropriate training program that meets the training and\nassessment requirements of a qualification or one or more appropriate units\nof competency forming part of a training package; or\nMA000009 4\nHospitality Industry (General) Award 2020\n(b) has been assessed by a qualified skills assessor as having skills at least\nequivalent to those attained in an appropriate training program; or\n(c) as at 30 June 2010, had been doing the work of a particular classification for a\nperiod of at least 3 months.\nNOTE 1: The minimum classification level for an employee who has completed AQF\nCertificate III or higher qualifications relevant to the classification in which they are\nemployed and who makes use of skills and knowledge derived from Certificate III\ncompetencies relevant to the work undertaken is Level 4 specified in clause 18.1\u2014\nAdult rates. Any dispute about an employee\u2019s entitlement to be paid at Level 4 must\nbe dealt with in accordance with clause 40\u2014Dispute resolution.\nNOTE 2: See Schedule A\u2014Classification Structure and Definitions in relation to\ncasino gaming employees.\ncasino means a gaming establishment holding a casino licence under relevant State\nor Territory legislation and does not include a gaming facility that is a part of a\nhospitality establishment such as a hotel or tavern operation.\n[Definition of casual employee inserted by PR733978 from 27Sep21; varied by PR777236 from 27Aug24]\ncasual employee has the meaning given by section 15A of the Act.\nNOTE: Section 15A of the Act was amended with effect from 26 August 2024. Under\nclause 102(3) of Schedule 1 to the Act, an existing employee who was a casual\nemployee of an employer under section 15A as it was immediately before that date\nis taken to be a casual employee of the employer for the purposes of section 15A\nafter that date.\ncatering employer means an employer whose primary business is to provide\ncatering services.\ndefined benefit member has the meaning given by the Superannuation Guarantee\n(Administration) Act 1992 (Cth).\nemployee means a national system employee as defined by section 13 of the Act.\n[Definition of employee organisation inserted by PR774714; substituted retrospectively by PR795648 ppc\n01Jul24]\nemployee organisation has the meaning given by section 12 of the Act.\nemployer means a national system employer as defined by section 14 of the Act.\n[Definition of enterprise inserted by PR774714 from 01Jul24]\nenterprise has the meaning given by section 12 of the Act.\nMA000009 5\nHospitality Industry (General) Award 2020\nenterprise instrument has the meaning given by subitem 2(1) of Schedule 6 to the\nFair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cth).\nexempt public sector superannuation scheme has the meaning given by the\nSuperannuation Industry (Supervision) Act 1993 (Cth).\nFair Work Regulations means the Fair Work Regulations 2009 (Cth).\nhospitality industry is defined in clause 4.2.\njunior employee means an employee who is less than 21 years of age and who is\nnot undertaking a nationally recognised traineeship or apprenticeship.\nliquor service employee means a person employed to sell or dispense liquor in bars,\nbottle departments or shops and includes a cellar employee.\n[Definition of long term casual employee deleted by PR733978 from 27Sep21]\nManagerial staff (Hotels) means an employee within the Managerial staff (Hotels)\nclassification level as defined in Schedule A\u2014Classification Structure and Definitions.\nMySuper product has the meaning given by the Superannuation Industry\n(Supervision) Act 1993 (Cth).\nNational Employment Standards, see Part 2-2 of the Act. Divisions 3 to 12 of Part 2-\n2 of the Act constitute the National Employment Standards. An extract of section\n61 of the Act is reproduced below.\nThe National Employment Standards are minimum standards applying to\nemployment of employees. The minimum standards relate to the following matters:\n(a) maximum weekly hours (Division 3);\n(b) requests for flexible working arrangements (Division 4);\n[Paragraph (ba) inserted by PR733978 ppc 27Sep21; varied by PR777236 from 27Aug24]\n(ba) casual employment (Division 4A);\n(c) parental leave and related entitlements (Division 5);\n(d) annual leave (Division 6);\n[Paragraph (e) varied by PR750483 ppc 15Mar23]\n(e) personal/carer's leave, compassionate and paid family and domestic\nviolence leave (Division 7);\n(f) community service leave (Division 8);\n6 MA000009\nHospitality Industry (General) Award 2020\n(g) long service leave (Division 9);\n(h) public holidays (Division 10);\n[Paragraph (ha) inserted by PR794063 ppc 10Dec25]\n(ha) superannuation contributions (Division 10A);\n(i) notice of termination and redundancy pay (Division 11);\n(j) Fair Work Information Statement (Division 12).\non-hire means the on-hire of an employee by their employer to a client, where the\nemployee works under the general guidance and instruction of the client or a\nrepresentative of the client.\nordinary hourly rate means the minimum hourly rate for an employee plus any all-\npurpose allowances to which the employee is entitled.\n[Definition of regular casual employee inserted by PR733978 from 27Sep21]\nregular casual employee has the meaning given by section 12 of the Act.\nresort means an establishment that provides hotel services, accommodation and\nfood and beverages together with access to recreation facilities for guests and\nincludes an offshore island resort.\nrestaurant means a restaurant, reception centre, night club, cafe, roadhouse and\nincludes any tea room operated in, or in connection with, a restaurant business.\nrostered day off means a continuous 24 hour period between the end of the last\nordinary shift, and the start of the next ordinary shift, on which an employee is\nrostered for duty.\nshiftworker, see clause 30.2 (Annual leave).\n[Definition of small business employer inserted by PR774714 from 01Jul24]\nsmall business employer has the meaning given by section 23 of the Act.\nspread of hours means the period between when an employee starts and finishes\nwork within any period of 24 hours.\nstandard hourly rate means the minimum hourly rate for a Level 4 classification\n(Cook (tradesperson) grade 3) in Table 3\u2014Minimum rates.\nstandard weekly rate means the minimum weekly rate for a Level 4 classification\n(Cook (tradesperson) grade 3) in Table 3\u2014Minimum rates.\nMA000009 7\nHospitality Industry (General) Award 2020\nState reference public sector modern award has the meaning given by subitem 3(2)\nof Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nState reference public sector transitional award has the meaning given by subitem\n2(1) of Schedule 6A to the Fair Work (Transitional Provisions and Consequential\nAmendments) Act 2009 (Cth).\nTable 1\u2014Facilitative provisions means the Table in clause 7.2.\nTable 2\u2014Entitlements to meal and rest break(s) means the Table in clause 16.2.\nTable 3\u2014Minimum rates means the Table in clause 18.1.\nTable 4\u2014Casino gaming minimum rates means the Table in clause 18.3.\nTable 5\u2014Junior employees (other than junior office employees) means the Table in\nclause 18.4(a).\nTable 6\u2014Junior office employees means the Table in clause 18.4(b).\nTable 7\u2014Minimum rates for junior apprentices\u2014other than waiting\napprenticeship means the Table in clause 19.1(b).\nTable 8\u2014Four year apprenticeship (nominal term) means the Table in clause\n19.1(c)(i).\nTable 9\u2014Three year apprenticeship (nominal term) means the Table in clause\n19.1(c)(ii).\nTable 10\u2014Minimum rates for junior apprentices\u2014waiting apprenticeship means\nthe Table in clause 19.2(b).\nTable 11\u2014Two year waiting apprenticeship (nominal term) means the Table in\nclause 19.2(c).\nTable 12\u2014Supervisory allowance means the Table in clause 26.13.\nTable 13\u2014Overtime rates means the Table in clause in clause 28.4.\nTable 14\u2014Penalty rates means the Table in clause 29.2(b).\nTable 15\u2014Employees on adult rates means the Table in clause 37.5.\nTable 16\u2014Employees on junior rates means the Table in clause 37.6.\nTable 17\u2014Period of notice means the Table in clause 41.1(b).\n8 MA000009\nHospitality Industry (General) Award 2020\ntraining agreement means the apprenticeship training arrangement, however\ntermed, relevant to the State and Territory apprenticeship legislation entered into\nby an apprentice and an employer.\n[Definition of workplace delegate inserted by PR774714 from 01Jul24]\nworkplace delegate has the meaning given by section 350C(1) of the Act.\n3. The National Employment Standards and this award\n3.1 The National Employment Standards (NES) and this award contain the minimum\nconditions of employment for employees covered by this award.\n3.2 Where this award refers to a condition of employment provided for in the NES, the\nNES definition applies.\n3.3 The employer must ensure that copies of this award and of the NES are available to all\nemployees to whom they apply, either on a notice board conveniently located at or\nnear the workplace or through accessible electronic means.\n4. Coverage\n4.1 This industry award covers, to the exclusion of any other modern award:\n(a) employers in the hospitality industry throughout Australia; and\n(b) employees (with a classification defined in Schedule A\u2014Classification\nStructure and Definitions) of employers mentioned in clause 4.1(a).\n4.2 For the purposes of clause 4.1, hospitality industry includes:\n(a) hotels; and\n(b) motor inns and motels; and\n(c) boarding establishments; and\n(d) condominiums or similar establishments; and\n(e) health or recreational farms; and\n(f) private hotels, guest houses or serviced apartments; and\n(g) caravan parks; and\n(h) ski lodges; and\n(i) holiday flats or units, ranches or farms; and\n(j) hostels or any other type of residential or tourist accommodation; and\nMA000009 9\nHospitality Industry (General) Award 2020\n(k) wine saloons, wine bars or taverns; and\n(l) liquor booths; and\n(m) resorts; and\n(n) caterers; and\n(o) restaurants operating in, or in connection with, premises owned or operated\nby employers otherwise covered by this award; and\n(p) casinos; and\n(q) function areas or convention or similar facilities operating in, or in connection\nwith, premises mentioned in clauses 4.2(a) to 4.2(p).\n4.3 This industry award also covers:\n(a) on-hire employees working in the hospitality industry (with a classification\ndefined in Schedule A\u2014Classification Structure and Definitions) and the on-\nhire employers of those employees; and\n(b) apprentices or trainees engaged or employe"
+}
