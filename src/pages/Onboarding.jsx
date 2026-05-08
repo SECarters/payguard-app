@@ -116,9 +116,9 @@ export default function Onboarding() {
                   placeholder="Your full name" value={form.full_name} onChange={e => update("full_name", e.target.value)} />
               </div>
               <div>
-                <label className="block text-sm text-slate-300 mb-1.5">Phone (optional)</label>
+                <label className="block text-sm text-slate-300 mb-1.5">Phone <span className="text-slate-500 font-normal">(required for bank connection)</span></label>
                 <input className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white placeholder-slate-500 focus:outline-none focus:border-blue-400 transition"
-                  placeholder="0400 000 000" value={form.phone} onChange={e => update("phone", e.target.value)} />
+                  placeholder="+61400 000 000 — needed to link your bank account" value={form.phone} onChange={e => update("phone", e.target.value)} />
               </div>
               <div>
                 <label className="block text-sm text-slate-300 mb-1.5">State / Territory</label>

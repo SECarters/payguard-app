@@ -1,0 +1,75 @@
+{
+  "type": "object",
+  "properties": {
+    "award_name": {
+      "type": "string",
+      "description": "Name of the Modern Award monitored"
+    },
+    "award_code": {
+      "type": "string",
+      "description": "e.g. MA000002"
+    },
+    "check_date": {
+      "type": "string",
+      "description": "ISO date when the check was run"
+    },
+    "source_url": {
+      "type": "string",
+      "description": "FWO or Fair Work Commission URL checked"
+    },
+    "change_detected": {
+      "type": "boolean",
+      "description": "Whether a new variation or update was found"
+    },
+    "change_summary": {
+      "type": "string",
+      "description": "Plain English summary of what changed"
+    },
+    "change_type": {
+      "type": "string",
+      "enum": [
+        "wage_increase",
+        "penalty_rate",
+        "allowance",
+        "classification",
+        "hours_of_work",
+        "leave",
+        "other",
+        "no_change"
+      ],
+      "description": "Category of change"
+    },
+    "effective_date": {
+      "type": "string",
+      "description": "Date the change takes effect"
+    },
+    "pr_number": {
+      "type": "string",
+      "description": "Fair Work Commission PR/decision number if applicable"
+    },
+    "impact_assessment": {
+      "type": "string",
+      "description": "How this change may affect the user's pay structure"
+    },
+    "urgency": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Moderate",
+        "High",
+        "Critical"
+      ],
+      "description": "How urgently the user should act"
+    },
+    "raw_findings": {
+      "type": "string",
+      "description": "Raw scraped or fetched content for audit trail"
+    },
+    "user_profile_id": {
+      "type": "string",
+      "description": "Linked UserProfile record ID"
+    }
+  },
+  "required": [],
+  "name": "AwardUpdateAlert"
+}
