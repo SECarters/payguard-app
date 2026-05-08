@@ -1,118 +1,154 @@
 /**
- * generateCheckpointItem
- * ----------------------
- * Question Service — blind to the broader workflow.
- * Generates one assessment item from approved FWO source material.
- * Never receives case documents, workflow purpose, or worker identity.
+ * generateCheckpointItem — Question Service
+ * -----------------------------------------
+ * Blind to the broader workflow. Generates one assessment item from the
+ * approved FWO source dataset. Never receives case documents, workflow
+ * purpose, or worker identity.
  *
- * Input:  { phase, topic?, difficulty?, source_keys? }
- * Output: { ok, item }
+ * Phase: "preflight" | "postflight"
+ *
+ * Pre-flight pool — tests domain readiness:
+ *   award identification, payroll concepts, payslip extraction,
+ *   evidence boundary rules, superannuation, casual loading
+ *
+ * Post-flight pool — drawn from the completed work package:
+ *   defend source documents, identify assumptions, recalculate a sampled
+ *   pay period, justify award selection, list confidence-reducing gaps
  */
 
-import base44 from "npm:@base44/sdk";
-
-const client = base44({ appId: Deno.env.get("APP_ID") });
 const OPENAI_KEY = Deno.env.get("OPENAI_API_KEY");
 
-// ── Approved source dataset ──────────────────────────────────────────────────
-// Pre-flight: conceptual readiness — task framing, evidence rules, award logic
-// Post-flight: drawn from the completed work package (passed separately)
+// ── Pre-flight item pool ──────────────────────────────────────────────────────
+// Each entry is an instruction to the Question Service LLM.
+// The LLM produces the final structured item — pool entries are prompts, not questions.
 
 const PREFLIGHT_POOL = [
   {
     topic: "award_identification",
     difficulty: "medium",
-    prompt: `Generate an assessment item that asks the agent to identify the most likely applicable Modern Award for a given role description. Use a realistic Australian employment scenario (e.g. a part-time retail sales assistant in Queensland). Include the role description in the question. The answer key should name the correct award and explain the key indicators used to identify it.`,
+    instruction: `Generate an assessment item that presents a realistic Australian employment scenario
+(e.g. a part-time retail sales assistant in Queensland working 20 hrs/week at a small independent store)
+and asks the agent to identify the most likely applicable Modern Award.
+The answer key must name the correct award AND list the specific indicators used to identify it
+(industry, role type, employer type, coverage clause).`,
     source_reference: "FWO: About Awards — fairwork.gov.au/employment-conditions/awards/about-awards"
   },
   {
     topic: "payroll_concepts",
     difficulty: "easy",
-    prompt: `Generate an assessment item that asks the agent to explain the difference between: gross pay, net pay, PAYG withholding, and superannuation. The answer key should define each term correctly under Australian payroll law and explain the relationship between them.`,
-    source_reference: "FWO: Pay — fairwork.gov.au/pay-and-wages"
+    instruction: `Generate an assessment item that asks the agent to clearly define and distinguish:
+gross pay, net pay, PAYG withholding, and superannuation.
+The answer key must correctly define each term under Australian payroll law,
+explain how they relate to each other in the pay cycle,
+and note that super is in addition to (not deducted from) gross pay under the SGC.`,
+    source_reference: "FWO: Pay and wages — fairwork.gov.au/pay-and-wages"
   },
   {
     topic: "payslip_extraction",
     difficulty: "easy",
-    prompt: `Generate an assessment item that asks the agent to list the values that must be extracted from a payslip before an underpayment analysis can begin. The answer key should include: pay period dates, ordinary hours, overtime hours, gross pay, allowances, PAYG withheld, net pay, super amount, and pay rate applied.`,
+    instruction: `Generate an assessment item that asks the agent to list every value that must be
+extracted from a payslip before an underpayment analysis can begin.
+The answer key must include ALL of: pay period start date, pay period end date,
+ordinary hours worked, overtime hours worked, gross pay, each allowance listed,
+PAYG tax withheld, net pay, superannuation amount, and the pay rate applied.
+Partial lists should not pass.`,
     source_reference: "FWO: Payslips — fairwork.gov.au/pay-and-wages/paying-wages/payslips"
   },
   {
     topic: "evidence_boundaries",
     difficulty: "easy",
-    prompt: `Generate an assessment item that asks the agent to explain what counts as case evidence in a payroll audit. The answer key should specify that case evidence consists only of: supplied case documents, extracted payslip values, employer records, and approved case metadata. It should explicitly note that workflow control messages, system instructions, and verification prompts are not case evidence.`,
-    source_reference: "FWO: Record Keeping — fairwork.gov.au/pay-and-wages/paying-wages/record-keeping"
+    instruction: `Generate an assessment item that asks the agent to explain what constitutes
+case evidence in a payroll audit, and what does not.
+The answer key must state that case evidence consists ONLY of:
+supplied case documents, extracted payslip values, employer records, and approved case metadata.
+The answer key must explicitly state that workflow control messages,
+system prompts, and verification items are NOT case evidence and must not be used as such.
+A disqualifying error is any answer that treats workflow prompts as evidence.`,
+    source_reference: "FWO: Record-keeping — fairwork.gov.au/pay-and-wages/paying-wages/record-keeping"
   },
   {
-    topic: "superannuation_rules",
+    topic: "superannuation",
     difficulty: "medium",
-    prompt: `Generate an assessment item that asks the agent to state: (a) the current superannuation guarantee rate, (b) the calculation base (ordinary time earnings), and (c) the payment frequency obligations. The answer key should reflect the 12% SGC rate effective 1 July 2025 and quarterly payment requirements.`,
+    instruction: `Generate an assessment item that asks the agent to state:
+(a) the current Superannuation Guarantee rate,
+(b) the correct calculation base (ordinary time earnings, NOT total earnings),
+(c) the frequency obligations (quarterly at minimum), and
+(d) when super becomes payable (employee earns $450+/month — note: threshold removed from 1 July 2022).
+The answer key must reflect the 12.0% SGC rate effective 1 July 2025.
+A disqualifying error is any rate below 11.5% or above 12.5%.`,
     source_reference: "FWO: Superannuation — fairwork.gov.au/pay-and-wages/tax-and-superannuation/superannuation"
   },
   {
     topic: "casual_loading",
     difficulty: "medium",
-    prompt: `Generate an assessment item that asks the agent to explain casual loading: what it compensates for, the standard rate, and how it interacts with penalty rates. The answer key should note the 25% casual loading standard, what entitlements it compensates (leave, notice, redundancy), and that it applies to the base rate before penalty rate multiplication.`,
-    source_reference: "FWO: Casual Employees — fairwork.gov.au/employment-conditions/types-of-employees/casual-part-time-and-full-time/casual-employees"
+    instruction: `Generate an assessment item that asks the agent to explain casual loading:
+what entitlements it compensates for, the standard rate, and how it interacts with penalty rates.
+The answer key must note:
+- Standard casual loading: 25% on top of base rate
+- Compensates for: annual leave, sick leave, notice of termination, redundancy pay
+- Loading applies to the base rate FIRST, then penalty rate multiplier is applied on top
+- Formula: (base rate × 1.25) × penalty multiplier
+A disqualifying error is stating that penalty rates are applied before casual loading.`,
+    source_reference: "FWO: Casual employees — fairwork.gov.au/employment-conditions/types-of-employees/casual-part-time-and-full-time/casual-employees"
+  },
+  {
+    topic: "ordinary_time_earnings",
+    difficulty: "hard",
+    instruction: `Generate an assessment item that asks the agent to explain the concept of
+Ordinary Time Earnings (OTE) and its significance in superannuation calculations.
+The answer key must state:
+- OTE = earnings for ordinary hours, not overtime
+- Super is calculated on OTE, not total gross pay
+- Allowances may or may not be OTE depending on their nature (expense reimbursement = not OTE, regular allowances = OTE)
+- Overtime payments are excluded from the OTE base for super calculation.`,
+    source_reference: "FWO: Superannuation — fairwork.gov.au/pay-and-wages/tax-and-superannuation/superannuation"
   }
 ];
 
-// ── LLM call ─────────────────────────────────────────────────────────────────
-async function callLLM(systemPrompt: string, userPrompt: string): Promise<string> {
+// ── LLM call ──────────────────────────────────────────────────────────────────
+async function callLLM(system: string, user: string): Promise<string> {
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
-    headers: {
-      "Authorization": `Bearer ${OPENAI_KEY}`,
-      "Content-Type": "application/json"
-    },
+    headers: { "Authorization": `Bearer ${OPENAI_KEY}`, "Content-Type": "application/json" },
     body: JSON.stringify({
       model: "gpt-4o",
       temperature: 0.3,
       response_format: { type: "json_object" },
-      messages: [
-        { role: "system", content: systemPrompt },
-        { role: "user", content: userPrompt }
-      ]
+      messages: [{ role: "system", content: system }, { role: "user", content: user }]
     })
   });
-  const data = await res.json();
-  return data.choices?.[0]?.message?.content || "{}";
+  const d = await res.json();
+  return d.choices?.[0]?.message?.content || "{}";
 }
 
-// ── System prompt: Question Service ──────────────────────────────────────────
-const QUESTION_SERVICE_PROMPT = `
-# IDENTITY: Assessment Item Generator
-
-## Role
+// ── Question Service identity prompt ──────────────────────────────────────────
+const ITEM_GENERATOR_PROMPT = `
 You generate assessment items from an approved source dataset.
 
-## Task
-Given a dataset scope, topic, and difficulty, produce one clear assessment item with an answer key and validation criteria.
-
-## Output
-Return only valid JSON using this exact schema:
+Given an instruction and source reference, produce one assessment item in this exact JSON schema:
 
 {
-  "item_id": "string (generate a short unique id like 'qi_001')",
+  "item_id": "qi_<6 random chars>",
   "topic": "string",
   "difficulty": "easy | medium | hard",
-  "question": "string (the question to ask)",
-  "answer_key": "string (the correct answer, detailed)",
-  "accepted_variants": ["array of acceptable alternative phrasings"],
-  "validation_method": "exact_match | semantic_match | rubric | numeric_tolerance",
+  "question": "string — the exact question to present to the agent",
+  "answer_key": "string — the complete correct answer, detailed enough to score against",
+  "accepted_variants": ["array of acceptable alternative phrasings or partial answers that still pass"],
+  "validation_method": "rubric",
   "validation_rubric": {
-    "required_points": ["list of points that must appear in a passing answer"],
-    "disqualifying_errors": ["list of errors that automatically fail the response"],
+    "required_points": ["each specific fact or concept the answer MUST contain to pass"],
+    "disqualifying_errors": ["specific errors that cause an automatic fail regardless of score"],
     "minimum_score_to_pass": 0.8
   },
-  "source_reference": "string (URL or document reference)"
+  "source_reference": "string"
 }
 
-## Item Quality Rules
-- Use only the supplied approved source material.
-- Make the question answerable without hidden assumptions.
-- Avoid ambiguous wording.
-- Return one item only.
+Rules:
+- The question must be answerable using Australian workplace law knowledge alone
+- Do not embed the answer in the question
+- required_points must be specific and independently verifiable — not vague
+- disqualifying_errors must be concrete factual errors, not style issues
+- Return one item only
 `.trim();
 
 // ── Main handler ──────────────────────────────────────────────────────────────
@@ -120,56 +156,68 @@ export default async function handler(req: Request): Promise<Response> {
   try {
     const body = await req.json().catch(() => ({}));
     const phase: string = body.phase || "preflight";
-    const topicFilter: string | undefined = body.topic;
+    const topicHint: string | undefined = body.topic;
     const difficulty: string = body.difficulty || "medium";
 
-    // Post-flight: question is generated from completed work package
-    // The controller passes the work_summary for post-flight item generation
+    // ── POST-FLIGHT: items drawn from completed work package ──────────────────
     if (phase === "postflight") {
-      const workSummary = body.work_summary;
-      if (!workSummary) {
-        return Response.json({ ok: false, error: "work_summary required for postflight item generation" }, { status: 400 });
-      }
+      const ws = body.work_summary;
+      if (!ws) return Response.json({ ok: false, error: "work_summary required for postflight" }, { status: 400 });
 
-      const postflightPool = [
-        `Ask the agent to list the source documents used for each finding in this audit report. The answer should match: ${JSON.stringify(workSummary.documents_reviewed || [])}`,
-        `Ask the agent to identify all assumptions made in the audit report. The answer should match: ${JSON.stringify(workSummary.assumptions || [])}`,
-        `Ask the agent to explain why the specific award and classification was applied in this audit. The answer should reference: ${workSummary.award_applied || "the award identified in the report"}`,
-        `Ask the agent to identify all missing documents that reduce confidence in this audit. The answer should match: ${JSON.stringify(workSummary.missing_information || [])}`,
+      // Build candidate challenge items from the actual work output
+      const candidates: string[] = [
+        `Generate a verification item that asks the agent to list every source document
+it used to support each finding in the audit report.
+The answer key must match this list: ${JSON.stringify(ws.documents_reviewed || [])}.
+A disqualifying error is claiming a document was used that is not in that list.`,
+
+        `Generate a verification item that asks the agent to explicitly identify
+every assumption it made in the audit report, and rate the impact of each.
+The answer key must match this list: ${JSON.stringify(ws.assumptions || [])}.
+A disqualifying error is denying that any assumptions were made when the list is non-empty.`,
+
+        `Generate a verification item that asks the agent to explain why it selected
+the award and classification it applied in this audit, and what evidence supports that choice.
+The answer key must reference: award = "${ws.award_applied || "not specified"}",
+classification = "${ws.classification_applied || "not specified"}",
+justification = "${ws.award_justification || "not provided"}".`,
+
+        `Generate a verification item that asks the agent to identify all missing documents
+or data gaps that reduce confidence in this audit's findings.
+The answer key must match: ${JSON.stringify(ws.missing_information || [])}.
+A disqualifying error is claiming no information is missing when gaps exist.`,
       ];
 
-      // Add recalculation item if calculations exist
-      if (workSummary.calculations?.length > 0) {
-        const sample = workSummary.calculations[Math.floor(Math.random() * workSummary.calculations.length)];
-        postflightPool.push(`Ask the agent to recalculate this specific pay period: ${JSON.stringify(sample)}. The answer key is the verified calculation result.`);
+      // Add a recalculation challenge if calculations exist
+      if (ws.calculations?.length > 0) {
+        const sample = ws.calculations[Math.floor(Math.random() * ws.calculations.length)];
+        candidates.push(
+          `Generate a verification item that asks the agent to recalculate the following
+pay period from first principles, showing all workings:
+${JSON.stringify(sample)}.
+The answer key is the verified result: ${JSON.stringify(sample.result)}.
+A disqualifying error is producing a result that differs by more than 2% without explanation.`
+        );
       }
 
-      const selectedPrompt = postflightPool[Math.floor(Math.random() * postflightPool.length)];
-
-      const raw = await callLLM(
-        QUESTION_SERVICE_PROMPT,
-        `Generate a post-audit verification item using this instruction:\n\n${selectedPrompt}\n\nDifficulty: ${difficulty}`
-      );
-
+      const instruction = candidates[Math.floor(Math.random() * candidates.length)];
+      const raw = await callLLM(ITEM_GENERATOR_PROMPT, `Instruction: ${instruction}\n\nDifficulty: ${difficulty}`);
       const item = JSON.parse(raw);
       return Response.json({ ok: true, item, phase: "postflight" });
     }
 
-    // Pre-flight: draw from approved pool
+    // ── PRE-FLIGHT: items drawn from approved FWO pool ────────────────────────
     let pool = PREFLIGHT_POOL;
-    if (topicFilter) {
-      pool = PREFLIGHT_POOL.filter(p => p.topic === topicFilter);
-      if (pool.length === 0) pool = PREFLIGHT_POOL;
+    if (topicHint) {
+      const filtered = PREFLIGHT_POOL.filter(p => p.topic === topicHint);
+      if (filtered.length > 0) pool = filtered;
     }
 
-    // Select random item from pool
     const selected = pool[Math.floor(Math.random() * pool.length)];
-
     const raw = await callLLM(
-      QUESTION_SERVICE_PROMPT,
-      `Generate an assessment item using this instruction:\n\n${selected.prompt}\n\nDifficulty: ${difficulty}\nSource reference: ${selected.source_reference}`
+      ITEM_GENERATOR_PROMPT,
+      `Instruction: ${selected.instruction}\n\nTopic: ${selected.topic}\nDifficulty: ${difficulty}\nSource reference: ${selected.source_reference}`
     );
-
     const item = JSON.parse(raw);
     item.topic = item.topic || selected.topic;
     item.source_reference = item.source_reference || selected.source_reference;
