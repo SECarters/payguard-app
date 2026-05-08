@@ -8,28 +8,14 @@
       "type": "string"
     },
     "phone": {
-      "type": "string"
+      "type": "string",
+      "description": "Mobile number in E.164 format e.g. +61412345678 \u2014 required for bank connection"
     },
     "state": {
-      "type": "string",
-      "enum": [
-        "ACT",
-        "NSW",
-        "NT",
-        "QLD",
-        "SA",
-        "TAS",
-        "VIC",
-        "WA"
-      ]
+      "type": "string"
     },
     "employment_type": {
-      "type": "string",
-      "enum": [
-        "Full-time",
-        "Part-time",
-        "Casual"
-      ]
+      "type": "string"
     },
     "industry": {
       "type": "string"
@@ -50,18 +36,13 @@
       "type": "string"
     },
     "employment_start_date": {
-      "type": "string",
-      "format": "date"
+      "type": "string"
     },
     "pay_rate": {
       "type": "number"
     },
     "pay_rate_type": {
-      "type": "string",
-      "enum": [
-        "Hourly",
-        "Annual Salary"
-      ]
+      "type": "string"
     },
     "has_written_contract": {
       "type": "boolean"
@@ -73,12 +54,47 @@
       "type": "boolean"
     },
     "preferred_report_depth": {
+      "type": "string"
+    },
+    "basiq_user_id": {
       "type": "string",
-      "enum": [
-        "Basic",
-        "In-depth",
-        "Forensic"
-      ]
+      "description": "Basiq platform user ID \u2014 used to fetch bank transactions for payroll verification"
+    },
+    "basiq_connected": {
+      "type": "boolean",
+      "description": "True if user has successfully linked at least one bank account via Basiq"
+    },
+    "basiq_connected_at": {
+      "type": "string",
+      "description": "ISO timestamp when bank was first connected"
+    },
+    "confidence_score": {
+      "type": "number",
+      "description": "Payroll confidence score 0\u2013100 based on number of verified data sources connected"
+    },
+    "connected_sources": {
+      "type": "array",
+      "description": "List of data sources the user has connected",
+      "items": {
+        "type": "string",
+        "enum": [
+          "payslip_upload",
+          "xero_me",
+          "deputy_employee",
+          "bank_account",
+          "superannuation",
+          "ato_income_statement",
+          "employment_contract"
+        ]
+      }
+    },
+    "super_fund_name": {
+      "type": "string",
+      "description": "Name of the user's superannuation fund"
+    },
+    "super_member_number": {
+      "type": "string",
+      "description": "Super fund member number"
     }
   },
   "required": [],
