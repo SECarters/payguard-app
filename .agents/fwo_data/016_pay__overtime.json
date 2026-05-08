@@ -1,0 +1,40 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay",
+  "title": "Overtime pay",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Find out about overtime pay, when it applies, and how TOIL (time off in lieu) works."
+  },
+  "headings": [
+    { "level": "H1", "text": "Overtime pay" },
+    { "level": "H2", "text": "When does overtime apply?" },
+    { "level": "H2", "text": "Overtime rates" },
+    { "level": "H2", "text": "Time off instead of overtime pay (TOIL)" },
+    { "level": "H2", "text": "Overtime for salaried employees" }
+  ],
+  "content": "Overtime is time worked beyond an employee's ordinary hours of work. When overtime applies, and what rate is paid, depends on the employee's award or registered agreement.\n\nWhen does overtime apply?\nOvertime generally applies when an employee works:\n- More than their ordinary daily hours (commonly more than 7.6 or 8 hours per day)\n- More than their ordinary weekly hours (commonly more than 38 hours per week)\n- Outside their spread of hours as defined in their award\n- On days they are not ordinarily required to work\n\nCommon overtime rates set by awards:\n- First 2–3 hours of overtime: 150% (time and a half) of the ordinary rate\n- Beyond that: 200% (double time) of the ordinary rate\n- Public holiday overtime (SCHADS Award): 250% (double time and a half)\n\nTime off instead of overtime (TOIL):\nSome awards allow an employer and employee to agree to TOIL instead of overtime pay. Under TOIL arrangements:\n- The employee must agree in writing\n- The employee takes time off equal to the overtime worked (at the applicable overtime rate)\n- TOIL must be taken within a reasonable period\n- The agreement cannot disadvantage the employee\n\nMaximum weekly hours:\nFull-time employees' ordinary hours are 38 per week. Additional hours beyond 38 per week may be 'reasonable additional hours' under the NES (see s.62 Fair Work Act). Whether an employee must be paid overtime for those hours depends on their award or agreement.\n\nSalaried employees:\nSome awards and agreements include overtime provisions for salaried employees. From 16 September 2023, employees under the Professional Employees Award 2020 are entitled to overtime pay for working more than the hours specified in the award.\n\nCasual employees:\nCasual employees may also be entitled to overtime rates under their award — always check the applicable award clause.\n\nLegislative basis: Fair Work Act 2009 (Cth), s.62 (maximum weekly hours); individual Modern Award overtime clauses.",
+  "tables": [
+    [
+      ["Overtime scenario", "Common rate", "Notes"],
+      ["First 2 hours overtime (weekday)", "150% (time and a half)", "Award-dependent"],
+      ["Beyond 2 hours overtime (weekday)", "200% (double time)", "Award-dependent"],
+      ["Overtime on Sunday", "200%", "Award-dependent"],
+      ["Overtime on public holiday", "250% (double time and a half)", "Some awards, e.g. SCHADS"],
+      ["TOIL", "Equivalent time off at overtime rate", "Requires written agreement"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Maximum weekly hours", "href": "https://www.fairwork.gov.au/employment-conditions/national-employment-standards/maximum-weekly-hours" },
+    { "text": "Pay and Conditions Tool", "href": "https://www.fairwork.gov.au/pay-and-wages/pay-calculator" }
+  ],
+  "key_facts": {
+    "ordinary_weekly_hours_full_time": 38,
+    "common_overtime_rate_first_hours": "150% (time and a half)",
+    "common_overtime_rate_extended": "200% (double time)",
+    "toil_available": true,
+    "toil_requires_written_agreement": true,
+    "legislation": "Fair Work Act 2009 (Cth) s.62"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://www.fairwork.gov.au/leave/parental-leave",
+  "canonical_url": "https://www.fairwork.gov.au/leave/parental-leave",
+  "title": "Parental leave",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Parental leave entitlements in Australia — unpaid leave, eligibility, how to apply, and right to return."
+  },
+  "headings": [
+    { "level": "H1", "text": "Parental leave" },
+    { "level": "H2", "text": "Eligibility for parental leave" },
+    { "level": "H2", "text": "Types of parental leave" },
+    { "level": "H2", "text": "Unpaid parental leave" },
+    { "level": "H2", "text": "Paid Parental Leave (PPL)" },
+    { "level": "H2", "text": "Partner leave" },
+    { "level": "H2", "text": "Right to return to work" },
+    { "level": "H2", "text": "Applying for parental leave" }
+  ],
+  "content": "Parental leave gives employees time off work for the birth or adoption of a child. There are NES entitlements to unpaid parental leave, and a separate government-funded Paid Parental Leave scheme.\n\nEligibility for unpaid parental leave:\nAll employees (full-time, part-time, and some casual employees) are eligible for unpaid parental leave if they have completed at least 12 months of continuous service with their employer before the expected date of birth or adoption.\n\nCasual employees are eligible if they have been employed on a regular and systematic basis for at least 12 months and have a reasonable expectation of continuing employment.\n\nTypes of parental leave:\n1. Unpaid parental leave (NES entitlement)\n2. Government-funded Paid Parental Leave (Services Australia — separate scheme)\n3. Paid parental leave under an award or enterprise agreement (additional entitlements)\n\nUnpaid parental leave:\n- Eligible employees can take up to 12 months of unpaid parental leave\n- Employees can request an additional 12 months (up to 24 months total)\n- The employer can only refuse the extension on reasonable business grounds\n- Both parents cannot take parental leave at the same time generally, except for a short concurrent period (up to 8 weeks at the same time)\n\nLeave can be taken:\n- For birth: up to 12 months from the birth of the child\n- For adoption: up to 12 months from the day of placement\n\nPaid Parental Leave (government scheme):\n- Funded by the Australian Government through Services Australia (not the employer)\n- Eligible working parents may receive government-funded PPL payments\n- This is separate from the NES unpaid parental leave entitlement\n- The employer does not pay PPL unless their award or agreement provides additional entitlements\n\nRight to return to work:\nAfter parental leave, an employee has the right to return to:\n- Their pre-parental leave position, or\n- If that role no longer exists, a comparable position (same pay, location, status)\n\nAn employer cannot dismiss an employee because they are on parental leave or because they have applied for parental leave. This is protected by the Fair Work Act.\n\nApplying for parental leave:\nEmployees must give their employer at least 10 weeks' written notice before taking parental leave (or as soon as reasonably practicable if the birth or adoption is earlier than expected). The notice must include the expected start date and duration of leave.",
+  "tables": [
+    [
+      ["Leave type", "Duration", "Who pays"],
+      ["Unpaid parental leave (NES)", "Up to 12 months (extendable to 24)", "No pay — unpaid leave"],
+      ["Government PPL", "Up to 20 weeks (2024–25 rate)", "Services Australia (government)"],
+      ["Award/EA paid parental leave", "Varies by award/EA", "Employer"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Types of parental leave", "href": "https://www.fairwork.gov.au/leave/parental-leave/before-parental-leave/types-of-parental-leave" },
+    { "text": "Applying for parental leave", "href": "https://www.fairwork.gov.au/leave/parental-leave/before-parental-leave/applying-for-parental-leave" }
+  ],
+  "key_facts": {
+    "eligibility_minimum_service_months": 12,
+    "casual_eligible": true,
+    "casual_requires_regular_systematic": true,
+    "unpaid_leave_initial_months": 12,
+    "unpaid_leave_maximum_months": 24,
+    "notice_required_weeks": 10,
+    "right_to_return_protected": true,
+    "dismissal_on_parental_leave_prohibited": true,
+    "legislation": "Fair Work Act 2009 (Cth) ss.67–85"
+  }
+}

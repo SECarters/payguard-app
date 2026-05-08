@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave",
+  "canonical_url": "https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave",
+  "title": "Annual leave — cashing out and directing",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Rules for cashing out annual leave, directing employees to take leave, and accrual."
+  },
+  "headings": [
+    { "level": "H1", "text": "Cashing out annual leave" },
+    { "level": "H2", "text": "Accrual of annual leave" },
+    { "level": "H2", "text": "When can annual leave be cashed out?" },
+    { "level": "H2", "text": "Directing an employee to take annual leave" },
+    { "level": "H2", "text": "Direction to take leave during shutdown" }
+  ],
+  "content": "Annual leave accrual:\nFull-time and part-time employees accrue 4 weeks of paid annual leave for each year of service (pro-rata for part-time employees based on ordinary hours). Shiftworkers may accrue 5 weeks under some awards. Annual leave accrues progressively throughout the year and accumulates year-to-year if unused.\n\nCasual employees are NOT entitled to paid annual leave.\n\nCashing out annual leave:\nAn award or enterprise agreement must allow cashing out. Not all awards permit it. Where permitted, the following conditions must be met:\n- The employee must retain at least 4 weeks of annual leave after cashing out\n- A separate written agreement must be made each time annual leave is cashed out (a blanket agreement is not sufficient)\n- The employee must be paid the same amount they would have received if they had taken the leave\n\nAn employer cannot pressure or coerce an employee to cash out their leave.\n\nDirecting an employee to take annual leave:\nAn employer can direct an employee to take annual leave in certain circumstances, depending on what the award or enterprise agreement says. Common situations:\n\n1. Excess annual leave direction:\n- If an employee has accumulated excess annual leave (often 8 weeks or more), some awards allow the employer to direct them to take leave\n- The direction must give reasonable notice (often 8 weeks' written notice)\n- Leave directed must be at least 1 week long\n- Generally cannot result in the employee having less than 6 weeks of accrued leave remaining\n\n2. Direction during a shutdown:\n- An award or enterprise agreement may allow an employer to direct employees to take annual leave during a shutdown (e.g. over Christmas/New Year)\n- The direction must be reasonable and provide reasonable notice\n- If an employee doesn't have sufficient leave balance, the employer and employee can agree to the employee taking leave in advance or unpaid leave\n\nLeave loading:\nSome awards and enterprise agreements provide for annual leave loading — an extra 17.5% payment on top of ordinary pay while on annual leave. Check the applicable award to confirm if leave loading applies.",
+  "tables": [
+    [
+      ["Rule", "Requirement"],
+      ["Annual leave accrual", "4 weeks per year (full-time); pro-rata for part-time"],
+      ["Casual employees", "No entitlement to paid annual leave"],
+      ["Cash out — minimum balance remaining", "4 weeks"],
+      ["Cash out — agreement required", "Written agreement each time"],
+      ["Cash out — pay rate", "Same rate as if leave was taken"],
+      ["Excess leave direction — minimum notice", "Often 8 weeks written notice (award-dependent)"],
+      ["Excess leave direction — minimum leave taken", "At least 1 week"],
+      ["Excess leave direction — minimum balance after", "Generally at least 6 weeks"],
+      ["Leave loading (where applicable)", "17.5% on top of ordinary pay"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Cashing out annual leave", "href": "https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave" },
+    { "text": "Directing an employee to take annual leave", "href": "https://www.fairwork.gov.au/leave/annual-leave/directing-an-employee-to-take-annual-leave" },
+    { "text": "Direction to take annual leave during a shutdown", "href": "https://www.fairwork.gov.au/leave/annual-leave/directing-an-employee-to-take-annual-leave/direction-to-take-annual-leave-during-a-shut-down" }
+  ],
+  "key_facts": {
+    "annual_leave_weeks_per_year_full_time": 4,
+    "shiftworker_entitlement_weeks": 5,
+    "casual_entitlement": false,
+    "cash_out_minimum_remaining_weeks": 4,
+    "cash_out_requires_written_agreement_each_time": true,
+    "leave_loading_common_rate_percent": 17.5,
+    "legislation": "Fair Work Act 2009 (Cth) ss.87–93"
+  }
+}

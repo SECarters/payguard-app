@@ -1,0 +1,41 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates",
+  "title": "Penalty rates",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Penalty rates are higher pay rates that apply when employees work particular hours or days such as evenings, weekends or public holidays."
+  },
+  "headings": [
+    { "level": "H1", "text": "Penalty rates" },
+    { "level": "H2", "text": "When do penalty rates apply?" },
+    { "level": "H2", "text": "Weekend penalty rates" },
+    { "level": "H2", "text": "Public holiday penalty rates" },
+    { "level": "H2", "text": "Casual employees and penalty rates" },
+    { "level": "H2", "text": "How penalties and loadings interact" }
+  ],
+  "content": "Penalty rates are higher pay rates that can apply when an employee works particular hours or days such as evenings, weekends or public holidays. They are set by an employee's award or registered agreement.\n\nPenalty rates may apply when working:\n- Weekends (Saturday and/or Sunday)\n- Public holidays\n- Overtime\n- Late night shifts or early morning shifts\n- Split shifts (in some awards)\n\nThe specific penalty rates or allowances that an employee is entitled to will depend on their award or registered agreement. Use the Pay and Conditions Tool to calculate penalty rates and allowances.\n\nWeekend penalty rates:\nWeekend penalty rates vary by award. Common examples:\n- Saturday work: 125% of minimum hourly rate (many awards)\n- Sunday work: 150%–200% of minimum hourly rate (many awards)\n\nPublic holiday penalty rates:\nEmployees get paid at least their base pay rate for all hours worked on public holidays. Most awards provide higher rates, for example:\n- Full-time and part-time employees: 225%–250% of base rate (award dependent)\n- Casual employees (Retail Award): 250% of minimum hourly rate (includes casual loading)\n\nCasual employees and penalty rates:\nCasual employees are also entitled to penalty rates in addition to their casual loading. When calculating, the penalty rate and the casual loading are both calculated on the minimum pay rate and paid at the same time. Always check the applicable award.\n\nExample — Retail Award casual Sunday rate:\n- 175% of minimum hourly rate for ordinary hours worked on Sundays (includes casual loading)\n\nHow penalties and loadings interact:\nGenerally, casual loading and a penalty rate are both calculated on the base minimum rate of pay. They are not stacked multiplicatively unless the award specifically states otherwise. Always verify the specific award clause.\n\nEmployers who fail to pay correct penalty rates may be liable for underpayment claims and civil penalties under the Fair Work Act 2009.",
+  "tables": [
+    [
+      ["Day/Circumstance", "Typical rate (award-dependent)", "Notes"],
+      ["Ordinary weekday", "100%", "Base rate of pay"],
+      ["Saturday", "125%–150%", "Varies by award and employment type"],
+      ["Sunday", "150%–200%", "Varies by award and employment type"],
+      ["Public holiday", "225%–250%", "Varies by award"],
+      ["Casual Sunday (Retail)", "175%", "Includes 25% casual loading"],
+      ["Casual public holiday (Retail)", "250%", "Includes casual loading"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Pay and Conditions Tool", "href": "https://www.fairwork.gov.au/pay-and-wages/pay-calculator" },
+    { "text": "Public holiday penalty rates", "href": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates/public-holiday-penalty-rates" },
+    { "text": "How penalties and loadings interact", "href": "https://www.fairwork.gov.au/tools-and-resources/library/K600467_How-do-penalties-loadings-interact-" }
+  ],
+  "key_facts": {
+    "trigger_scenarios": ["weekends", "public holidays", "overtime", "late nights", "early mornings"],
+    "determined_by": "Award or registered agreement",
+    "casual_loading_interaction": "Both casual loading and penalty rate calculated on the base minimum pay rate",
+    "legislation": "Fair Work Act 2009 (Cth)"
+  }
+}

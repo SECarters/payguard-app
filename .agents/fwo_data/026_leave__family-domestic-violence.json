@@ -1,0 +1,47 @@
+{
+  "url": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave",
+  "canonical_url": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave",
+  "title": "Family and domestic violence leave",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Paid family and domestic violence leave entitlements for all employees including casuals."
+  },
+  "headings": [
+    { "level": "H1", "text": "Family and domestic violence leave" },
+    { "level": "H2", "text": "Who is entitled to family and domestic violence leave?" },
+    { "level": "H2", "text": "How much leave?" },
+    { "level": "H2", "text": "When can it be taken?" },
+    { "level": "H2", "text": "Notice and evidence" },
+    { "level": "H2", "text": "Confidentiality" },
+    { "level": "H2", "text": "Pay slips and privacy" }
+  ],
+  "content": "All employees are entitled to paid family and domestic violence leave under the NES. This includes full-time, part-time, and casual employees.\n\nFrom 1 August 2023, all employees covered by the national workplace relations system are entitled to 10 days of paid family and domestic violence leave each year.\n\nThis leave applies from the first day of employment — employees don't need to accumulate it over time.\n\nWhat is family and domestic violence?\nFamily and domestic violence means violent, threatening or other abusive behaviour by a close relative of the employee, a member of the employee's household, or a current or former intimate partner, that seeks to coerce or control the employee or causes them harm or fear.\n\nWhen can it be taken?\nAn employee can take family and domestic violence leave when they are experiencing family and domestic violence and they need to do something to deal with the impact of the violence, and it is impractical to do this outside of their ordinary hours of work.\n\nExamples of circumstances include:\n- Making arrangements for their safety or the safety of a close relative\n- Attending court hearings\n- Accessing police services\n- Attending medical, counselling or financial services appointments\n- Arranging alternative accommodation\n\nNotice and evidence:\nAn employee must let their employer know as soon as possible that they need to take the leave. This can happen after the leave has started. The employer can ask for evidence to confirm the leave is taken for a valid reason. Evidence could include:\n- Documents from the police\n- Court documents\n- Statutory declaration\n- Documents from a medical professional, domestic violence support service, lawyer or financial adviser\n\nThe type of evidence the employer asks for must be reasonable. It does not have to be a formal document.\n\nPay rate:\nEmployees are paid their full pay rate for the hours they would have worked during the leave period. For casual employees, this is based on the hours they were rostered to work.\n\nConfidentiality:\nEmployers must take all reasonable steps to ensure information about an employee taking family and domestic violence leave is kept confidential. Only disclose information if required by law or with the employee's consent.\n\nPay slips:\nPay slips must NOT mention that an employee has taken family and domestic violence leave. This is a specific legal requirement to protect the employee's safety and privacy.\n\nSupport services:\n- 1800RESPECT: 1800 737 732 (national domestic, family and sexual violence counselling service)\n- Police: 000 (immediate danger)",
+  "tables": [
+    [
+      ["Feature", "Detail"],
+      ["Entitled employees", "All employees — full-time, part-time, casual"],
+      ["Amount of leave", "10 days per year"],
+      ["When available", "From day 1 of employment (no accumulation required)"],
+      ["Paid/unpaid", "Paid (at ordinary pay rate)"],
+      ["Renews each year", "Yes — 10 days per year (does not accumulate if unused)"],
+      ["Notice requirement", "As soon as possible (can be after leave starts)"],
+      ["Evidence required", "Employer may request reasonable evidence"],
+      ["Payslip reference", "Must NOT appear on pay slip"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Notice and evidence for family domestic violence leave", "href": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/notice-and-evidence-for-family-domestic-violence-leave" },
+    { "text": "Taking family domestic violence leave", "href": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/taking-family-domestic-violence-leave" }
+  ],
+  "key_facts": {
+    "days_per_year": 10,
+    "paid": true,
+    "accumulates_from_day_1": true,
+    "does_not_roll_over_if_unused": true,
+    "casual_employees_entitled": true,
+    "payslip_must_not_mention": true,
+    "effective_date_all_employees": "2023-08-01",
+    "legislation": "Fair Work Act 2009 (Cth) ss.106A–106P"
+  }
+}

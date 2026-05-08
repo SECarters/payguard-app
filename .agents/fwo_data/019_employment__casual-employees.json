@@ -1,0 +1,49 @@
+{
+  "url": "https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees",
+  "canonical_url": "https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees",
+  "title": "Casual employees",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Definition, entitlements, and rules for casual employees under Australian law including 2024 changes."
+  },
+  "headings": [
+    { "level": "H1", "text": "Casual employees" },
+    { "level": "H2", "text": "Definition of a casual employee (from 26 August 2024)" },
+    { "level": "H2", "text": "Casual loading" },
+    { "level": "H2", "text": "Entitlements for casual employees" },
+    { "level": "H2", "text": "Casual Employment Information Statement" },
+    { "level": "H2", "text": "Pathway to permanent employment" },
+    { "level": "H2", "text": "Casual conversion before 26 August 2024" }
+  ],
+  "content": "A new definition of casual employee was introduced into the Fair Work Act from 26 August 2024 as part of the Closing Loopholes reforms.\n\nDefinition (from 26 August 2024):\nAn employee is a casual employee if, at the time they are offered a job, the employment relationship has no firm advance commitment to continuing and indefinite work. Key indicators include:\n- No guaranteed hours of work\n- Work offered and accepted on an ad-hoc basis\n- No firm commitment to ongoing engagement\n\nCasual loading:\nCasual employees are entitled to a casual loading or a specific casual pay rate under their award, registered agreement, or employment contract. Generally, casual loading is an extra 25% of the minimum hourly rate. This loading compensates casual employees for the entitlements they don't receive (e.g. paid annual leave, paid personal/carer's leave).\n\nExample: If the base rate is $24.95/hr, a casual employee would receive approximately $31.19/hr (base + 25%).\n\nEntitlements casual employees DO receive:\n- Casual loading (or specific casual pay rate)\n- 2 days unpaid carer's leave per occasion\n- 2 days compassionate leave per occasion\n- Family and domestic violence leave (10 days paid from 1 August 2023)\n- Community service leave\n- Long service leave (after qualifying period)\n- Public holidays (if they would ordinarily work on that day)\n- Superannuation contributions from employer\n- Fair Work Information Statement\n- Casual Employment Information Statement (CEIS)\n\nEntitlements casual employees do NOT receive:\n- Paid annual leave\n- Paid personal/carer's leave (sick leave)\n- Notice of termination (unless award/agreement provides otherwise)\n- Redundancy pay (generally)\n\nCasual Employment Information Statement (CEIS):\nEmployers must give all new casual employees a copy of the CEIS before, or as soon as practicable after, they start employment. The CEIS explains their conditions of employment.\n\nPathway to permanent employment (Employee Choice Pathway):\nFrom 26 February 2025, eligible casual employees can notify their employer in writing of their intention to change to permanent (full-time or part-time) employment. Eligibility requires:\n- 6 months of employment (12 months for small business employees)\n- The employment relationship is consistent with permanent employment characteristics\n\nEmployers can only refuse on specified grounds.\n\nA casual employee can also change to permanent employment at any time if both the employer and employee agree.\n\nTransitional arrangements:\nA casual employee engaged before 26 August 2024 continues as a casual under the new rules unless they move to permanent employment through agreement or the employee choice pathway.",
+  "tables": [
+    [
+      ["Entitlement", "Casual employee entitled?"],
+      ["Casual loading (~25%)", "Yes"],
+      ["Paid annual leave", "No"],
+      ["Paid personal/carer's leave", "No"],
+      ["Unpaid carer's leave (2 days per occasion)", "Yes"],
+      ["Family and domestic violence leave (10 days paid)", "Yes (from 1 Aug 2023)"],
+      ["Compassionate leave (2 days per occasion)", "Yes"],
+      ["Long service leave", "Yes (after qualifying period)"],
+      ["Superannuation", "Yes"],
+      ["Public holiday pay", "Yes (if ordinarily rostered)"],
+      ["Notice of termination", "Generally No"],
+      ["Redundancy pay", "Generally No"],
+      ["Pathway to permanent employment", "Yes (from 26 Feb 2025)"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Casual Employment Information Statement", "href": "https://www.fairwork.gov.au/employment-conditions/information-statements/casual-employment-information-statement" },
+    { "text": "Casual employment changes", "href": "https://www.fairwork.gov.au/about-us/workplace-laws/legislation-changes/closing-loopholes/casual-employment-changes" },
+    { "text": "Becoming a permanent employee", "href": "https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees/becoming-a-permanent-employee" }
+  ],
+  "key_facts": {
+    "casual_loading_standard_percent": 25,
+    "new_definition_effective_date": "2026-08-26",
+    "employee_choice_pathway_effective": "2026-02-26",
+    "ceis_required": true,
+    "legislation": "Fair Work Act 2009 (Cth), as amended by Fair Work Legislation Amendment (Closing Loopholes) Acts 2023–2024"
+  }
+}

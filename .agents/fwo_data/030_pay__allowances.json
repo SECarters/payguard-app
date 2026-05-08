@@ -1,0 +1,42 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances",
+  "title": "Allowances",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Workplace allowances — what they are, types of allowances, and when employees are entitled to them."
+  },
+  "headings": [
+    { "level": "H1", "text": "Allowances" },
+    { "level": "H2", "text": "What are allowances?" },
+    { "level": "H2", "text": "Types of allowances" },
+    { "level": "H2", "text": "Expense-based allowances" },
+    { "level": "H2", "text": "Task and skill allowances" },
+    { "level": "H2", "text": "Uniforms, vehicles and travel" },
+    { "level": "H2", "text": "How to find applicable allowances" }
+  ],
+  "content": "Allowances are additional payments made to employees on top of their ordinary pay. They compensate employees for particular tasks they perform, the use of special skills, or for expenses incurred as part of their work.\n\nAllowances are set by the applicable Modern Award or registered enterprise agreement. The Pay and Conditions Tool (PACT) can be used to identify what allowances apply.\n\nTypes of allowances:\n\n1. Expense-based allowances — reimburse employees for work-related costs:\n   - Meal allowance: paid when an employee is required to work overtime for a specified period (commonly 1.5–2 hours)\n   - Tool allowance: paid when employees must supply their own tools for work\n   - Uniform/clothing allowance: paid when employees must purchase or maintain required uniforms/PPE\n   - Vehicle/travel allowance: paid when employees use their own vehicle for work or travel to other locations\n   - Phone allowance: paid when employees use personal phones for work purposes\n\n2. Task and responsibility allowances — for performing specific duties:\n   - First aid allowance: for employees with first aid qualifications who are required to use them at work\n   - Leading hand/supervisory allowance: for employees who supervise or lead other workers\n   - On-call allowance: for employees required to be available to work outside ordinary hours\n   - Height/disability allowance (building/construction): for working in specific conditions\n\n3. Shift and location allowances:\n   - Shift allowance: for working irregular or rotating shifts\n   - Broken shift allowance (SCHADS): for employees required to work split shifts with a break\n   - Remote location allowance: for working in isolated areas\n\nUniforms, vehicles and travel:\nAs part of their job, employees may be required to wear uniforms, drive vehicles, or travel to other locations. In these situations an employee may be entitled to:\n- Reimbursement for the cost of the uniform (or provision of the uniform by the employer)\n- Payment for travel time to work sites (award-dependent)\n- Kilometre-based reimbursement for use of personal vehicle\n\nAward-specific allowances:\nAllowances vary significantly between awards. For example:\n- Building and Construction Award: tool allowance, meal allowance after 1.5 hours of overtime\n- Road Transport Award: meal allowance for overtime worked continuously for 2+ hours\n- SCHADS Award: meal allowance, first aid, on-call, broken shift allowance\n\nImportant for payslips:\nAny allowance paid must be separately identified on the employee's pay slip, including the amount and nature of the allowance.",
+  "tables": [
+    [
+      ["Allowance type", "Purpose", "Common triggers"],
+      ["Meal allowance", "Compensate for meal costs during overtime", "Working 1.5–2+ hours of overtime"],
+      ["Tool allowance", "Compensate for employee's own tools", "Employee required to supply tools"],
+      ["Uniform/clothing allowance", "Purchase/maintenance of required clothing", "Employer requires specific uniform"],
+      ["Vehicle/travel allowance", "Use of personal vehicle for work", "Employee drives own car for work"],
+      ["First aid allowance", "Qualified first aider on call at work", "Employee holds first aid cert and is designated"],
+      ["On-call allowance", "Being available outside ordinary hours", "Employee required to be contactable off-shift"],
+      ["Leading hand allowance", "Supervising other employees", "Employee leads a team of workers"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Uniforms, vehicle and travel entitlements", "href": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/uniforms-vehicle-and-travel-entitlements" },
+    { "text": "Pay and Conditions Tool", "href": "https://www.fairwork.gov.au/pay-and-wages/pay-calculator" }
+  ],
+  "key_facts": {
+    "set_by": "Modern Award or enterprise agreement",
+    "must_appear_on_payslip": true,
+    "use_pact_tool": true,
+    "legislation": "Fair Work Act 2009 (Cth); individual Modern Award allowances clauses"
+  }
+}

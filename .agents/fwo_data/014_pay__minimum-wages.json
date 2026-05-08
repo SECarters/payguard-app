@@ -1,0 +1,39 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages",
+  "title": "Minimum wages",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "National Minimum Wage and award minimum wages in Australia."
+  },
+  "headings": [
+    { "level": "H1", "text": "Minimum wages" },
+    { "level": "H2", "text": "National Minimum Wage" },
+    { "level": "H2", "text": "Award and agreement wages" },
+    { "level": "H2", "text": "Junior and apprentice rates" },
+    { "level": "H2", "text": "Annual Wage Review" }
+  ],
+  "content": "From 1 July 2025, the National Minimum Wage is $24.95 per hour or $948.00 per week before tax. This is the adult minimum rate for employees not covered by an award or registered agreement. The National Minimum Wage is based on a 38-hour week for a full-time employee.\n\nThe 2024–25 Annual Wage Review increased the National Minimum Wage by 3.5%, effective from the first full pay period on or after 1 July 2025.\n\nEmployees covered by an award or registered agreement are entitled to the minimum pay rates set out in that award or agreement, which must be at least as much as the National Minimum Wage.\n\nAward minimum wages also increased by 3.5% from 1 July 2025.\n\nJunior employees, apprentices, trainees, and employees with a disability may have different minimum rates set by awards or the Fair Work Regulations.\n\nPay guides are available on the Fair Work website showing minimum pay rates for full-time, part-time and casual employees under each award, including all monetary allowances.\n\nThe Pay and Conditions Tool (PACT) can be used to calculate the correct pay rate for a specific employee.\n\nEmployees who are award and agreement free are entitled to the National Minimum Wage and the National Employment Standards (NES) only.",
+  "tables": [
+    [
+      ["Employment status", "Rate (from 1 July 2025)"],
+      ["Adult full-time/part-time (no award)", "$24.95 per hour / $948.00 per week"],
+      ["Casual (no award)", "$24.95 + 25% casual loading = $31.19 per hour (approx)"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Pay guides", "href": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages/pay-guides" },
+    { "text": "Pay and Conditions Tool", "href": "https://www.fairwork.gov.au/pay-and-wages/pay-calculator" },
+    { "text": "Annual Wage Review 2024-2025", "href": "https://www.fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2024-2025" }
+  ],
+  "key_facts": {
+    "national_minimum_wage_hourly": 24.95,
+    "national_minimum_wage_weekly": 948.00,
+    "currency": "AUD",
+    "effective_date": "2026-07-01",
+    "wage_increase_percentage": 3.5,
+    "based_on_hours_per_week": 38,
+    "applies_to": "Employees not covered by an award or registered agreement"
+  }
+}

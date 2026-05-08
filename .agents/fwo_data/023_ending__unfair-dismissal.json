@@ -1,0 +1,44 @@
+{
+  "url": "https://www.fairwork.gov.au/ending-employment/unfair-dismissal",
+  "canonical_url": "https://www.fairwork.gov.au/ending-employment/unfair-dismissal",
+  "title": "Unfair dismissal",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Unfair dismissal eligibility, how to apply to the Fair Work Commission, and remedies available."
+  },
+  "headings": [
+    { "level": "H1", "text": "Unfair dismissal" },
+    { "level": "H2", "text": "What is unfair dismissal?" },
+    { "level": "H2", "text": "Eligibility to make a claim" },
+    { "level": "H2", "text": "Minimum employment period" },
+    { "level": "H2", "text": "How to apply" },
+    { "level": "H2", "text": "Application deadline" },
+    { "level": "H2", "text": "Remedies" }
+  ],
+  "content": "Unfair dismissal occurs when an employee is dismissed from their job in a harsh, unjust or unreasonable way. An employee who believes they have been unfairly dismissed can apply to the Fair Work Commission (FWC).\n\nWhat is unfair dismissal?\nA dismissal is unfair if the FWC is satisfied that:\n- The person was dismissed\n- The dismissal was harsh, unjust or unreasonable\n- The dismissal was not a case of genuine redundancy\n- The dismissal was not consistent with the Small Business Fair Dismissal Code (for small business employers)\n\nEligibility to make a claim:\nTo be eligible to make an unfair dismissal claim, an employee must:\n1. Have been dismissed (not resigned, unless constructively dismissed)\n2. Have completed the minimum employment period:\n   - 6 months for employees of businesses with 15 or more employees\n   - 12 months for employees of small businesses (fewer than 15 employees)\n3. Either:\n   - Be covered by an award or enterprise agreement, OR\n   - Earn less than the high income threshold (currently $175,000 per year as of 2024-25)\n\nEmployees NOT eligible:\n- Casual employees without a regular and systematic pattern of work\n- Employees on fixed-term contracts where the contract ends naturally\n- Employees dismissed for genuine redundancy\n- Independent contractors (not employees)\n\nHow to apply:\nApplications are made to the Fair Work Commission (not the Fair Work Ombudsman). The FWC is a separate body that hears and determines unfair dismissal claims.\n\nApplication deadline:\nThe application must be lodged within 21 calendar days of the dismissal taking effect. This deadline is strict — extensions are granted only in exceptional circumstances.\n\nRemedies:\nIf the FWC finds a dismissal was unfair, it can order:\n1. Reinstatement — the employee is reinstated to their former position (preferred remedy)\n2. Compensation — if reinstatement is not appropriate, the FWC can order compensation of up to 26 weeks' pay (capped at half the high income threshold)\n\nThe FWC may also order continuity of employment and restoration of lost pay.\n\nSmall Business Fair Dismissal Code:\nSmall business employers must follow the Small Business Fair Dismissal Code when dismissing employees. A dismissal consistent with the Code is not unfair.",
+  "tables": [
+    [
+      ["Eligibility factor", "Standard business (15+ employees)", "Small business (<15 employees)"],
+      ["Minimum employment period", "6 months", "12 months"],
+      ["Must be covered by award/agreement OR under income threshold", "Yes", "Yes"],
+      ["Application deadline", "21 calendar days", "21 calendar days"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Fair Work Commission unfair dismissal", "href": "https://www.fwc.gov.au/unfair-dismissals-benchbook" },
+    { "text": "Dismissal", "href": "https://www.fairwork.gov.au/ending-employment/dismissal" },
+    { "text": "Redundancy", "href": "https://www.fairwork.gov.au/ending-employment/redundancy" }
+  ],
+  "key_facts": {
+    "claim_lodged_with": "Fair Work Commission (FWC) — not Fair Work Ombudsman",
+    "application_deadline_days": 21,
+    "minimum_employment_period_standard_months": 6,
+    "minimum_employment_period_small_business_months": 12,
+    "small_business_threshold_employees": 15,
+    "high_income_threshold_2024_25": 175000,
+    "max_compensation_weeks_pay": 26,
+    "preferred_remedy": "Reinstatement",
+    "legislation": "Fair Work Act 2009 (Cth) ss.385–392"
+  }
+}

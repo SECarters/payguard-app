@@ -1,0 +1,47 @@
+{
+  "url": "https://www.fairwork.gov.au/employment-conditions/employment-contracts",
+  "canonical_url": "https://www.fairwork.gov.au/employment-conditions/employment-contracts",
+  "title": "Employment contracts",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Employment contracts in Australia — what they are, what they must include, and how they interact with awards and the NES."
+  },
+  "headings": [
+    { "level": "H1", "text": "Employment contracts" },
+    { "level": "H2", "text": "What is an employment contract?" },
+    { "level": "H2", "text": "Written vs verbal contracts" },
+    { "level": "H2", "text": "What a contract can and cannot do" },
+    { "level": "H2", "text": "Interaction with awards, agreements and NES" },
+    { "level": "H2", "text": "Fixed-term contracts" },
+    { "level": "H2", "text": "Pay secrecy clauses" }
+  ],
+  "content": "An employment contract is an agreement between an employer and employee that sets out the terms and conditions of employment.\n\nWritten vs verbal contracts:\nEmployment contracts can be written, verbal, or a combination. There is no legal requirement in Australia for an employment contract to be in writing. However, written contracts provide clarity and are strongly recommended.\n\nWhen there is no written contract:\n- The employee's terms and conditions are still governed by the applicable Modern Award, enterprise agreement (if one exists), and the National Employment Standards (NES)\n- The NES and applicable award set minimum entitlements that apply regardless of whether a written contract exists\n- Verbal agreements or conduct can still form a legally binding employment contract\n\nWhat a contract can and cannot do:\nA contract CAN provide:\n- Higher rates of pay than the award minimum\n- Additional benefits (company car, extra leave, bonuses)\n- Specific duties and responsibilities\n- Flexibility in how work is performed\n\nA contract CANNOT:\n- Provide less than the minimum entitlements in the NES\n- Provide less than the applicable Modern Award or enterprise agreement minimum rates\n- Override or exclude NES entitlements (terms that do so are void and unenforceable)\n- Include pay secrecy clauses that prevent employees from disclosing their pay to others (since 7 December 2022, pay secrecy terms in contracts cannot be enforced in most circumstances)\n\nInteraction with awards, the NES and agreements:\nEmployment contracts sit within a hierarchy:\n1. National Employment Standards (NES) — minimum floor — cannot be excluded\n2. Modern Award or Enterprise Agreement — minimum rates and conditions\n3. Employment Contract — can only improve on the above, not diminish\n\nIf a contract term conflicts with the NES or an applicable award, the NES/award prevails to the extent of the inconsistency.\n\nFixed-term contracts:\nSince 6 December 2023, limitations apply to fixed-term contracts:\n- A fixed-term contract generally cannot be for more than 2 years (including renewals)\n- Contracts cannot be renewed or extended beyond the 2-year limit in most circumstances\n- Employers must provide employees with a Fixed Term Contract Information Statement before or as soon as practicable after entering a fixed-term contract\n\nPay secrecy:\nSince 7 December 2022, employers cannot include enforceable pay secrecy clauses in contracts. Employees have the right to disclose (or not disclose) their pay to others.",
+  "tables": [
+    [
+      ["Contract element", "Can contract override?"],
+      ["NES entitlements (annual leave, notice, etc.)", "No — NES is a minimum floor"],
+      ["Modern Award minimum wage", "No — cannot go below award minimum"],
+      ["Modern Award conditions", "No — cannot undercut award conditions"],
+      ["Pay rate above award minimum", "Yes — contracts can provide more"],
+      ["Additional leave beyond NES", "Yes — contracts can provide more"],
+      ["Pay secrecy clause (post-Dec 2022)", "No — unenforceable"],
+      ["Fixed-term beyond 2 years (post-Dec 2023)", "Generally no — restricted by legislation"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "About employment contracts", "href": "https://www.fairwork.gov.au/employment-conditions/employment-contracts/about-employment-contracts" },
+    { "text": "Pay secrecy", "href": "https://www.fairwork.gov.au/pay-and-wages/pay-secrecy" },
+    { "text": "Fixed Term Contract Information Statement", "href": "https://www.fairwork.gov.au/newsroom/news/new-fixed-term-contract-information-statement" }
+  ],
+  "key_facts": {
+    "written_contract_legally_required": false,
+    "minimum_floor": "NES + applicable Modern Award or Enterprise Agreement",
+    "nes_can_be_excluded_by_contract": false,
+    "pay_secrecy_enforceable": false,
+    "pay_secrecy_change_date": "2022-12-07",
+    "fixed_term_max_duration_years": 2,
+    "fixed_term_restriction_date": "2023-12-06",
+    "legislation": "Fair Work Act 2009 (Cth)"
+  }
+}

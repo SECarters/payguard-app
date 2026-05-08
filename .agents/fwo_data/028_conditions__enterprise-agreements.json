@@ -1,0 +1,44 @@
+{
+  "url": "https://www.fairwork.gov.au/employment-conditions/agreements",
+  "canonical_url": "https://www.fairwork.gov.au/employment-conditions/agreements",
+  "title": "Enterprise agreements",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "How enterprise agreements work in Australia, the Better Off Overall Test (BOOT), and individual flexibility arrangements."
+  },
+  "headings": [
+    { "level": "H1", "text": "Enterprise agreements" },
+    { "level": "H2", "text": "What is an enterprise agreement?" },
+    { "level": "H2", "text": "How enterprise agreements are made" },
+    { "level": "H2", "text": "Better Off Overall Test (BOOT)" },
+    { "level": "H2", "text": "Types of enterprise agreements" },
+    { "level": "H2", "text": "Individual Flexibility Arrangements (IFAs)" },
+    { "level": "H2", "text": "Relationship with awards" }
+  ],
+  "content": "An enterprise agreement is a legally binding agreement between an employer and a group of employees (or a union on their behalf) that sets out the terms and conditions of employment at the enterprise level.\n\nEnterprise agreements can provide different conditions from the applicable Modern Award — they can provide more than the award, or different conditions, as long as the employees are better off overall.\n\nHow enterprise agreements are made:\n1. Bargaining — employer and employees (often through unions) negotiate terms\n2. Employee vote — a majority of employees who will be covered must vote in favour\n3. Fair Work Commission approval — the FWC must approve the agreement before it comes into force\n\nBetter Off Overall Test (BOOT):\nThe FWC applies the BOOT to assess whether employees are better off overall under the proposed enterprise agreement compared to the applicable Modern Award. The agreement must pass the BOOT — meaning the overall terms must not leave employees worse off.\n\nThe BOOT considers:\n- All monetary and non-monetary entitlements\n- Conditions in the enterprise agreement vs award conditions\n- It is assessed for each class of employee covered\n\nAn enterprise agreement can trade off some award conditions (e.g. lower penalty rates for a higher base rate) as long as employees are better off overall.\n\nTypes of enterprise agreements:\n1. Single-enterprise agreements — cover one employer\n2. Multi-enterprise agreements — cover multiple employers (various types introduced by recent reforms)\n\nRelationship with awards:\n- An enterprise agreement replaces the applicable award for the duration of the agreement\n- The NES still applies — an enterprise agreement cannot exclude or diminish NES entitlements\n- If the enterprise agreement expires, the award applies again until a new agreement is reached\n\nIndividual Flexibility Arrangements (IFAs):\nMost awards and enterprise agreements include an IFA clause that allows an employer and individual employee to agree to vary certain conditions. Requirements:\n- Must be in writing\n- Employee must be genuinely better off overall\n- Employee can terminate the IFA with 28 days' notice\n- IFA cannot undercut NES entitlements\n\nAwards that allow IFAs typically let parties vary hours of work, overtime rates, penalty rates, allowances, and leave arrangements — but only if the employee is better off overall.",
+  "tables": [
+    [
+      ["Feature", "Enterprise agreement", "Modern Award"],
+      ["Who sets terms", "Employer + employees (bargained)", "Fair Work Commission (set by FWC)"],
+      ["Flexibility", "High — can vary many conditions", "Limited — set rates apply"],
+      ["BOOT required", "Yes — employees must be better off overall", "N/A"],
+      ["NES compliance", "Must comply — NES cannot be excluded", "Must comply"],
+      ["Approved by", "Fair Work Commission", "Fair Work Commission"],
+      ["Overrides award?", "Yes — for covered employees", "N/A"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Bargaining for an agreement", "href": "https://www.fairwork.gov.au/employment-conditions/agreements/bargaining-for-an-agreement" },
+    { "text": "Individual flexibility arrangements", "href": "https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace/individual-flexibility-arrangements" },
+    { "text": "About agreements", "href": "https://www.fairwork.gov.au/employment-conditions/agreements/about-agreements" }
+  ],
+  "key_facts": {
+    "boot_required": true,
+    "nes_cannot_be_excluded": true,
+    "requires_majority_employee_vote": true,
+    "approved_by": "Fair Work Commission (FWC)",
+    "ifa_notice_to_terminate_days": 28,
+    "legislation": "Fair Work Act 2009 (Cth) Part 2-4"
+  }
+}

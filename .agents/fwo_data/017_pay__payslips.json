@@ -1,0 +1,49 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips",
+  "title": "Pay slips",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Pay slip requirements for Australian employers — what must be included and when they must be provided."
+  },
+  "headings": [
+    { "level": "H1", "text": "Pay slips" },
+    { "level": "H2", "text": "When must a pay slip be given?" },
+    { "level": "H2", "text": "What must a pay slip include?" },
+    { "level": "H2", "text": "Format of pay slips" },
+    { "level": "H2", "text": "What must NOT be on a pay slip" },
+    { "level": "H2", "text": "Penalties for non-compliance" }
+  ],
+  "content": "All employees must receive a pay slip within one business day of being paid, whether pay day falls on a weekend or public holiday or not.\n\nPay slips can be provided in electronic or hard copy form. Electronic pay slips must contain the same information as paper pay slips.\n\nWhat a pay slip MUST include (mandatory under Fair Work Regulations 2009):\n1. Employer's name\n2. Employer's ABN (if applicable)\n3. Employee's name\n4. Date of payment\n5. Pay period (the period of employment to which the pay slip relates)\n6. Gross and net pay amounts\n7. Any loadings, monetary allowances, bonuses, incentive payments, penalty rates or other separately identifiable entitlements paid in the pay period\n8. Hourly rate of pay (if the employee is paid by the hour)\n9. Number of ordinary hours worked (if paid by the hour)\n10. Any deductions — must specify the name (or name and number) of the fund or account to which each deduction was paid\n11. Superannuation contributions — amount, period, date(s) paid, name of super fund\n\nFor salaried employees: the pay slip must include the employee's annual salary rate.\n\nWhat must NOT appear on a pay slip:\n- Any reference to paid family and domestic violence leave taken (to protect employee privacy)\n\nFormat requirements:\n- Must be in English\n- Electronic format is acceptable (email, employee self-service portal etc.)\n- Must be legible and in a format the employee can access\n\nLeave balances:\nEmployers need to keep records of leave balances and leave taken by employees. While leave balances do not have to appear on pay slips under law, many employers include them as best practice (and some awards require it).\n\nPenalties:\nFailure to issue a pay slip within one business day of payment is a breach of the Fair Work Act. Inspectors can issue infringement notices on the spot. Penalties can apply per breach. Deliberate failure to provide pay slips may attract civil penalty proceedings.",
+  "tables": [
+    [
+      ["Required pay slip item", "Mandatory?"],
+      ["Employer name", "Yes"],
+      ["Employer ABN", "Yes (if applicable)"],
+      ["Employee name", "Yes"],
+      ["Date of payment", "Yes"],
+      ["Pay period", "Yes"],
+      ["Gross pay", "Yes"],
+      ["Net pay", "Yes"],
+      ["Loadings, allowances, bonuses, penalty rates", "Yes (if paid)"],
+      ["Hourly rate and hours worked", "Yes (if paid hourly)"],
+      ["Deductions (name of fund/account)", "Yes (if applicable)"],
+      ["Superannuation contributions", "Yes (amount, period, date, fund name)"],
+      ["Annual salary rate", "Yes (if salaried)"],
+      ["Leave balances", "No (best practice)"],
+      ["Family and domestic violence leave taken", "Must NOT include"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Record-keeping", "href": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping" },
+    { "text": "Pay slip template", "href": "https://www.fairwork.gov.au/sites/default/files/migration/766/Pay-slip-template.pdf" }
+  ],
+  "key_facts": {
+    "must_be_provided_within": "1 business day of payment",
+    "format": ["Electronic", "Hard copy"],
+    "must_be_in_english": true,
+    "family_dv_leave_on_payslip": false,
+    "legislation": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009"
+  }
+}

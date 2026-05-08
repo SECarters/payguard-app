@@ -1,0 +1,42 @@
+{
+  "url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping",
+  "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping",
+  "title": "Record-keeping",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Employer obligations for keeping time and wages records under the Fair Work Act."
+  },
+  "headings": [
+    { "level": "H1", "text": "Record-keeping" },
+    { "level": "H2", "text": "Time and wages records" },
+    { "level": "H2", "text": "What records must be kept?" },
+    { "level": "H2", "text": "Superannuation records" },
+    { "level": "H2", "text": "Leave records" },
+    { "level": "H2", "text": "How long records must be kept" },
+    { "level": "H2", "text": "Access by Fair Work Inspectors" },
+    { "level": "H2", "text": "Penalties for non-compliance" }
+  ],
+  "content": "Employers have a legal obligation to make and keep accurate time and wages records under the Fair Work Act 2009 and the Fair Work Regulations 2009.\n\nHow long records must be kept:\nTime and wages records must be kept for 7 years.\n\nRecord format requirements:\nRecords must be:\n- Readily accessible to a Fair Work Inspector (FWI)\n- Legible\n- In English (or readily convertible to English)\n- Not false or misleading\n\nFair Work Inspectors can access records at any time during an investigation or routine compliance activity. An employer must produce records when requested.\n\nWhat time and wages records must include:\n1. Employer and employee details (names, ABN, employment start date)\n2. Employment basis (full-time, part-time, casual, permanent, fixed-term)\n3. Applicable award or agreement\n4. Employee's pay rate and the pay basis (hourly, weekly, salary)\n5. Gross and net amounts paid each pay period\n6. Hours worked (including ordinary hours and overtime hours)\n7. Leave taken and leave balances (annual leave, sick/carer's leave, long service leave)\n8. Deductions made from pay\n9. Superannuation contributions (see below)\n\nSuperannuation records must include:\n- Amount paid\n- Pay period to which the contribution relates\n- Date(s) paid\n- Name of the superannuation fund\n- Reason the employer paid into the fund (e.g. SG contribution, salary sacrifice)\n\nLeave records:\nEmployers must keep records of:\n- All leave taken by each employee\n- Leave balances for all types of leave\n\nPenalties:\nFailure to make and keep proper records is a breach of the Fair Work Act. Fair Work Inspectors can issue infringement notices on the spot for:\n- Not making and keeping employee records for 7 years\n- Not issuing pay slips within one business day\n- Records that are false or misleading\n\nCivil penalties can also apply for deliberate or systemic non-compliance. The absence of required records can create a reverse onus in legal proceedings — meaning the employer may need to disprove underpayment claims.",
+  "tables": [
+    [
+      ["Record type", "Must be kept for"],
+      ["Time and wages records", "7 years"],
+      ["Superannuation records", "7 years"],
+      ["Leave records", "7 years"],
+      ["Pay slips (copies)", "7 years"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Pay slips", "href": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips" },
+    { "text": "Record-keeping and pay slips fact sheet", "href": "https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/record-keeping-pay-slips" }
+  ],
+  "key_facts": {
+    "retention_period_years": 7,
+    "format": "Legible, English, readily accessible",
+    "false_records_prohibited": true,
+    "inspector_access": "At any time",
+    "reverse_onus_risk": "Absence of records may shift burden to employer in underpayment disputes",
+    "legislation": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009 reg.3.31–3.46"
+  }
+}

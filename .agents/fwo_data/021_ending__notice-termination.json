@@ -1,0 +1,53 @@
+{
+  "url": "https://www.fairwork.gov.au/ending-employment/notice-and-final-pay",
+  "canonical_url": "https://www.fairwork.gov.au/ending-employment/notice-and-final-pay",
+  "title": "Notice of termination and final pay",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Minimum notice periods for termination and what must be included in an employee's final pay."
+  },
+  "headings": [
+    { "level": "H1", "text": "Notice of termination and final pay" },
+    { "level": "H2", "text": "Minimum notice periods" },
+    { "level": "H2", "text": "Additional notice for employees aged 45+" },
+    { "level": "H2", "text": "Who is not entitled to notice?" },
+    { "level": "H2", "text": "Payment in lieu of notice" },
+    { "level": "H2", "text": "What must be in the final pay?" },
+    { "level": "H2", "text": "When must final pay be paid?" }
+  ],
+  "content": "When an employer ends an employee's employment (dismissal), they are generally required to give the employee notice of termination, unless the employee is being dismissed for serious misconduct.\n\nMinimum notice periods (Fair Work Act 2009, s.117):\nNotice periods are based on the employee's period of continuous service:\n\n- Up to 1 year: 1 week\n- More than 1 year, up to 3 years: 2 weeks\n- More than 3 years, up to 5 years: 3 weeks\n- More than 5 years: 4 weeks\n\nAdditional notice for employees aged 45+:\nIf an employee is over 45 years of age and has completed at least 2 years of continuous service, they are entitled to an extra 1 week of notice on top of the above.\n\nWho is not entitled to minimum notice?\nThe following employees are generally NOT entitled to minimum notice under the NES:\n- Casual employees\n- Employees engaged for a specified period or task (fixed-term/task contracts)\n- Employees dismissed for serious misconduct\n- Seasonal employees\n- Trainees (if the contract ends at the completion of training)\n\nNote: Awards or enterprise agreements may provide additional notice entitlements.\n\nPayment in lieu of notice:\nAn employer can pay the employee their full wages for the notice period instead of requiring them to work the notice period. This is called payment in lieu of notice and must equal the amount the employee would have been paid if they had worked throughout the notice period.\n\nEmployee resignation notice:\nWhen an employee resigns, they may also be required to give notice. The minimum notice they must give is typically 1 week (or as specified in their award/agreement/contract). If an employee doesn't give sufficient notice, the employer may be able to withhold money from final pay (subject to award provisions).\n\nWhat must be in the final pay?\nAn employee's final pay must include:\n1. Outstanding wages for all hours worked (including any overtime/penalty rates)\n2. Any accrued annual leave (paid out at the applicable rate, including leave loading if the employee normally receives it)\n3. Long service leave entitlement (if applicable — state/territory laws apply)\n4. Any other accrued entitlements (e.g. rostered days off, time off in lieu)\n5. Payment in lieu of notice (if applicable)\n6. Redundancy pay (if applicable — see redundancy page)\n\nNote: Unused sick/carer's leave is NOT paid out on termination.\n\nWhen must final pay be paid?\nFinal pay must generally be paid on the last day of employment or as soon as practicable. Some awards specify a timeframe. Failure to pay on time may constitute a breach of the Fair Work Act.",
+  "tables": [
+    [
+      ["Period of continuous service", "Minimum notice (employer)", "Extra notice if 45+ with 2+ years service"],
+      ["1 year or less", "1 week", "+1 week"],
+      ["More than 1 year, up to 3 years", "2 weeks", "+1 week"],
+      ["More than 3 years, up to 5 years", "3 weeks", "+1 week"],
+      ["More than 5 years", "4 weeks", "+1 week"]
+    ],
+    [
+      ["Final pay component", "Included?"],
+      ["Outstanding wages", "Yes"],
+      ["Accrued annual leave", "Yes (+ leave loading if applicable)"],
+      ["Long service leave (if earned)", "Yes"],
+      ["Redundancy pay (if applicable)", "Yes"],
+      ["Payment in lieu of notice", "Yes (if employer chooses)"],
+      ["Accrued sick/carer's leave", "No — not paid out on termination"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Final pay", "href": "https://www.fairwork.gov.au/ending-employment/final-pay" },
+    { "text": "Notice and Redundancy Calculator", "href": "https://www.fairwork.gov.au/ending-employment/notice-redundancy-calculator" },
+    { "text": "Redundancy", "href": "https://www.fairwork.gov.au/ending-employment/redundancy" }
+  ],
+  "key_facts": {
+    "notice_periods_legislated": true,
+    "legislation": "Fair Work Act 2009 (Cth) s.117",
+    "casual_employees_entitled_to_notice": false,
+    "serious_misconduct_notice_required": false,
+    "age_45_plus_extra_notice_weeks": 1,
+    "age_45_plus_minimum_service_years": 2,
+    "sick_leave_paid_out_on_termination": false,
+    "annual_leave_paid_out_on_termination": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.fairwork.gov.au/employment-conditions/public-holidays",
+  "canonical_url": "https://www.fairwork.gov.au/employment-conditions/public-holidays",
+  "title": "Public holidays",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "Employee entitlements on public holidays — right to be absent, payment, working on public holidays, and substitution."
+  },
+  "headings": [
+    { "level": "H1", "text": "Public holidays" },
+    { "level": "H2", "text": "Right to be absent on public holidays" },
+    { "level": "H2", "text": "Reasonable request to work on a public holiday" },
+    { "level": "H2", "text": "Pay on public holidays" },
+    { "level": "H2", "text": "Part-time employees" },
+    { "level": "H2", "text": "Substituting public holidays" },
+    { "level": "H2", "text": "National and state/territory public holidays" }
+  ],
+  "content": "Employees have a right to be absent from work on a public holiday. The NES (s.114 Fair Work Act) gives employees this right.\n\nRight to be absent:\nAn employee is entitled to be absent from work on a public holiday. An employer may request an employee to work on a public holiday, but the request must be reasonable. An employee may refuse a request that is unreasonable.\n\nFactors in determining whether a request or refusal is reasonable:\n- The nature of the employer's business and the employee's role\n- The employee's personal circumstances (including family responsibilities)\n- Whether the employee is being compensated for working on the public holiday\n- The amount of notice given\n- Whether the employee has religious or cultural beliefs that make the day significant\n\nAn employer cannot deliberately change an employee's roster to avoid paying public holiday entitlements.\n\nPay on public holidays:\n- If an employee doesn't work on a public holiday that falls on a day they would ordinarily work, they must be paid their ordinary pay for that day\n- If an employee works on a public holiday, they must be paid at least the public holiday penalty rate set by their award or registered agreement (often 225%–250% of ordinary rate)\n- If an employee is not ordinarily required to work on that day (e.g. a part-time employee not rostered that day), they have no entitlement to payment\n\nCasual employees:\n- A casual employee is entitled to public holiday pay only if they would have ordinarily been rostered to work on that day\n- Casual employees who work on a public holiday are paid the applicable award penalty rate (which includes their casual loading)\n\nSubstituting public holidays:\n- By agreement between an employer and employee, a different day can be substituted for a public holiday\n- Some awards also allow this substitution by agreement\n- State or Territory legislation may also substitute public holidays (e.g. if a public holiday falls on a weekend, a substitute day may be declared)\n\nWhich public holiday applies:\nAn employee is entitled to the public holidays that apply in the location where they are based for work — not where they are physically working on the day. This is important for employees who travel for work.\n\nNational public holidays (apply to all states and territories):\n- New Year's Day (1 January)\n- Australia Day (26 January)\n- Good Friday\n- Easter Saturday\n- Easter Sunday\n- Easter Monday\n- Anzac Day (25 April)\n- Queen's Birthday / King's Birthday (date varies by state)\n- Christmas Day (25 December)\n- Boxing Day (26 December)\n\nAdditional public holidays vary by state and territory (e.g. Melbourne Cup Day in Victoria, Royal Queensland Show Day in Brisbane/QLD).",
+  "tables": [
+    [
+      ["Scenario", "Entitlement"],
+      ["Employee ordinarily works that day — doesn't work", "Paid ordinary rate for the day"],
+      ["Employee ordinarily works that day — works", "Paid public holiday penalty rate (award-dependent, typically 225%–250%)"],
+      ["Employee NOT ordinarily rostered that day", "No payment entitlement"],
+      ["Casual employee rostered that day — works", "Paid public holiday penalty rate (includes casual loading)"],
+      ["Casual employee NOT rostered — doesn't work", "No entitlement"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Public holiday penalty rates", "href": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates/public-holiday-penalty-rates" },
+    { "text": "Not working on public holidays", "href": "https://www.fairwork.gov.au/employment-conditions/public-holidays/not-working-on-public-holidays" }
+  ],
+  "key_facts": {
+    "right_to_absent": true,
+    "legislation": "Fair Work Act 2009 (Cth) s.114–116",
+    "employer_can_request_work": true,
+    "employee_can_refuse_unreasonable_request": true,
+    "typical_penalty_rate_range": "225%–250% of ordinary rate",
+    "part_time_entitlement": "Only on days they are ordinarily rostered to work",
+    "casual_entitlement": "Only if ordinarily rostered for that day"
+  }
+}

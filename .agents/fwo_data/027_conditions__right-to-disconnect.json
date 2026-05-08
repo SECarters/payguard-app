@@ -1,0 +1,40 @@
+{
+  "url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/right-to-disconnect",
+  "canonical_url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/right-to-disconnect",
+  "title": "Right to disconnect",
+  "scraped_at": "2026-05-08T09:00:00+00:00",
+  "source_priority": "google_search_snippets",
+  "meta": {
+    "description": "The right to disconnect gives employees the right to refuse contact or attempted contact outside their working hours unless the refusal is unreasonable."
+  },
+  "headings": [
+    { "level": "H1", "text": "Right to disconnect" },
+    { "level": "H2", "text": "What is the right to disconnect?" },
+    { "level": "H2", "text": "When does the right apply?" },
+    { "level": "H2", "text": "When is a refusal unreasonable?" },
+    { "level": "H2", "text": "Small business employees" },
+    { "level": "H2", "text": "Disputes about right to disconnect" }
+  ],
+  "content": "The right to disconnect is a new workplace right introduced as part of the Closing Loopholes reforms to the Fair Work Act.\n\nWhat is the right to disconnect?\nAn employee has the right to refuse to monitor, read, or respond to contact (or attempted contact) from their employer or a third party outside of their working hours, unless the refusal is unreasonable.\n\nWhen did it start?\n- For employees of non-small businesses (15 or more employees): 26 August 2024\n- For employees of small businesses (fewer than 15 employees): 26 August 2025\n\nWhat does it cover?\nThe right applies to:\n- Contact or attempted contact by the employer\n- Contact or attempted contact by a third party in relation to the employee's work (e.g. a client calling outside hours)\n\nWhen is a refusal unreasonable?\nWhether a refusal is unreasonable depends on a number of factors:\n- The reason for the contact\n- How the contact is made and how disruptive it is to the employee\n- The compensation (pay or other benefits) the employee receives for being available outside of hours or working additional hours\n- The nature of the employee's role and their level of responsibility\n- The employee's personal circumstances (including family or caring responsibilities)\n\nProtections:\n- An employer must not take adverse action against an employee for exercising their right to disconnect\n- An employer cannot threaten or actually dismiss, demote, or otherwise disadvantage an employee for refusing unreasonable contact\n\nSmall businesses:\nThe right to disconnect also applies to small business employees but commenced later (26 August 2025).\n\nDisputes:\nIf there is a dispute about the right to disconnect, either party can apply to the Fair Work Commission to deal with the dispute. The FWC can make orders, including orders that:\n- The employee must take or not take certain actions to facilitate or restrict contact\n- The employer must not take certain actions in relation to the employee",
+  "tables": [
+    [
+      ["Factor affecting 'unreasonableness'", "Example"],
+      ["Reason for contact", "Genuine emergency vs routine query"],
+      ["Method of contact", "Emergency call vs non-urgent email"],
+      ["Employee compensation for availability", "Is the employee paid an on-call allowance?"],
+      ["Nature of role", "Senior manager vs entry-level worker"],
+      ["Personal circumstances", "Carer responsibilities, health"]
+    ]
+  ],
+  "internal_links": [
+    { "text": "Right to disconnect laws", "href": "https://www.fairwork.gov.au/about-us/workplace-laws/legislation-changes/closing-loopholes/right-to-disconnect" }
+  ],
+  "key_facts": {
+    "effective_date_non_small_business": "2024-08-26",
+    "effective_date_small_business": "2025-08-26",
+    "right_to_refuse_contact": true,
+    "adverse_action_prohibited": true,
+    "dispute_resolution_body": "Fair Work Commission (FWC)",
+    "legislation": "Fair Work Act 2009 (Cth) ss.333M–333T (inserted by Closing Loopholes Act 2024)"
+  }
+}
