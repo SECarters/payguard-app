@@ -1,0 +1,1098 @@
+{
+  "document": {
+    "title": "Tax Rates \u2014 Australian Residents",
+    "source_url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+    "source_organisation": "Australian Taxation Office (ATO)",
+    "ato_last_updated": "2026-06-18",
+    "corpus_captured": "2026-05-09",
+    "notes": [
+      "These rates apply to individuals who are Australian residents for the full income year and entitled to the full tax-free threshold.",
+      "Rates do NOT include the Medicare levy (2%) or Medicare levy surcharge.",
+      "Each bracket entry includes: income_from, income_to (null = unlimited), base_tax, marginal_rate_cents (cents per $1 over the lower threshold), marginal_rate_pct."
+    ],
+    "medicare_levy_rate_pct": 2.0,
+    "medicare_levy_note": "Add 2% Medicare levy on top of these rates for most taxpayers. Not included in brackets below."
+  },
+  "income_years": [
+    {
+      "income_year": "2025-26",
+      "financial_year_label": "2025\u201326",
+      "effective_from": "2025-07-01",
+      "effective_to": "2026-06-30",
+      "is_current": true,
+      "notes": "Stage 3 tax cuts in effect. Same schedule as 2024-25.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 16,
+          "marginal_rate_pct": 0.16,
+          "description": "16c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 135000,
+          "base_tax": 4288,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,288 plus 30c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 135001,
+          "income_to": 190000,
+          "base_tax": 31288,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$31,288 plus 37c for each $1 over $135,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 190001,
+          "income_to": null,
+          "base_tax": 51638,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,638 plus 45c for each $1 over $190,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2024-25",
+      "financial_year_label": "2024\u201325",
+      "effective_from": "2024-07-01",
+      "effective_to": "2025-06-30",
+      "is_current": false,
+      "notes": "Stage 3 tax cuts applied from 1 July 2024.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 16,
+          "marginal_rate_pct": 0.16,
+          "description": "16c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 135000,
+          "base_tax": 4288,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,288 plus 30c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 135001,
+          "income_to": 190000,
+          "base_tax": 31288,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$31,288 plus 37c for each $1 over $135,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 190001,
+          "income_to": null,
+          "base_tax": 51638,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,638 plus 45c for each $1 over $190,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2023-24",
+      "financial_year_label": "2023\u201324",
+      "effective_from": "2023-07-01",
+      "effective_to": "2024-06-30",
+      "is_current": false,
+      "notes": "Pre Stage 3 cuts schedule.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 120000,
+          "base_tax": 5092,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$5,092 plus 32.5c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 120001,
+          "income_to": 180000,
+          "base_tax": 29467,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$29,467 plus 37c for each $1 over $120,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 51667,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,667 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2022-23",
+      "financial_year_label": "2022\u201323",
+      "effective_from": "2022-07-01",
+      "effective_to": "2023-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 120000,
+          "base_tax": 5092,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$5,092 plus 32.5c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 120001,
+          "income_to": 180000,
+          "base_tax": 29467,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$29,467 plus 37c for each $1 over $120,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 51667,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,667 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2021-22",
+      "financial_year_label": "2021\u201322",
+      "effective_from": "2021-07-01",
+      "effective_to": "2022-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 120000,
+          "base_tax": 5092,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$5,092 plus 32.5c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 120001,
+          "income_to": 180000,
+          "base_tax": 29467,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$29,467 plus 37c for each $1 over $120,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 51667,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,667 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2020-21",
+      "financial_year_label": "2020\u201321",
+      "effective_from": "2020-07-01",
+      "effective_to": "2021-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 45000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 45001,
+          "income_to": 120000,
+          "base_tax": 5092,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$5,092 plus 32.5c for each $1 over $45,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 120001,
+          "income_to": 180000,
+          "base_tax": 29467,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$29,467 plus 37c for each $1 over $120,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 51667,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$51,667 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2019-20",
+      "financial_year_label": "2019\u201320",
+      "effective_from": "2019-07-01",
+      "effective_to": "2020-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 90000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 90001,
+          "income_to": 180000,
+          "base_tax": 20797,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$20,797 plus 37c for each $1 over $90,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54097,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,097 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2018-19",
+      "financial_year_label": "2018\u201319",
+      "effective_from": "2018-07-01",
+      "effective_to": "2019-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 90000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 90001,
+          "income_to": 180000,
+          "base_tax": 20797,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$20,797 plus 37c for each $1 over $90,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54097,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,097 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2017-18",
+      "financial_year_label": "2017\u201318",
+      "effective_from": "2017-07-01",
+      "effective_to": "2018-06-30",
+      "is_current": false,
+      "notes": "Temporary Budget Repair Levy ceased from 1 July 2017.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 87000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 87001,
+          "income_to": 180000,
+          "base_tax": 19822,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$19,822 plus 37c for each $1 over $87,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54232,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,232 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2016-17",
+      "financial_year_label": "2016\u201317",
+      "effective_from": "2016-07-01",
+      "effective_to": "2017-06-30",
+      "is_current": false,
+      "notes": "Temporary Budget Repair Levy applies at 2% for taxable incomes over $180,000 (not included in brackets below).",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 87000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 87001,
+          "income_to": 180000,
+          "base_tax": 19822,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$19,822 plus 37c for each $1 over $87,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54232,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,232 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2015-16",
+      "financial_year_label": "2015\u201316",
+      "effective_from": "2015-07-01",
+      "effective_to": "2016-06-30",
+      "is_current": false,
+      "notes": "Temporary Budget Repair Levy applies at 2% for taxable incomes over $180,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17547,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,547 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54547,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,547 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2014-15",
+      "financial_year_label": "2014\u201315",
+      "effective_from": "2014-07-01",
+      "effective_to": "2015-06-30",
+      "is_current": false,
+      "notes": "Temporary Budget Repair Levy applies at 2% for taxable incomes over $180,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17547,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,547 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54547,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,547 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2013-14",
+      "financial_year_label": "2013\u201314",
+      "effective_from": "2013-07-01",
+      "effective_to": "2014-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17547,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,547 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54547,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,547 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2012-13",
+      "financial_year_label": "2012\u201313",
+      "effective_from": "2012-07-01",
+      "effective_to": "2013-06-30",
+      "is_current": false,
+      "notes": "",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 18200,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 18201,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 19,
+          "marginal_rate_pct": 0.19,
+          "description": "19c for each $1 over $18,200"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 3572,
+          "marginal_rate_cents": 325,
+          "marginal_rate_pct": 0.325,
+          "description": "$3,572 plus 32.5c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17547,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,547 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54547,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,547 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2011-12",
+      "financial_year_label": "2011\u201312",
+      "effective_from": "2011-07-01",
+      "effective_to": "2012-06-30",
+      "is_current": false,
+      "notes": "Flood levy applies \u2014 see ATO for exemption details. Tax-free threshold was $6,000 (not $18,200).",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 0,
+          "income_to": 6000,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 6001,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 15,
+          "marginal_rate_pct": 0.15,
+          "description": "15c for each $1 over $6,000"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 4650,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,650 plus 30c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17550,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,550 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54550,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,550 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2010-11",
+      "financial_year_label": "2010\u201311",
+      "effective_from": "2010-07-01",
+      "effective_to": "2011-06-30",
+      "is_current": false,
+      "notes": "Tax-free threshold was $6,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 1,
+          "income_to": 6000,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 6001,
+          "income_to": 37000,
+          "base_tax": 0,
+          "marginal_rate_cents": 15,
+          "marginal_rate_pct": 0.15,
+          "description": "15c for each $1 over $6,000"
+        },
+        {
+          "bracket": 3,
+          "income_from": 37001,
+          "income_to": 80000,
+          "base_tax": 4650,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,650 plus 30c for each $1 over $37,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17550,
+          "marginal_rate_cents": 37,
+          "marginal_rate_pct": 0.37,
+          "description": "$17,550 plus 37c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 54550,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$54,550 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2009-10",
+      "financial_year_label": "2009\u201310",
+      "effective_from": "2009-07-01",
+      "effective_to": "2010-06-30",
+      "is_current": false,
+      "notes": "Tax-free threshold was $6,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 1,
+          "income_to": 6000,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 6001,
+          "income_to": 35000,
+          "base_tax": 0,
+          "marginal_rate_cents": 15,
+          "marginal_rate_pct": 0.15,
+          "description": "15c for each $1 over $6,000"
+        },
+        {
+          "bracket": 3,
+          "income_from": 35001,
+          "income_to": 80000,
+          "base_tax": 4350,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,350 plus 30c for each $1 over $35,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 17850,
+          "marginal_rate_cents": 38,
+          "marginal_rate_pct": 0.38,
+          "description": "$17,850 plus 38c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 55850,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$55,850 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2008-09",
+      "financial_year_label": "2008\u201309",
+      "effective_from": "2008-07-01",
+      "effective_to": "2009-06-30",
+      "is_current": false,
+      "notes": "Tax-free threshold was $6,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 1,
+          "income_to": 6000,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 6001,
+          "income_to": 34000,
+          "base_tax": 0,
+          "marginal_rate_cents": 15,
+          "marginal_rate_pct": 0.15,
+          "description": "15c for each $1 over $6,000"
+        },
+        {
+          "bracket": 3,
+          "income_from": 34001,
+          "income_to": 80000,
+          "base_tax": 4200,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$4,200 plus 30c for each $1 over $34,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 80001,
+          "income_to": 180000,
+          "base_tax": 18000,
+          "marginal_rate_cents": 40,
+          "marginal_rate_pct": 0.4,
+          "description": "$18,000 plus 40c for each $1 over $80,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 180001,
+          "income_to": null,
+          "base_tax": 58000,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$58,000 plus 45c for each $1 over $180,000"
+        }
+      ]
+    },
+    {
+      "income_year": "2007-08",
+      "financial_year_label": "2007\u201308",
+      "effective_from": "2007-07-01",
+      "effective_to": "2008-06-30",
+      "is_current": false,
+      "notes": "Tax-free threshold was $6,000. Top bracket threshold was $150,000.",
+      "brackets": [
+        {
+          "bracket": 1,
+          "income_from": 1,
+          "income_to": 6000,
+          "base_tax": 0,
+          "marginal_rate_cents": 0,
+          "marginal_rate_pct": 0.0,
+          "description": "Nil"
+        },
+        {
+          "bracket": 2,
+          "income_from": 6001,
+          "income_to": 30000,
+          "base_tax": 0,
+          "marginal_rate_cents": 15,
+          "marginal_rate_pct": 0.15,
+          "description": "15c for each $1 over $6,000"
+        },
+        {
+          "bracket": 3,
+          "income_from": 30001,
+          "income_to": 75000,
+          "base_tax": 3600,
+          "marginal_rate_cents": 30,
+          "marginal_rate_pct": 0.3,
+          "description": "$3,600 plus 30c for each $1 over $30,000"
+        },
+        {
+          "bracket": 4,
+          "income_from": 75001,
+          "income_to": 150000,
+          "base_tax": 17100,
+          "marginal_rate_cents": 40,
+          "marginal_rate_pct": 0.4,
+          "description": "$17,100 plus 40c for each $1 over $75,000"
+        },
+        {
+          "bracket": 5,
+          "income_from": 150001,
+          "income_to": null,
+          "base_tax": 47100,
+          "marginal_rate_cents": 45,
+          "marginal_rate_pct": 0.45,
+          "description": "$47,100 plus 45c for each $1 over $150,000"
+        }
+      ]
+    }
+  ],
+  "payg_withholding_note": {
+    "description": "PAYG withholding by employers uses ATO tax withholding schedules (NAT 1008 / NAT 3539), not these marginal rates directly. These bracket rates are used for end-of-year tax return calculations.",
+    "withholding_schedule_url": "https://www.ato.gov.au/tax-rates-and-codes/tax-tables-weekly-fortnightly-monthly-and-quarterly-pay",
+    "stp_reference": "Single Touch Payroll (STP) \u2014 employer-reported via payroll software each pay event."
+  },
+  "calculation_formula": {
+    "description": "To calculate tax payable for a given taxable income and year: (1) Find the bracket where income falls. (2) Tax = base_tax + (marginal_rate_pct \u00d7 (income \u2212 income_from + 1)). (3) Add Medicare levy (2% of taxable income for most taxpayers). (4) Apply any offsets (LITO, LMITO where applicable).",
+    "example": {
+      "income_year": "2025-26",
+      "taxable_income": 75000,
+      "bracket": 3,
+      "calculation": "4288 + 0.30 \u00d7 (75000 \u2212 45000) = 4288 + 9000 = $13,288",
+      "tax_payable_excl_medicare": 13288,
+      "medicare_levy": 1500,
+      "total_tax": 14788
+    }
+  },
+  "low_income_tax_offset": {
+    "description": "Low Income Tax Offset (LITO) reduces tax payable for lower income earners. Not included in brackets above.",
+    "note": "LITO values change annually \u2014 verify current values at ato.gov.au/lito",
+    "2025_26": {
+      "max_offset": 700,
+      "full_offset_up_to": 37500,
+      "phases_out_between": [
+        37500,
+        45000
+      ],
+      "reduced_by": "5c per $1 between $37,500\u2013$45,000",
+      "further_reduced_between": [
+        45000,
+        66667
+      ],
+      "further_reduced_by": "1.5c per $1 between $45,000\u2013$66,667"
+    }
+  }
+}

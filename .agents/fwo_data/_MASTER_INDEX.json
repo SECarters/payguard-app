@@ -1,7 +1,7 @@
 {
   "corpus_meta": {
     "built_at": "2026-05-08T19:50:00+10:00",
-    "total_files": 30,
+    "total_files": 31,
     "source": "Fair Work Ombudsman (fairwork.gov.au)",
     "jurisdiction": "Commonwealth \u2014 national workplace relations system, Australia",
     "currency_note": "National Minimum Wage current as of 1 July 2025 ($24.95/hr, $948/wk). SGC rate 12% from 1 July 2025. Corpus built 8 May 2026. Award-specific rates must be verified against current FWO Pay Guides before use in formal proceedings.",
@@ -35,7 +35,8 @@
       "027_conditions__right-to-disconnect.json",
       "028_conditions__enterprise-agreements.json",
       "029_leave__annual-leave-cashing-out.json",
-      "030_pay__allowances.json"
+      "030_pay__allowances.json",
+      "031_tax__resident-income-tax-rates.json"
     ],
     "integrity": "MD5 hashes stored per file for auditability"
   },
@@ -369,6 +370,41 @@
       "has_tables": true,
       "has_key_facts": true,
       "md5": "f94497af756d9b49a48a5a1f36962af4"
+    },
+    "031_tax__resident-income-tax-rates": {
+      "file": "031_tax__resident-income-tax-rates.json",
+      "title": "Tax Rates \u2014 Australian Residents (Income Years 2007-08 to 2025-26)",
+      "url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "canonical_url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "scraped_at": "2026-05-09T02:13:00+10:00",
+      "source_priority": "live_browser_scrape",
+      "source_organisation": "Australian Taxation Office (ATO)",
+      "ato_last_updated": "2025-06-18",
+      "has_tables": true,
+      "has_key_facts": true,
+      "income_years_covered": "2007-08 to 2025-26",
+      "current_year": "2025-26",
+      "key_facts": [
+        "2025-26 tax-free threshold: $18,200",
+        "2025-26 brackets: $0\u2013$18,200 nil; $18,201\u2013$45,000 @ 16c; $45,001\u2013$135,000 @ 30c (+$4,288 base); $135,001\u2013$190,000 @ 37c (+$31,288 base); $190,001+ @ 45c (+$51,638 base)",
+        "2024-25 brackets: identical to 2025-26 (Stage 3 cuts schedule)",
+        "2023-24 brackets: $18,201\u2013$45,000 @ 19c; $45,001\u2013$120,000 @ 32.5c; $120,001\u2013$180,000 @ 37c; $180,001+ @ 45c",
+        "Medicare levy: 2% of taxable income (NOT included in bracket rates above)",
+        "Low Income Tax Offset (LITO) 2025-26: max $700, phases out $37,500\u2013$66,667",
+        "Formula: base_tax + marginal_rate_pct \u00d7 (income \u2212 bracket_lower_threshold + 1)",
+        "Rates do NOT include Medicare levy surcharge or any temporary levies"
+      ],
+      "topic_map": [
+        "PAYG",
+        "income tax",
+        "tax brackets",
+        "tax rates",
+        "withholding",
+        "marginal rate",
+        "tax-free threshold",
+        "LITO"
+      ],
+      "md5": "computed_on_save"
     }
   },
   "key_facts": {
@@ -818,6 +854,11 @@
     ],
     "employment_conditions": [
       "001_employment-conditions"
-    ]
+    ],
+    "income_tax": "031_tax__resident-income-tax-rates",
+    "tax_brackets": "031_tax__resident-income-tax-rates",
+    "payg_rates": "031_tax__resident-income-tax-rates",
+    "tax_free_threshold": "031_tax__resident-income-tax-rates",
+    "marginal_rates": "031_tax__resident-income-tax-rates"
   }
 }

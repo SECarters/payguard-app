@@ -323,3 +323,42 @@
    must_appear_on_payslip: True
    use_pact_tool: True
    legislation: Fair Work Act 2009 (Cth); individual Modern Award allowances clauses
+
+================================================================================
+FILE: 031_tax__resident-income-tax-rates.json
+SOURCE: Australian Taxation Office (ATO)
+URL: https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents
+ATO LAST UPDATED: 18 June 2025
+CORPUS CAPTURED: 2026-05-09
+YEARS COVERED: 2007-08 to 2025-26 (19 income years)
+================================================================================
+
+CURRENT YEAR: 2025-26
+─────────────────────────────────────────────────────
+Bracket 1: $0 – $18,200          → Nil (tax-free threshold)
+Bracket 2: $18,201 – $45,000     → 16c per $1 over $18,200
+Bracket 3: $45,001 – $135,000    → $4,288 + 30c per $1 over $45,000
+Bracket 4: $135,001 – $190,000   → $31,288 + 37c per $1 over $135,000
+Bracket 5: $190,001+             → $51,638 + 45c per $1 over $190,000
+
+PREVIOUS YEAR (2024-25): IDENTICAL to 2025-26 (Stage 3 cuts schedule unchanged)
+
+PRE-STAGE-3 (2023-24 and earlier):
+Bracket 2: $18,201 – $45,000     → 19c per $1 over $18,200  [was 16c]
+Bracket 3: $45,001 – $120,000    → $5,092 + 32.5c           [different thresholds]
+Bracket 4: $120,001 – $180,000   → $29,467 + 37c
+Bracket 5: $180,001+             → $51,667 + 45c
+
+IMPORTANT NOTES:
+- Rates EXCLUDE Medicare levy (add 2% for most taxpayers)
+- Rates EXCLUDE Medicare levy surcharge
+- Low Income Tax Offset (LITO) 2025-26: max $700, full offset ≤ $37,500,
+  phases out at 5c/$1 to $45,000, then 1.5c/$1 to $66,667
+- Tax-free threshold was $6,000 pre-2012-13; became $18,200 from 2012-13
+- Formula: tax = base_tax + marginal_rate_pct × (income − bracket_from + 1)
+
+PAYG WITHHOLDING NOTE:
+- Employers use ATO withholding schedules (NAT 1008/3539), not these brackets directly
+- These rates used for end-of-year tax return calculations
+- PAYG withholding reasonableness in audits: compare annual PAYG withheld against
+  expected tax at these marginal rates for the employee's income band
