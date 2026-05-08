@@ -1,0 +1,823 @@
+{
+  "corpus_meta": {
+    "built_at": "2026-05-08T19:50:00+10:00",
+    "total_files": 30,
+    "source": "Fair Work Ombudsman (fairwork.gov.au)",
+    "jurisdiction": "Commonwealth \u2014 national workplace relations system, Australia",
+    "currency_note": "National Minimum Wage current as of 1 July 2025 ($24.95/hr, $948/wk). SGC rate 12% from 1 July 2025. Corpus built 8 May 2026. Award-specific rates must be verified against current FWO Pay Guides before use in formal proceedings.",
+    "files": [
+      "001_employment-conditions.json",
+      "002_awards__about-awards.json",
+      "003_awards__award-classifications.json",
+      "004_awards__award-and-agreement-free.json",
+      "005_nes__index.json",
+      "006_nes__maximum-weekly-hours.json",
+      "007_hours-of-work__index.json",
+      "008_hours-of-work__overtime.json",
+      "009_hours-of-work__breaks.json",
+      "010_leave__annual-leave.json",
+      "011_leave__sick-and-carers-leave.json",
+      "012_leave__long-service-leave.json",
+      "013_pay__superannuation.json",
+      "014_pay__minimum-wages.json",
+      "015_pay__penalty-rates.json",
+      "016_pay__overtime.json",
+      "017_pay__payslips.json",
+      "018_pay__record-keeping.json",
+      "019_employment__casual-employees.json",
+      "020_employment__contracts.json",
+      "021_ending__notice-termination.json",
+      "022_ending__redundancy.json",
+      "023_ending__unfair-dismissal.json",
+      "024_conditions__public-holidays.json",
+      "025_leave__parental.json",
+      "026_leave__family-domestic-violence.json",
+      "027_conditions__right-to-disconnect.json",
+      "028_conditions__enterprise-agreements.json",
+      "029_leave__annual-leave-cashing-out.json",
+      "030_pay__allowances.json"
+    ],
+    "integrity": "MD5 hashes stored per file for auditability"
+  },
+  "file_index": {
+    "001_employment-conditions": {
+      "file": "001_employment-conditions.json",
+      "title": "Employment conditions",
+      "url": "https://www.fairwork.gov.au/employment-conditions",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions",
+      "scraped_at": "2026-05-08T08:22:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "13f04d35e28de2020e607ae4265e5f58"
+    },
+    "002_awards__about-awards": {
+      "file": "002_awards__about-awards.json",
+      "title": "About awards",
+      "url": "https://www.fairwork.gov.au/employment-conditions/awards/about-awards",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/awards/about-awards",
+      "scraped_at": "2026-05-08T08:22:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "5e00b86cd03f25789af95b89458905ba"
+    },
+    "003_awards__award-classifications": {
+      "file": "003_awards__award-classifications.json",
+      "title": "Award classifications",
+      "url": "https://www.fairwork.gov.au/employment-conditions/awards/award-classifications",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/awards/award-classifications",
+      "scraped_at": "2026-05-08T08:23:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "a8c0ad3dcbe6a95a8790c215c18e5b68"
+    },
+    "004_awards__award-and-agreement-free": {
+      "file": "004_awards__award-and-agreement-free.json",
+      "title": "Award and agreement free wages and conditions",
+      "url": "https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions",
+      "scraped_at": "2026-05-08T08:24:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "b51c6de4d7c56a5c9013800e32a787d1"
+    },
+    "005_nes__index": {
+      "file": "005_nes__index.json",
+      "title": "National Employment Standards",
+      "url": "https://www.fairwork.gov.au/employment-conditions/national-employment-standards",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/national-employment-standards",
+      "scraped_at": "2026-05-08T08:25:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "8165b53eaf469acfba86762fb3629f65"
+    },
+    "006_nes__maximum-weekly-hours": {
+      "file": "006_nes__maximum-weekly-hours.json",
+      "title": "Maximum weekly hours fact sheet",
+      "url": "https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/maximum-weekly-hours",
+      "canonical_url": "https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/maximum-weekly-hours",
+      "scraped_at": "2026-05-08T08:26:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "91f4d7e29890fc37cf7c02c983893a1a"
+    },
+    "007_hours-of-work__index": {
+      "file": "007_hours-of-work__index.json",
+      "title": "Hours of work, breaks and rosters",
+      "url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters",
+      "scraped_at": "2026-05-08T08:30:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "9d2c70d9b88e5b2eaa1e4cf25eb80225"
+    },
+    "008_hours-of-work__overtime": {
+      "file": "008_hours-of-work__overtime.json",
+      "title": "When overtime applies",
+      "url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work/when-overtime-applies",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work/when-overtime-applies",
+      "scraped_at": "2026-05-08T08:31:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "119319cf08fe9ae9fedb69534ddfc45e"
+    },
+    "009_hours-of-work__breaks": {
+      "file": "009_hours-of-work__breaks.json",
+      "title": "Breaks",
+      "url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/breaks",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/breaks",
+      "scraped_at": "2026-05-08T08:31:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "5badc7eb481af27fc4edc8a1045242bd"
+    },
+    "010_leave__annual-leave": {
+      "file": "010_leave__annual-leave.json",
+      "title": "Annual leave",
+      "url": "https://www.fairwork.gov.au/leave/annual-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/annual-leave",
+      "scraped_at": "2026-05-08T08:32:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "c037712e52da74602427780c7944d18d"
+    },
+    "011_leave__sick-and-carers-leave": {
+      "file": "011_leave__sick-and-carers-leave.json",
+      "title": "Sick and carer's leave",
+      "url": "https://www.fairwork.gov.au/leave/sick-and-carers-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/sick-and-carers-leave",
+      "scraped_at": "2026-05-08T08:33:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "ae4cc3973cbc6672049b15cdd6b51c73"
+    },
+    "012_leave__long-service-leave": {
+      "file": "012_leave__long-service-leave.json",
+      "title": "Long service leave",
+      "url": "https://www.fairwork.gov.au/leave/long-service-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/long-service-leave",
+      "scraped_at": "2026-05-08T08:33:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "94d87a0fab42d74fb001bc4539195c9c"
+    },
+    "013_pay__superannuation": {
+      "file": "013_pay__superannuation.json",
+      "title": "Tax and superannuation",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation",
+      "scraped_at": "2026-05-08T08:34:00Z",
+      "source_priority": "scraped",
+      "has_tables": false,
+      "has_key_facts": true,
+      "md5": "a5eabbf2272a06165f9e57b77fa96ff9"
+    },
+    "014_pay__minimum-wages": {
+      "file": "014_pay__minimum-wages.json",
+      "title": "Minimum wages",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "eadc74e471b50163ab3cb4bca1fc0720"
+    },
+    "015_pay__penalty-rates": {
+      "file": "015_pay__penalty-rates.json",
+      "title": "Penalty rates",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "33aa9e36a6f37b735f8f4938f7a024be"
+    },
+    "016_pay__overtime": {
+      "file": "016_pay__overtime.json",
+      "title": "Overtime pay",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "fc4631e34a395f258f42839755b5819d"
+    },
+    "017_pay__payslips": {
+      "file": "017_pay__payslips.json",
+      "title": "Pay slips",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "d2cfe03e543f3c16a6c88235130be0f4"
+    },
+    "018_pay__record-keeping": {
+      "file": "018_pay__record-keeping.json",
+      "title": "Record-keeping",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "618cc9ab2be1c35caa2830942760871a"
+    },
+    "019_employment__casual-employees": {
+      "file": "019_employment__casual-employees.json",
+      "title": "Casual employees",
+      "url": "https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees",
+      "canonical_url": "https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "f9021506747509a50a8d60dec7dc851f"
+    },
+    "020_employment__contracts": {
+      "file": "020_employment__contracts.json",
+      "title": "Employment contracts",
+      "url": "https://www.fairwork.gov.au/employment-conditions/employment-contracts",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/employment-contracts",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "a299ce3bfb5494e29b44e35220ab1539"
+    },
+    "021_ending__notice-termination": {
+      "file": "021_ending__notice-termination.json",
+      "title": "Notice of termination and final pay",
+      "url": "https://www.fairwork.gov.au/ending-employment/notice-and-final-pay",
+      "canonical_url": "https://www.fairwork.gov.au/ending-employment/notice-and-final-pay",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "435b686da4b5f1bf7104bd134e591487"
+    },
+    "022_ending__redundancy": {
+      "file": "022_ending__redundancy.json",
+      "title": "Redundancy",
+      "url": "https://www.fairwork.gov.au/ending-employment/redundancy",
+      "canonical_url": "https://www.fairwork.gov.au/ending-employment/redundancy",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "aab664342770ea50425145b9e7fea8e6"
+    },
+    "023_ending__unfair-dismissal": {
+      "file": "023_ending__unfair-dismissal.json",
+      "title": "Unfair dismissal",
+      "url": "https://www.fairwork.gov.au/ending-employment/unfair-dismissal",
+      "canonical_url": "https://www.fairwork.gov.au/ending-employment/unfair-dismissal",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "f2eac1050871b2ca2347cf93513db945"
+    },
+    "024_conditions__public-holidays": {
+      "file": "024_conditions__public-holidays.json",
+      "title": "Public holidays",
+      "url": "https://www.fairwork.gov.au/employment-conditions/public-holidays",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/public-holidays",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "77907334da58ab802172165f4e50a078"
+    },
+    "025_leave__parental": {
+      "file": "025_leave__parental.json",
+      "title": "Parental leave",
+      "url": "https://www.fairwork.gov.au/leave/parental-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/parental-leave",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "0883027a468d5c320f46562e2f5c75f5"
+    },
+    "026_leave__family-domestic-violence": {
+      "file": "026_leave__family-domestic-violence.json",
+      "title": "Family and domestic violence leave",
+      "url": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "b6a2158b13447e268efd7a7b29f990d0"
+    },
+    "027_conditions__right-to-disconnect": {
+      "file": "027_conditions__right-to-disconnect.json",
+      "title": "Right to disconnect",
+      "url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/right-to-disconnect",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/right-to-disconnect",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "1682a56c2bae347b0f6046529172ae9a"
+    },
+    "028_conditions__enterprise-agreements": {
+      "file": "028_conditions__enterprise-agreements.json",
+      "title": "Enterprise agreements",
+      "url": "https://www.fairwork.gov.au/employment-conditions/agreements",
+      "canonical_url": "https://www.fairwork.gov.au/employment-conditions/agreements",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "d343ebfb7735870063aa8d9ca2d1ad1e"
+    },
+    "029_leave__annual-leave-cashing-out": {
+      "file": "029_leave__annual-leave-cashing-out.json",
+      "title": "Annual leave \u2014 cashing out and directing",
+      "url": "https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave",
+      "canonical_url": "https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "6ae432367c5fbf8e4b8df883e82bdf74"
+    },
+    "030_pay__allowances": {
+      "file": "030_pay__allowances.json",
+      "title": "Allowances",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances",
+      "canonical_url": "https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances",
+      "scraped_at": "2026-05-08T09:00:00+00:00",
+      "source_priority": "google_search_snippets",
+      "has_tables": true,
+      "has_key_facts": true,
+      "md5": "f94497af756d9b49a48a5a1f36962af4"
+    }
+  },
+  "key_facts": {
+    "001_employment-conditions": {
+      "description": "Top-level index of FWO employment conditions topics",
+      "topics_covered": [
+        "awards",
+        "agreements",
+        "NES",
+        "public holidays",
+        "hours of work",
+        "contracts",
+        "flexibility",
+        "protections",
+        "discrimination",
+        "workers compensation"
+      ],
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "002_awards__about-awards": {
+      "award_definition": "A Modern Award is a legal document outlining minimum pay rates and conditions of employment",
+      "award_types": [
+        "industry awards",
+        "occupational awards",
+        "industry and occupational awards",
+        "enterprise awards",
+        "state reference public sector awards"
+      ],
+      "award_overridden_by": "Enterprise agreement (while agreement is in force)",
+      "coverage_clause_location": "Usually clause 4 of each award",
+      "contract_cannot_undercut_award": true,
+      "dispute_resolution_required_in_awards": true,
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "003_awards__award-classifications": {
+      "classification_determines": "Minimum pay rate for the employee",
+      "classification_found_in": "Schedule to each Modern Award",
+      "employer_must_classify_correctly": true,
+      "misclassification_risk": "Underpayment \u2014 employee entitled to higher rate",
+      "job_title_does_not_determine_classification": true,
+      "duties_and_responsibilities_determine_classification": true,
+      "legislation": "Fair Work Act 2009 (Cth); individual Modern Award classification schedules"
+    },
+    "004_awards__award-and-agreement-free": {
+      "award_agreement_free_minimum": "National Minimum Wage ($24.95/hr from 1 July 2025)",
+      "award_agreement_free_also_entitled_to": "National Employment Standards (NES)",
+      "most_employees_covered_by_award": true,
+      "check_coverage_via": "Pay and Conditions Tool (fairwork.gov.au/pay-and-wages/pay-calculator)",
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "005_nes__index": {
+      "nes_count": 11,
+      "nes_entitlements": [
+        "Maximum weekly hours (38 hours + reasonable additional)",
+        "Flexible working arrangements",
+        "Parental leave and related entitlements",
+        "Annual leave (4 weeks/year full-time)",
+        "Personal/carer's leave and compassionate leave",
+        "Community service leave",
+        "Long service leave",
+        "Public holidays",
+        "Notice of termination and redundancy pay",
+        "Fair Work Information Statement",
+        "Casual Employment Information Statement (casuals)"
+      ],
+      "nes_applies_to": "All employees covered by the national workplace relations system",
+      "cannot_be_excluded_by_contract_or_award": true,
+      "legislation": "Fair Work Act 2009 (Cth) Part 2-2 (ss.61\u2013131)"
+    },
+    "006_nes__maximum-weekly-hours": {
+      "maximum_ordinary_hours_full_time": 38,
+      "maximum_ordinary_hours_part_time": "As per their agreement (not more than 38)",
+      "additional_hours_permitted": "Reasonable additional hours only",
+      "employee_can_refuse_unreasonable_overtime": true,
+      "factors_for_reasonableness": [
+        "risk to health and safety",
+        "personal circumstances",
+        "notice given",
+        "nature of work",
+        "usual patterns of work"
+      ],
+      "legislation": "Fair Work Act 2009 (Cth) s.62"
+    },
+    "007_hours-of-work__index": {
+      "ordinary_hours_set_by": "Award, enterprise agreement, or employment contract",
+      "spread_of_hours_definition": "Times of day during which ordinary hours can be worked",
+      "rostered_days_off_rdo_applies": "Where award or agreement provides for them",
+      "overtime_trigger": "Work outside ordinary hours as defined in award/agreement",
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "008_hours-of-work__overtime": {
+      "overtime_definition": "Work performed OUTSIDE ordinary hours set by award, agreement, or contract",
+      "overtime_triggers": [
+        "beyond maximum daily ordinary hours",
+        "beyond weekly ordinary hours",
+        "outside part-time agreed hours",
+        "outside spread of hours"
+      ],
+      "employee_can_refuse_unreasonable_overtime": true,
+      "employer_can_require_overtime_only_if": "Reasonable (per award/agreement)",
+      "fatigue_and_safety_must_be_considered": true,
+      "legislation": "Fair Work Act 2009 (Cth) s.62"
+    },
+    "009_hours-of-work__breaks": {
+      "break_types": [
+        "rest break (rest pause / tea break)",
+        "meal break",
+        "crib break (paid meal break)",
+        "break between shifts"
+      ],
+      "break_rules_set_by": "Award, enterprise agreement, or registered agreement",
+      "crib_break_is_paid": true,
+      "crib_break_applies_when": "Employee may need to resume work during meal break or cannot leave work area",
+      "minimum_break_between_shifts": "Varies by award \u2014 check applicable award",
+      "legislation": "Award/enterprise agreement specific; Fair Work Act 2009 (Cth)"
+    },
+    "010_leave__annual-leave": {
+      "annual_leave_weeks_per_year_full_time": 4,
+      "shiftworkers_entitlement_weeks": 5,
+      "casual_employees_entitled": false,
+      "accrual": "Progressive throughout the year",
+      "accumulates_if_unused": true,
+      "paid_at": "Ordinary rate of pay (+ leave loading if award provides)",
+      "leave_loading_common_rate_percent": 17.5,
+      "direction_to_take_leave": "Allowed under some awards when excess leave accrued",
+      "legislation": "Fair Work Act 2009 (Cth) ss.87\u201393"
+    },
+    "011_leave__sick-and-carers-leave": {
+      "sick_leave_days_per_year_full_time": 10,
+      "sick_leave_accrual": "Progressive, accumulates year to year if unused",
+      "paid_personal_leave_entitlement": "10 days per year (for personal illness or caring responsibilities)",
+      "casual_employees_paid_personal_leave": false,
+      "casual_unpaid_carers_leave_days_per_occasion": 2,
+      "compassionate_leave_days_per_occasion": 2,
+      "compassionate_leave_paid_for_permanent": true,
+      "notice_required": "As soon as practicable",
+      "evidence_employer_can_request": true,
+      "legislation": "Fair Work Act 2009 (Cth) ss.96\u2013107"
+    },
+    "012_leave__long-service-leave": {
+      "long_service_leave_set_by": "State and Territory legislation (not the Fair Work Act)",
+      "general_qualifying_period_years": "Approximately 7\u201310 years depending on state/territory",
+      "entitlement_varies_by": "State or territory where employee works",
+      "portable_schemes_exist": true,
+      "portable_scheme_industries": [
+        "building and construction",
+        "contract cleaning",
+        "community services (some states)"
+      ],
+      "pro_rata_on_death_or_genuine_redundancy": true,
+      "legislation": "State/Territory Long Service Leave Acts (varies by jurisdiction)"
+    },
+    "013_pay__superannuation": {
+      "superannuation_guarantee_rate_2025_26": 11.5,
+      "sgc_rate_from_2025_07_01": 12.0,
+      "sgc_rate_note": "SGC increases to 12% from 1 July 2025",
+      "ote_definition": "Ordinary Time Earnings \u2014 the base on which SGC is calculated",
+      "sgc_calculation_base": "Ordinary Time Earnings (OTE)",
+      "ote_includes": [
+        "ordinary hours earnings",
+        "over-award payments",
+        "allowances",
+        "annual leave pay",
+        "sick leave pay"
+      ],
+      "ote_excludes": [
+        "overtime pay (generally)",
+        "genuine redundancy payments",
+        "reimbursements"
+      ],
+      "payment_due_quarterly": true,
+      "quarterly_payment_dates": [
+        "28 October",
+        "28 January",
+        "28 April",
+        "28 July"
+      ],
+      "choice_of_fund": "Employees generally entitled to choose their super fund",
+      "stapled_super_fund": "Employer must check ATO for employee's stapled fund if no choice made",
+      "minimum_monthly_earnings_threshold_abolished": "1 July 2022 \u2014 super now payable regardless of earnings",
+      "legislation": "Superannuation Guarantee (Administration) Act 1992 (Cth); Fair Work Act 2009 (Cth) s.68 (NES)"
+    },
+    "014_pay__minimum-wages": {
+      "national_minimum_wage_hourly": 24.95,
+      "national_minimum_wage_weekly": 948.0,
+      "currency": "AUD",
+      "effective_date": "2026-07-01",
+      "wage_increase_percentage": 3.5,
+      "based_on_hours_per_week": 38,
+      "applies_to": "Employees not covered by an award or registered agreement"
+    },
+    "015_pay__penalty-rates": {
+      "trigger_scenarios": [
+        "weekends",
+        "public holidays",
+        "overtime",
+        "late nights",
+        "early mornings"
+      ],
+      "determined_by": "Award or registered agreement",
+      "casual_loading_interaction": "Both casual loading and penalty rate calculated on the base minimum pay rate",
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "016_pay__overtime": {
+      "ordinary_weekly_hours_full_time": 38,
+      "common_overtime_rate_first_hours": "150% (time and a half)",
+      "common_overtime_rate_extended": "200% (double time)",
+      "toil_available": true,
+      "toil_requires_written_agreement": true,
+      "legislation": "Fair Work Act 2009 (Cth) s.62"
+    },
+    "017_pay__payslips": {
+      "must_be_provided_within": "1 business day of payment",
+      "format": [
+        "Electronic",
+        "Hard copy"
+      ],
+      "must_be_in_english": true,
+      "family_dv_leave_on_payslip": false,
+      "legislation": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009"
+    },
+    "018_pay__record-keeping": {
+      "retention_period_years": 7,
+      "format": "Legible, English, readily accessible",
+      "false_records_prohibited": true,
+      "inspector_access": "At any time",
+      "reverse_onus_risk": "Absence of records may shift burden to employer in underpayment disputes",
+      "legislation": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009 reg.3.31\u20133.46"
+    },
+    "019_employment__casual-employees": {
+      "casual_loading_standard_percent": 25,
+      "new_definition_effective_date": "2026-08-26",
+      "employee_choice_pathway_effective": "2026-02-26",
+      "ceis_required": true,
+      "legislation": "Fair Work Act 2009 (Cth), as amended by Fair Work Legislation Amendment (Closing Loopholes) Acts 2023\u20132024"
+    },
+    "020_employment__contracts": {
+      "written_contract_legally_required": false,
+      "minimum_floor": "NES + applicable Modern Award or Enterprise Agreement",
+      "nes_can_be_excluded_by_contract": false,
+      "pay_secrecy_enforceable": false,
+      "pay_secrecy_change_date": "2022-12-07",
+      "fixed_term_max_duration_years": 2,
+      "fixed_term_restriction_date": "2023-12-06",
+      "legislation": "Fair Work Act 2009 (Cth)"
+    },
+    "021_ending__notice-termination": {
+      "notice_periods_legislated": true,
+      "legislation": "Fair Work Act 2009 (Cth) s.117",
+      "casual_employees_entitled_to_notice": false,
+      "serious_misconduct_notice_required": false,
+      "age_45_plus_extra_notice_weeks": 1,
+      "age_45_plus_minimum_service_years": 2,
+      "sick_leave_paid_out_on_termination": false,
+      "annual_leave_paid_out_on_termination": true
+    },
+    "022_ending__redundancy": {
+      "small_business_threshold_employees": 15,
+      "small_business_redundancy_pay_entitlement": false,
+      "casual_redundancy_pay": false,
+      "10_year_reduction_note": "Redundancy pay reduces from 16 to 12 weeks at 10+ years \u2014 consistent with long service leave entitlements",
+      "legislation": "Fair Work Act 2009 (Cth) s.119\u2013123"
+    },
+    "023_ending__unfair-dismissal": {
+      "claim_lodged_with": "Fair Work Commission (FWC) \u2014 not Fair Work Ombudsman",
+      "application_deadline_days": 21,
+      "minimum_employment_period_standard_months": 6,
+      "minimum_employment_period_small_business_months": 12,
+      "small_business_threshold_employees": 15,
+      "high_income_threshold_2024_25": 175000,
+      "max_compensation_weeks_pay": 26,
+      "preferred_remedy": "Reinstatement",
+      "legislation": "Fair Work Act 2009 (Cth) ss.385\u2013392"
+    },
+    "024_conditions__public-holidays": {
+      "right_to_absent": true,
+      "legislation": "Fair Work Act 2009 (Cth) s.114\u2013116",
+      "employer_can_request_work": true,
+      "employee_can_refuse_unreasonable_request": true,
+      "typical_penalty_rate_range": "225%\u2013250% of ordinary rate",
+      "part_time_entitlement": "Only on days they are ordinarily rostered to work",
+      "casual_entitlement": "Only if ordinarily rostered for that day"
+    },
+    "025_leave__parental": {
+      "eligibility_minimum_service_months": 12,
+      "casual_eligible": true,
+      "casual_requires_regular_systematic": true,
+      "unpaid_leave_initial_months": 12,
+      "unpaid_leave_maximum_months": 24,
+      "notice_required_weeks": 10,
+      "right_to_return_protected": true,
+      "dismissal_on_parental_leave_prohibited": true,
+      "legislation": "Fair Work Act 2009 (Cth) ss.67\u201385"
+    },
+    "026_leave__family-domestic-violence": {
+      "days_per_year": 10,
+      "paid": true,
+      "accumulates_from_day_1": true,
+      "does_not_roll_over_if_unused": true,
+      "casual_employees_entitled": true,
+      "payslip_must_not_mention": true,
+      "effective_date_all_employees": "2023-08-01",
+      "legislation": "Fair Work Act 2009 (Cth) ss.106A\u2013106P"
+    },
+    "027_conditions__right-to-disconnect": {
+      "effective_date_non_small_business": "2024-08-26",
+      "effective_date_small_business": "2025-08-26",
+      "right_to_refuse_contact": true,
+      "adverse_action_prohibited": true,
+      "dispute_resolution_body": "Fair Work Commission (FWC)",
+      "legislation": "Fair Work Act 2009 (Cth) ss.333M\u2013333T (inserted by Closing Loopholes Act 2024)"
+    },
+    "028_conditions__enterprise-agreements": {
+      "boot_required": true,
+      "nes_cannot_be_excluded": true,
+      "requires_majority_employee_vote": true,
+      "approved_by": "Fair Work Commission (FWC)",
+      "ifa_notice_to_terminate_days": 28,
+      "legislation": "Fair Work Act 2009 (Cth) Part 2-4"
+    },
+    "029_leave__annual-leave-cashing-out": {
+      "annual_leave_weeks_per_year_full_time": 4,
+      "shiftworker_entitlement_weeks": 5,
+      "casual_entitlement": false,
+      "cash_out_minimum_remaining_weeks": 4,
+      "cash_out_requires_written_agreement_each_time": true,
+      "leave_loading_common_rate_percent": 17.5,
+      "legislation": "Fair Work Act 2009 (Cth) ss.87\u201393"
+    },
+    "030_pay__allowances": {
+      "set_by": "Modern Award or enterprise agreement",
+      "must_appear_on_payslip": true,
+      "use_pact_tool": true,
+      "legislation": "Fair Work Act 2009 (Cth); individual Modern Award allowances clauses"
+    }
+  },
+  "legislation_references": {
+    "001_employment-conditions": "Fair Work Act 2009 (Cth)",
+    "002_awards__about-awards": "Fair Work Act 2009 (Cth)",
+    "003_awards__award-classifications": "Fair Work Act 2009 (Cth); individual Modern Award classification schedules",
+    "004_awards__award-and-agreement-free": "Fair Work Act 2009 (Cth)",
+    "005_nes__index": "Fair Work Act 2009 (Cth) Part 2-2 (ss.61\u2013131)",
+    "006_nes__maximum-weekly-hours": "Fair Work Act 2009 (Cth) s.62",
+    "007_hours-of-work__index": "Fair Work Act 2009 (Cth)",
+    "008_hours-of-work__overtime": "Fair Work Act 2009 (Cth) s.62",
+    "009_hours-of-work__breaks": "Award/enterprise agreement specific; Fair Work Act 2009 (Cth)",
+    "010_leave__annual-leave": "Fair Work Act 2009 (Cth) ss.87\u201393",
+    "011_leave__sick-and-carers-leave": "Fair Work Act 2009 (Cth) ss.96\u2013107",
+    "012_leave__long-service-leave": "State/Territory Long Service Leave Acts (varies by jurisdiction)",
+    "013_pay__superannuation": "Superannuation Guarantee (Administration) Act 1992 (Cth); Fair Work Act 2009 (Cth) s.68 (NES)",
+    "015_pay__penalty-rates": "Fair Work Act 2009 (Cth)",
+    "016_pay__overtime": "Fair Work Act 2009 (Cth) s.62",
+    "017_pay__payslips": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009",
+    "018_pay__record-keeping": "Fair Work Act 2009 (Cth); Fair Work Regulations 2009 reg.3.31\u20133.46",
+    "019_employment__casual-employees": "Fair Work Act 2009 (Cth), as amended by Fair Work Legislation Amendment (Closing Loopholes) Acts 2023\u20132024",
+    "020_employment__contracts": "Fair Work Act 2009 (Cth)",
+    "021_ending__notice-termination": "Fair Work Act 2009 (Cth) s.117",
+    "022_ending__redundancy": "Fair Work Act 2009 (Cth) s.119\u2013123",
+    "023_ending__unfair-dismissal": "Fair Work Act 2009 (Cth) ss.385\u2013392",
+    "024_conditions__public-holidays": "Fair Work Act 2009 (Cth) s.114\u2013116",
+    "025_leave__parental": "Fair Work Act 2009 (Cth) ss.67\u201385",
+    "026_leave__family-domestic-violence": "Fair Work Act 2009 (Cth) ss.106A\u2013106P",
+    "027_conditions__right-to-disconnect": "Fair Work Act 2009 (Cth) ss.333M\u2013333T (inserted by Closing Loopholes Act 2024)",
+    "028_conditions__enterprise-agreements": "Fair Work Act 2009 (Cth) Part 2-4",
+    "029_leave__annual-leave-cashing-out": "Fair Work Act 2009 (Cth) ss.87\u201393",
+    "030_pay__allowances": "Fair Work Act 2009 (Cth); individual Modern Award allowances clauses"
+  },
+  "topic_map": {
+    "minimum_wage": [
+      "014_pay__minimum-wages"
+    ],
+    "penalty_rates": [
+      "015_pay__penalty-rates"
+    ],
+    "overtime": [
+      "008_hours-of-work__overtime",
+      "016_pay__overtime"
+    ],
+    "superannuation": [
+      "013_pay__superannuation"
+    ],
+    "payslip": [
+      "017_pay__payslips"
+    ],
+    "record_keeping": [
+      "018_pay__record-keeping"
+    ],
+    "casual": [
+      "019_employment__casual-employees"
+    ],
+    "contract": [
+      "020_employment__contracts"
+    ],
+    "notice_termination": [
+      "021_ending__notice-termination"
+    ],
+    "redundancy": [
+      "022_ending__redundancy"
+    ],
+    "unfair_dismissal": [
+      "023_ending__unfair-dismissal"
+    ],
+    "public_holidays": [
+      "024_conditions__public-holidays"
+    ],
+    "annual_leave": [
+      "010_leave__annual-leave",
+      "029_leave__annual-leave-cashing-out"
+    ],
+    "sick_leave": [
+      "011_leave__sick-and-carers-leave"
+    ],
+    "long_service_leave": [
+      "012_leave__long-service-leave"
+    ],
+    "parental_leave": [
+      "025_leave__parental"
+    ],
+    "fdv_leave": [
+      "026_leave__family-domestic-violence"
+    ],
+    "right_to_disconnect": [
+      "027_conditions__right-to-disconnect"
+    ],
+    "enterprise_agreements": [
+      "028_conditions__enterprise-agreements"
+    ],
+    "allowances": [
+      "030_pay__allowances"
+    ],
+    "awards": [
+      "002_awards__about-awards",
+      "003_awards__award-classifications",
+      "004_awards__award-and-agreement-free"
+    ],
+    "nes": [
+      "005_nes__index",
+      "006_nes__maximum-weekly-hours"
+    ],
+    "hours_of_work": [
+      "007_hours-of-work__index",
+      "008_hours-of-work__overtime",
+      "009_hours-of-work__breaks"
+    ],
+    "breaks": [
+      "009_hours-of-work__breaks"
+    ],
+    "employment_conditions": [
+      "001_employment-conditions"
+    ]
+  }
+}

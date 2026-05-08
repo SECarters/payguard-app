@@ -1,0 +1,325 @@
+# FWO CORPUS — CONSOLIDATED KEY FACTS REFERENCE
+# Source: Fair Work Ombudsman (fairwork.gov.au)
+# Jurisdiction: National workplace relations system, Australia
+# Built: 2026-05-08 | NMW effective: 1 July 2025 | SGC: 12% from 1 July 2025
+# !! AUDIT USE: Cite file_id and source URL in all formal reports !!
+# THIS FILE IS MACHINE-GENERATED — DO NOT EDIT MANUALLY
+
+## [001_employment-conditions] Employment conditions
+   SOURCE: https://www.fairwork.gov.au/employment-conditions
+   SCRAPED: 2026-05-08T08:22:00Z
+   description: Top-level index of FWO employment conditions topics
+   topics_covered: ['awards', 'agreements', 'NES', 'public holidays', 'hours of work', 'contracts', 'flexibility', 'protections', 'discrimination', 'workers compensation']
+   legislation: Fair Work Act 2009 (Cth)
+
+## [002_awards__about-awards] About awards
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/awards/about-awards
+   SCRAPED: 2026-05-08T08:22:00Z
+   award_definition: A Modern Award is a legal document outlining minimum pay rates and conditions of employment
+   award_types: ['industry awards', 'occupational awards', 'industry and occupational awards', 'enterprise awards', 'state reference public sector awards']
+   award_overridden_by: Enterprise agreement (while agreement is in force)
+   coverage_clause_location: Usually clause 4 of each award
+   contract_cannot_undercut_award: True
+   dispute_resolution_required_in_awards: True
+   legislation: Fair Work Act 2009 (Cth)
+
+## [003_awards__award-classifications] Award classifications
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/awards/award-classifications
+   SCRAPED: 2026-05-08T08:23:00Z
+   classification_determines: Minimum pay rate for the employee
+   classification_found_in: Schedule to each Modern Award
+   employer_must_classify_correctly: True
+   misclassification_risk: Underpayment — employee entitled to higher rate
+   job_title_does_not_determine_classification: True
+   duties_and_responsibilities_determine_classification: True
+   legislation: Fair Work Act 2009 (Cth); individual Modern Award classification schedules
+
+## [004_awards__award-and-agreement-free] Award and agreement free wages and conditions
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions
+   SCRAPED: 2026-05-08T08:24:00Z
+   award_agreement_free_minimum: National Minimum Wage ($24.95/hr from 1 July 2025)
+   award_agreement_free_also_entitled_to: National Employment Standards (NES)
+   most_employees_covered_by_award: True
+   check_coverage_via: Pay and Conditions Tool (fairwork.gov.au/pay-and-wages/pay-calculator)
+   legislation: Fair Work Act 2009 (Cth)
+
+## [005_nes__index] National Employment Standards
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/national-employment-standards
+   SCRAPED: 2026-05-08T08:25:00Z
+   nes_count: 11
+   nes_entitlements: ['Maximum weekly hours (38 hours + reasonable additional)', 'Flexible working arrangements', 'Parental leave and related entitlements', 'Annual leave (4 weeks/year full-time)', "Personal/carer's leave and compassionate leave", 'Community service leave', 'Long service leave', 'Public holidays', 'Notice of termination and redundancy pay', 'Fair Work Information Statement', 'Casual Employment Information Statement (casuals)']
+   nes_applies_to: All employees covered by the national workplace relations system
+   cannot_be_excluded_by_contract_or_award: True
+   legislation: Fair Work Act 2009 (Cth) Part 2-2 (ss.61–131)
+
+## [006_nes__maximum-weekly-hours] Maximum weekly hours fact sheet
+   SOURCE: https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/maximum-weekly-hours
+   SCRAPED: 2026-05-08T08:26:00Z
+   maximum_ordinary_hours_full_time: 38
+   maximum_ordinary_hours_part_time: As per their agreement (not more than 38)
+   additional_hours_permitted: Reasonable additional hours only
+   employee_can_refuse_unreasonable_overtime: True
+   factors_for_reasonableness: ['risk to health and safety', 'personal circumstances', 'notice given', 'nature of work', 'usual patterns of work']
+   legislation: Fair Work Act 2009 (Cth) s.62
+
+## [007_hours-of-work__index] Hours of work, breaks and rosters
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters
+   SCRAPED: 2026-05-08T08:30:00Z
+   ordinary_hours_set_by: Award, enterprise agreement, or employment contract
+   spread_of_hours_definition: Times of day during which ordinary hours can be worked
+   rostered_days_off_rdo_applies: Where award or agreement provides for them
+   overtime_trigger: Work outside ordinary hours as defined in award/agreement
+   legislation: Fair Work Act 2009 (Cth)
+
+## [008_hours-of-work__overtime] When overtime applies
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work/when-overtime-applies
+   SCRAPED: 2026-05-08T08:31:00Z
+   overtime_definition: Work performed OUTSIDE ordinary hours set by award, agreement, or contract
+   overtime_triggers: ['beyond maximum daily ordinary hours', 'beyond weekly ordinary hours', 'outside part-time agreed hours', 'outside spread of hours']
+   employee_can_refuse_unreasonable_overtime: True
+   employer_can_require_overtime_only_if: Reasonable (per award/agreement)
+   fatigue_and_safety_must_be_considered: True
+   legislation: Fair Work Act 2009 (Cth) s.62
+
+## [009_hours-of-work__breaks] Breaks
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/breaks
+   SCRAPED: 2026-05-08T08:31:00Z
+   break_types: ['rest break (rest pause / tea break)', 'meal break', 'crib break (paid meal break)', 'break between shifts']
+   break_rules_set_by: Award, enterprise agreement, or registered agreement
+   crib_break_is_paid: True
+   crib_break_applies_when: Employee may need to resume work during meal break or cannot leave work area
+   minimum_break_between_shifts: Varies by award — check applicable award
+   legislation: Award/enterprise agreement specific; Fair Work Act 2009 (Cth)
+
+## [010_leave__annual-leave] Annual leave
+   SOURCE: https://www.fairwork.gov.au/leave/annual-leave
+   SCRAPED: 2026-05-08T08:32:00Z
+   annual_leave_weeks_per_year_full_time: 4
+   shiftworkers_entitlement_weeks: 5
+   casual_employees_entitled: False
+   accrual: Progressive throughout the year
+   accumulates_if_unused: True
+   paid_at: Ordinary rate of pay (+ leave loading if award provides)
+   leave_loading_common_rate_percent: 17.5
+   direction_to_take_leave: Allowed under some awards when excess leave accrued
+   legislation: Fair Work Act 2009 (Cth) ss.87–93
+
+## [011_leave__sick-and-carers-leave] Sick and carer's leave
+   SOURCE: https://www.fairwork.gov.au/leave/sick-and-carers-leave
+   SCRAPED: 2026-05-08T08:33:00Z
+   sick_leave_days_per_year_full_time: 10
+   sick_leave_accrual: Progressive, accumulates year to year if unused
+   paid_personal_leave_entitlement: 10 days per year (for personal illness or caring responsibilities)
+   casual_employees_paid_personal_leave: False
+   casual_unpaid_carers_leave_days_per_occasion: 2
+   compassionate_leave_days_per_occasion: 2
+   compassionate_leave_paid_for_permanent: True
+   notice_required: As soon as practicable
+   evidence_employer_can_request: True
+   legislation: Fair Work Act 2009 (Cth) ss.96–107
+
+## [012_leave__long-service-leave] Long service leave
+   SOURCE: https://www.fairwork.gov.au/leave/long-service-leave
+   SCRAPED: 2026-05-08T08:33:00Z
+   long_service_leave_set_by: State and Territory legislation (not the Fair Work Act)
+   general_qualifying_period_years: Approximately 7–10 years depending on state/territory
+   entitlement_varies_by: State or territory where employee works
+   portable_schemes_exist: True
+   portable_scheme_industries: ['building and construction', 'contract cleaning', 'community services (some states)']
+   pro_rata_on_death_or_genuine_redundancy: True
+   legislation: State/Territory Long Service Leave Acts (varies by jurisdiction)
+
+## [013_pay__superannuation] Tax and superannuation
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation
+   SCRAPED: 2026-05-08T08:34:00Z
+   superannuation_guarantee_rate_2025_26: 11.5
+   sgc_rate_from_2025_07_01: 12.0
+   sgc_rate_note: SGC increases to 12% from 1 July 2025
+   ote_definition: Ordinary Time Earnings — the base on which SGC is calculated
+   sgc_calculation_base: Ordinary Time Earnings (OTE)
+   ote_includes: ['ordinary hours earnings', 'over-award payments', 'allowances', 'annual leave pay', 'sick leave pay']
+   ote_excludes: ['overtime pay (generally)', 'genuine redundancy payments', 'reimbursements']
+   payment_due_quarterly: True
+   quarterly_payment_dates: ['28 October', '28 January', '28 April', '28 July']
+   choice_of_fund: Employees generally entitled to choose their super fund
+   stapled_super_fund: Employer must check ATO for employee's stapled fund if no choice made
+   minimum_monthly_earnings_threshold_abolished: 1 July 2022 — super now payable regardless of earnings
+   legislation: Superannuation Guarantee (Administration) Act 1992 (Cth); Fair Work Act 2009 (Cth) s.68 (NES)
+
+## [014_pay__minimum-wages] Minimum wages
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/minimum-wages
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   national_minimum_wage_hourly: 24.95
+   national_minimum_wage_weekly: 948.0
+   currency: AUD
+   effective_date: 2026-07-01
+   wage_increase_percentage: 3.5
+   based_on_hours_per_week: 38
+   applies_to: Employees not covered by an award or registered agreement
+
+## [015_pay__penalty-rates] Penalty rates
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   trigger_scenarios: ['weekends', 'public holidays', 'overtime', 'late nights', 'early mornings']
+   determined_by: Award or registered agreement
+   casual_loading_interaction: Both casual loading and penalty rate calculated on the base minimum pay rate
+   legislation: Fair Work Act 2009 (Cth)
+
+## [016_pay__overtime] Overtime pay
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   ordinary_weekly_hours_full_time: 38
+   common_overtime_rate_first_hours: 150% (time and a half)
+   common_overtime_rate_extended: 200% (double time)
+   toil_available: True
+   toil_requires_written_agreement: True
+   legislation: Fair Work Act 2009 (Cth) s.62
+
+## [017_pay__payslips] Pay slips
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   must_be_provided_within: 1 business day of payment
+   format: ['Electronic', 'Hard copy']
+   must_be_in_english: True
+   family_dv_leave_on_payslip: False
+   legislation: Fair Work Act 2009 (Cth); Fair Work Regulations 2009
+
+## [018_pay__record-keeping] Record-keeping
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   retention_period_years: 7
+   format: Legible, English, readily accessible
+   false_records_prohibited: True
+   inspector_access: At any time
+   reverse_onus_risk: Absence of records may shift burden to employer in underpayment disputes
+   legislation: Fair Work Act 2009 (Cth); Fair Work Regulations 2009 reg.3.31–3.46
+
+## [019_employment__casual-employees] Casual employees
+   SOURCE: https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   casual_loading_standard_percent: 25
+   new_definition_effective_date: 2026-08-26
+   employee_choice_pathway_effective: 2026-02-26
+   ceis_required: True
+   legislation: Fair Work Act 2009 (Cth), as amended by Fair Work Legislation Amendment (Closing Loopholes) Acts 2023–2024
+
+## [020_employment__contracts] Employment contracts
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/employment-contracts
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   written_contract_legally_required: False
+   minimum_floor: NES + applicable Modern Award or Enterprise Agreement
+   nes_can_be_excluded_by_contract: False
+   pay_secrecy_enforceable: False
+   pay_secrecy_change_date: 2022-12-07
+   fixed_term_max_duration_years: 2
+   fixed_term_restriction_date: 2023-12-06
+   legislation: Fair Work Act 2009 (Cth)
+
+## [021_ending__notice-termination] Notice of termination and final pay
+   SOURCE: https://www.fairwork.gov.au/ending-employment/notice-and-final-pay
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   notice_periods_legislated: True
+   legislation: Fair Work Act 2009 (Cth) s.117
+   casual_employees_entitled_to_notice: False
+   serious_misconduct_notice_required: False
+   age_45_plus_extra_notice_weeks: 1
+   age_45_plus_minimum_service_years: 2
+   sick_leave_paid_out_on_termination: False
+   annual_leave_paid_out_on_termination: True
+
+## [022_ending__redundancy] Redundancy
+   SOURCE: https://www.fairwork.gov.au/ending-employment/redundancy
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   small_business_threshold_employees: 15
+   small_business_redundancy_pay_entitlement: False
+   casual_redundancy_pay: False
+   10_year_reduction_note: Redundancy pay reduces from 16 to 12 weeks at 10+ years — consistent with long service leave entitlements
+   legislation: Fair Work Act 2009 (Cth) s.119–123
+
+## [023_ending__unfair-dismissal] Unfair dismissal
+   SOURCE: https://www.fairwork.gov.au/ending-employment/unfair-dismissal
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   claim_lodged_with: Fair Work Commission (FWC) — not Fair Work Ombudsman
+   application_deadline_days: 21
+   minimum_employment_period_standard_months: 6
+   minimum_employment_period_small_business_months: 12
+   small_business_threshold_employees: 15
+   high_income_threshold_2024_25: 175000
+   max_compensation_weeks_pay: 26
+   preferred_remedy: Reinstatement
+   legislation: Fair Work Act 2009 (Cth) ss.385–392
+
+## [024_conditions__public-holidays] Public holidays
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/public-holidays
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   right_to_absent: True
+   legislation: Fair Work Act 2009 (Cth) s.114–116
+   employer_can_request_work: True
+   employee_can_refuse_unreasonable_request: True
+   typical_penalty_rate_range: 225%–250% of ordinary rate
+   part_time_entitlement: Only on days they are ordinarily rostered to work
+   casual_entitlement: Only if ordinarily rostered for that day
+
+## [025_leave__parental] Parental leave
+   SOURCE: https://www.fairwork.gov.au/leave/parental-leave
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   eligibility_minimum_service_months: 12
+   casual_eligible: True
+   casual_requires_regular_systematic: True
+   unpaid_leave_initial_months: 12
+   unpaid_leave_maximum_months: 24
+   notice_required_weeks: 10
+   right_to_return_protected: True
+   dismissal_on_parental_leave_prohibited: True
+   legislation: Fair Work Act 2009 (Cth) ss.67–85
+
+## [026_leave__family-domestic-violence] Family and domestic violence leave
+   SOURCE: https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   days_per_year: 10
+   paid: True
+   accumulates_from_day_1: True
+   does_not_roll_over_if_unused: True
+   casual_employees_entitled: True
+   payslip_must_not_mention: True
+   effective_date_all_employees: 2023-08-01
+   legislation: Fair Work Act 2009 (Cth) ss.106A–106P
+
+## [027_conditions__right-to-disconnect] Right to disconnect
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/right-to-disconnect
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   effective_date_non_small_business: 2024-08-26
+   effective_date_small_business: 2025-08-26
+   right_to_refuse_contact: True
+   adverse_action_prohibited: True
+   dispute_resolution_body: Fair Work Commission (FWC)
+   legislation: Fair Work Act 2009 (Cth) ss.333M–333T (inserted by Closing Loopholes Act 2024)
+
+## [028_conditions__enterprise-agreements] Enterprise agreements
+   SOURCE: https://www.fairwork.gov.au/employment-conditions/agreements
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   boot_required: True
+   nes_cannot_be_excluded: True
+   requires_majority_employee_vote: True
+   approved_by: Fair Work Commission (FWC)
+   ifa_notice_to_terminate_days: 28
+   legislation: Fair Work Act 2009 (Cth) Part 2-4
+
+## [029_leave__annual-leave-cashing-out] Annual leave — cashing out and directing
+   SOURCE: https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   annual_leave_weeks_per_year_full_time: 4
+   shiftworker_entitlement_weeks: 5
+   casual_entitlement: False
+   cash_out_minimum_remaining_weeks: 4
+   cash_out_requires_written_agreement_each_time: True
+   leave_loading_common_rate_percent: 17.5
+   legislation: Fair Work Act 2009 (Cth) ss.87–93
+
+## [030_pay__allowances] Allowances
+   SOURCE: https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances
+   SCRAPED: 2026-05-08T09:00:00+00:00
+   set_by: Modern Award or enterprise agreement
+   must_appear_on_payslip: True
+   use_pact_tool: True
+   legislation: Fair Work Act 2009 (Cth); individual Modern Award allowances clauses

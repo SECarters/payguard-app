@@ -4,14 +4,52 @@
   "section": "National Employment Standards",
   "scraped_at": "2026-05-08T08:26:00Z",
   "headings": [
-    {"level": "h1", "text": "Maximum weekly hours fact sheet"},
-    {"level": "h2", "text": "Overview"},
-    {"level": "h2", "text": "What are the maximum weekly hours of work?"},
-    {"level": "h2", "text": "What factors determine whether additional hours are reasonable?"},
-    {"level": "h2", "text": "What averaging arrangements can apply to hours of work?"},
-    {"level": "h3", "text": "Averaging of hours of work under awards or agreements"},
-    {"level": "h3", "text": "Averaging of hours of work for award/agreement free employees"},
-    {"level": "h3", "text": "Do I have to enter into an averaging arrangement?"}
+    {
+      "level": "h1",
+      "text": "Maximum weekly hours fact sheet"
+    },
+    {
+      "level": "h2",
+      "text": "Overview"
+    },
+    {
+      "level": "h2",
+      "text": "What are the maximum weekly hours of work?"
+    },
+    {
+      "level": "h2",
+      "text": "What factors determine whether additional hours are reasonable?"
+    },
+    {
+      "level": "h2",
+      "text": "What averaging arrangements can apply to hours of work?"
+    },
+    {
+      "level": "h3",
+      "text": "Averaging of hours of work under awards or agreements"
+    },
+    {
+      "level": "h3",
+      "text": "Averaging of hours of work for award/agreement free employees"
+    },
+    {
+      "level": "h3",
+      "text": "Do I have to enter into an averaging arrangement?"
+    }
   ],
-  "content": "Maximum weekly hours fact sheet\n\nOverview:\nMaximum weekly hours form part of the National Employment Standards (NES). The NES apply to all employees covered by the national workplace relations system, regardless of any award, agreement or contract.\n\nWhat are the maximum weekly hours of work?\nAn employer must not request or require an employee to work more than the following hours in a week, unless additional hours are reasonable:\n- Full-time employee: 38 hours (unless their award or EA specifies different hours)\n- Other employees: the lesser of 38 hours OR the employee's agreed ordinary hours\n\nHours worked include any hours of leave or absence (paid or unpaid under the NES) authorised by the employer or by law.\n\nAn employee may REFUSE to work additional hours if they are unreasonable.\n\nWhat factors determine whether additional hours are reasonable?\n- Risk to employee health and safety\n- Employee's personal circumstances, including family responsibilities\n- Needs of the workplace or enterprise\n- Whether the employee is entitled to receive overtime payments, penalty rates or other compensation\n- Notice given by the employer to work the additional hours\n- Notice given by the employee of their intention to refuse\n- Usual patterns of work in the industry\n- Nature of the employee's role and level of responsibility\n- Whether additional hours are in accordance with averaging provisions in an award or agreement\n- Any other relevant matter\n\nAveraging arrangements:\nAn award or agreement may allow for the averaging of hours over a period greater than a week. Average weekly hours must not exceed 38 (full-time) or the employee's agreed ordinary hours (others), unless additional hours are reasonable.\n\nFor award/agreement free employees: Employers and employees may agree in WRITING to average ordinary hours over a maximum of 26 weeks. Average weekly hours must not exceed 38 (full-time) or employee's ordinary hours (others).\n\nNote: Award/agreement-free employees are NOT entitled to a higher rate of pay for overtime under the FW Act.\n\nNo requirement to enter an averaging arrangement — it is optional. It is unlawful for an employer to force an employee to make or not make an averaging arrangement.\n\nSource: Fair Work Act 2009"
+  "content": "Maximum weekly hours fact sheet\n\nOverview:\nMaximum weekly hours form part of the National Employment Standards (NES). The NES apply to all employees covered by the national workplace relations system, regardless of any award, agreement or contract.\n\nWhat are the maximum weekly hours of work?\nAn employer must not request or require an employee to work more than the following hours in a week, unless additional hours are reasonable:\n- Full-time employee: 38 hours (unless their award or EA specifies different hours)\n- Other employees: the lesser of 38 hours OR the employee's agreed ordinary hours\n\nHours worked include any hours of leave or absence (paid or unpaid under the NES) authorised by the employer or by law.\n\nAn employee may REFUSE to work additional hours if they are unreasonable.\n\nWhat factors determine whether additional hours are reasonable?\n- Risk to employee health and safety\n- Employee's personal circumstances, including family responsibilities\n- Needs of the workplace or enterprise\n- Whether the employee is entitled to receive overtime payments, penalty rates or other compensation\n- Notice given by the employer to work the additional hours\n- Notice given by the employee of their intention to refuse\n- Usual patterns of work in the industry\n- Nature of the employee's role and level of responsibility\n- Whether additional hours are in accordance with averaging provisions in an award or agreement\n- Any other relevant matter\n\nAveraging arrangements:\nAn award or agreement may allow for the averaging of hours over a period greater than a week. Average weekly hours must not exceed 38 (full-time) or the employee's agreed ordinary hours (others), unless additional hours are reasonable.\n\nFor award/agreement free employees: Employers and employees may agree in WRITING to average ordinary hours over a maximum of 26 weeks. Average weekly hours must not exceed 38 (full-time) or employee's ordinary hours (others).\n\nNote: Award/agreement-free employees are NOT entitled to a higher rate of pay for overtime under the FW Act.\n\nNo requirement to enter an averaging arrangement \u2014 it is optional. It is unlawful for an employer to force an employee to make or not make an averaging arrangement.\n\nSource: Fair Work Act 2009",
+  "key_facts": {
+    "maximum_ordinary_hours_full_time": 38,
+    "maximum_ordinary_hours_part_time": "As per their agreement (not more than 38)",
+    "additional_hours_permitted": "Reasonable additional hours only",
+    "employee_can_refuse_unreasonable_overtime": true,
+    "factors_for_reasonableness": [
+      "risk to health and safety",
+      "personal circumstances",
+      "notice given",
+      "nature of work",
+      "usual patterns of work"
+    ],
+    "legislation": "Fair Work Act 2009 (Cth) s.62"
+  }
 }

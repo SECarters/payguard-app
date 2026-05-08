@@ -3,5 +3,18 @@
   "title": "When overtime applies",
   "section": "Hours of Work",
   "scraped_at": "2026-05-08T08:31:00Z",
-  "content": "When overtime applies\n\nWhat is overtime?\nOvertime is work performed by an employee OUTSIDE the ordinary hours that are set out in the award, enterprise agreement, other registered agreement or employment contract. It can include work done:\n- beyond their maximum daily or weekly ordinary hours of work\n- outside a part-time employee's agreed number of hours\n- outside the spread of ordinary hours\n\nThe spread of hours is the times of the day ordinary hours can be worked (for example, between 7am - 7pm).\n\nWhen overtime rates apply:\nAn award, enterprise agreement, other registered agreement or employment contract can set out when an employee can be required to work overtime and when overtime rates apply. For example, some awards say that an employer can require an employee to work overtime where reasonable.\n\nOvertime above maximum weekly hours:\nEmployers can only request or require employees to work more than their maximum weekly hours where the additional hours are REASONABLE. Employees can REFUSE to work overtime that unreasonably exceeds the maximum weekly hours.\n\nHealth and safety implications of working long hours (fatigue) must be considered.\n\nSource: Fair Work Act 2009 section 62"
+  "content": "When overtime applies\n\nWhat is overtime?\nOvertime is work performed by an employee OUTSIDE the ordinary hours that are set out in the award, enterprise agreement, other registered agreement or employment contract. It can include work done:\n- beyond their maximum daily or weekly ordinary hours of work\n- outside a part-time employee's agreed number of hours\n- outside the spread of ordinary hours\n\nThe spread of hours is the times of the day ordinary hours can be worked (for example, between 7am - 7pm).\n\nWhen overtime rates apply:\nAn award, enterprise agreement, other registered agreement or employment contract can set out when an employee can be required to work overtime and when overtime rates apply. For example, some awards say that an employer can require an employee to work overtime where reasonable.\n\nOvertime above maximum weekly hours:\nEmployers can only request or require employees to work more than their maximum weekly hours where the additional hours are REASONABLE. Employees can REFUSE to work overtime that unreasonably exceeds the maximum weekly hours.\n\nHealth and safety implications of working long hours (fatigue) must be considered.\n\nSource: Fair Work Act 2009 section 62",
+  "key_facts": {
+    "overtime_definition": "Work performed OUTSIDE ordinary hours set by award, agreement, or contract",
+    "overtime_triggers": [
+      "beyond maximum daily ordinary hours",
+      "beyond weekly ordinary hours",
+      "outside part-time agreed hours",
+      "outside spread of hours"
+    ],
+    "employee_can_refuse_unreasonable_overtime": true,
+    "employer_can_require_overtime_only_if": "Reasonable (per award/agreement)",
+    "fatigue_and_safety_must_be_considered": true,
+    "legislation": "Fair Work Act 2009 (Cth) s.62"
+  }
 }

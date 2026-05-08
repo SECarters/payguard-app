@@ -4,11 +4,45 @@
   "section": "National Employment Standards",
   "scraped_at": "2026-05-08T08:25:00Z",
   "headings": [
-    {"level": "h1", "text": "National Employment Standards"},
-    {"level": "h2", "text": "Minimum entitlements for employees"},
-    {"level": "h2", "text": "List of minimum NES entitlements"},
-    {"level": "h2", "text": "Who the NES covers"},
-    {"level": "h3", "text": "Casual employees and the NES"}
+    {
+      "level": "h1",
+      "text": "National Employment Standards"
+    },
+    {
+      "level": "h2",
+      "text": "Minimum entitlements for employees"
+    },
+    {
+      "level": "h2",
+      "text": "List of minimum NES entitlements"
+    },
+    {
+      "level": "h2",
+      "text": "Who the NES covers"
+    },
+    {
+      "level": "h3",
+      "text": "Casual employees and the NES"
+    }
   ],
-  "content": "National Employment Standards (NES)\n\nThe NES are the minimum employment entitlements that have to be provided to all employees.\n\nOther workplace instruments can't provide for conditions that are less than the NES. This includes an award, employment contract, enterprise agreement or other registered agreement.\n\nEmployers have to give every new employee a copy of the Fair Work Information Statement (FWIS) when they start. Employers also have to give every new casual employee a copy of the Casual Employment Information Statement (CEIS) when they start, and at set times throughout their employment.\n\nList of minimum NES entitlements:\n1. Maximum weekly hours\n2. Requests for flexible working arrangements\n3. Casual employment\n4. Parental leave and related entitlements\n5. Annual leave\n6. Personal/carer's leave, compassionate leave and family and domestic violence leave\n7. Community service leave\n8. Long service leave\n9. Public holidays\n10. Superannuation contributions\n11. Notice of termination and redundancy pay\n12. Fair Work Information Statement (FWIS) and Casual Employment Information Statement (CEIS)\n\nWho the NES covers:\nAll employees in the national workplace relations system are covered by the NES. This is regardless of the award, registered agreement or employment contract that applies.\n\nCasual employees and the NES:\nCasual employees only get SOME NES entitlements including:\n- employee choice about casual employment\n- paid family and domestic violence leave\n- unpaid carer's leave\n- unpaid compassionate leave\n- unpaid community service leave\n- the FWIS and the CEIS\n\nCasual employees can request flexible working arrangements and take unpaid parental leave if:\n- they have been employed as a casual employee on a regular and systematic basis over at least 12 months, AND\n- they reasonably expect to continue being employed on a regular and systematic basis\n\nSource: Fair Work Act 2009 sections 13, 30C, 30M, 55, 61"
+  "content": "National Employment Standards (NES)\n\nThe NES are the minimum employment entitlements that have to be provided to all employees.\n\nOther workplace instruments can't provide for conditions that are less than the NES. This includes an award, employment contract, enterprise agreement or other registered agreement.\n\nEmployers have to give every new employee a copy of the Fair Work Information Statement (FWIS) when they start. Employers also have to give every new casual employee a copy of the Casual Employment Information Statement (CEIS) when they start, and at set times throughout their employment.\n\nList of minimum NES entitlements:\n1. Maximum weekly hours\n2. Requests for flexible working arrangements\n3. Casual employment\n4. Parental leave and related entitlements\n5. Annual leave\n6. Personal/carer's leave, compassionate leave and family and domestic violence leave\n7. Community service leave\n8. Long service leave\n9. Public holidays\n10. Superannuation contributions\n11. Notice of termination and redundancy pay\n12. Fair Work Information Statement (FWIS) and Casual Employment Information Statement (CEIS)\n\nWho the NES covers:\nAll employees in the national workplace relations system are covered by the NES. This is regardless of the award, registered agreement or employment contract that applies.\n\nCasual employees and the NES:\nCasual employees only get SOME NES entitlements including:\n- employee choice about casual employment\n- paid family and domestic violence leave\n- unpaid carer's leave\n- unpaid compassionate leave\n- unpaid community service leave\n- the FWIS and the CEIS\n\nCasual employees can request flexible working arrangements and take unpaid parental leave if:\n- they have been employed as a casual employee on a regular and systematic basis over at least 12 months, AND\n- they reasonably expect to continue being employed on a regular and systematic basis\n\nSource: Fair Work Act 2009 sections 13, 30C, 30M, 55, 61",
+  "key_facts": {
+    "nes_count": 11,
+    "nes_entitlements": [
+      "Maximum weekly hours (38 hours + reasonable additional)",
+      "Flexible working arrangements",
+      "Parental leave and related entitlements",
+      "Annual leave (4 weeks/year full-time)",
+      "Personal/carer's leave and compassionate leave",
+      "Community service leave",
+      "Long service leave",
+      "Public holidays",
+      "Notice of termination and redundancy pay",
+      "Fair Work Information Statement",
+      "Casual Employment Information Statement (casuals)"
+    ],
+    "nes_applies_to": "All employees covered by the national workplace relations system",
+    "cannot_be_excluded_by_contract_or_award": true,
+    "legislation": "Fair Work Act 2009 (Cth) Part 2-2 (ss.61\u2013131)"
+  }
 }
