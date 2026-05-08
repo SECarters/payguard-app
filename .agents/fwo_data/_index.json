@@ -1,0 +1,12 @@
+{
+  "scraped_at": "2026-05-08T08:16:17.910001",
+  "total_pages": 0,
+  "failed_count": 1,
+  "pages": [],
+  "failed": [
+    {
+      "url": "https://www.fairwork.gov.au/employment-conditions",
+      "error": "HTTPSConnectionPool(host='www.fairwork.gov.au', port=443): Read timed out. (read timeout=15)"
+    }
+  ]
+}
