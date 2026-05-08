@@ -1,0 +1,86 @@
+{
+  "type": "object",
+  "properties": {
+    "full_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string",
+      "enum": [
+        "ACT",
+        "NSW",
+        "NT",
+        "QLD",
+        "SA",
+        "TAS",
+        "VIC",
+        "WA"
+      ]
+    },
+    "employment_type": {
+      "type": "string",
+      "enum": [
+        "Full-time",
+        "Part-time",
+        "Casual"
+      ]
+    },
+    "industry": {
+      "type": "string"
+    },
+    "award_name": {
+      "type": "string"
+    },
+    "award_code": {
+      "type": "string"
+    },
+    "classification_level": {
+      "type": "string"
+    },
+    "job_title": {
+      "type": "string"
+    },
+    "employer_name": {
+      "type": "string"
+    },
+    "employment_start_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "pay_rate": {
+      "type": "number"
+    },
+    "pay_rate_type": {
+      "type": "string",
+      "enum": [
+        "Hourly",
+        "Annual Salary"
+      ]
+    },
+    "has_written_contract": {
+      "type": "boolean"
+    },
+    "no_contract_acknowledged": {
+      "type": "boolean"
+    },
+    "onboarding_complete": {
+      "type": "boolean"
+    },
+    "preferred_report_depth": {
+      "type": "string",
+      "enum": [
+        "Basic",
+        "In-depth",
+        "Forensic"
+      ]
+    }
+  },
+  "required": [],
+  "name": "UserProfile"
+}

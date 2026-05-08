@@ -1,0 +1,94 @@
+{
+  "type": "object",
+  "properties": {
+    "user_profile_id": {
+      "type": "string"
+    },
+    "audit_name": {
+      "type": "string"
+    },
+    "pay_period_start": {
+      "type": "string",
+      "format": "date"
+    },
+    "pay_period_end": {
+      "type": "string",
+      "format": "date"
+    },
+    "report_depth": {
+      "type": "string",
+      "enum": [
+        "Basic",
+        "In-depth",
+        "Forensic"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Pending",
+        "Processing",
+        "Complete",
+        "Error"
+      ]
+    },
+    "risk_rating": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Moderate",
+        "High",
+        "Critical"
+      ]
+    },
+    "uploaded_files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "file_url": {
+            "type": "string"
+          },
+          "file_name": {
+            "type": "string"
+          },
+          "file_type": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "raw_payslip_data": {
+      "type": "object"
+    },
+    "executive_summary": {
+      "type": "string"
+    },
+    "full_report": {
+      "type": "string"
+    },
+    "estimated_underpayment": {
+      "type": "number"
+    },
+    "discrepancies_found": {
+      "type": "boolean"
+    },
+    "no_contract_flag": {
+      "type": "boolean"
+    },
+    "award_applied": {
+      "type": "string"
+    },
+    "classification_applied": {
+      "type": "string"
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [],
+  "name": "PayslipAudit"
+}
