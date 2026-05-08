@@ -1,0 +1,81 @@
+{
+  "type": "object",
+  "properties": {
+    "workflow_id": {
+      "type": "string"
+    },
+    "phase": {
+      "type": "string",
+      "enum": [
+        "preflight",
+        "postflight"
+      ]
+    },
+    "attempt": {
+      "type": "number"
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string"
+    },
+    "question": {
+      "type": "string"
+    },
+    "answer_key": {
+      "type": "string"
+    },
+    "accepted_variants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "validation_method": {
+      "type": "string"
+    },
+    "validation_rubric": {
+      "type": "object"
+    },
+    "source_reference": {
+      "type": "string"
+    },
+    "worker_response": {
+      "type": "string"
+    },
+    "worker_reasoning": {
+      "type": "string"
+    },
+    "worker_confidence": {
+      "type": "string"
+    },
+    "gate_status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "open",
+        "closed",
+        "failed",
+        "escalated"
+      ]
+    },
+    "passed": {
+      "type": "boolean"
+    },
+    "score": {
+      "type": "number"
+    },
+    "score_breakdown": {
+      "type": "object"
+    },
+    "reason": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "WorkflowCheckpoint"
+}

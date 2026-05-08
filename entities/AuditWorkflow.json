@@ -1,0 +1,92 @@
+{
+  "type": "object",
+  "properties": {
+    "audit_id": {
+      "type": "string"
+    },
+    "user_profile_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "created",
+        "preflight_pending",
+        "preflight_failed",
+        "preflight_passed",
+        "analysis_running",
+        "analysis_complete",
+        "deterministic_validation",
+        "deterministic_failed",
+        "postflight_pending",
+        "postflight_failed",
+        "postflight_passed",
+        "review_pending",
+        "released",
+        "escalated"
+      ]
+    },
+    "current_phase": {
+      "type": "string"
+    },
+    "preflight_passed": {
+      "type": "boolean"
+    },
+    "preflight_attempts": {
+      "type": "number"
+    },
+    "deterministic_passed": {
+      "type": "boolean"
+    },
+    "deterministic_errors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "deterministic_warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "postflight_passed": {
+      "type": "boolean"
+    },
+    "postflight_attempts": {
+      "type": "number"
+    },
+    "review_passed": {
+      "type": "boolean"
+    },
+    "review_critique": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "can_release": {
+      "type": "boolean"
+    },
+    "escalated": {
+      "type": "boolean"
+    },
+    "escalation_reason": {
+      "type": "string"
+    },
+    "error_log": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "worker_output": {
+      "type": "object"
+    },
+    "final_report_id": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "AuditWorkflow"
+}
